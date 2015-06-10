@@ -1,7 +1,7 @@
 """
-Deployment script for wikilabels setup on Wikimedia Labs
+Deployment script for Wiki Labels setup on Wikimedia Labs
 
-Fabric script for doing multiple operations on wikilabels servers,
+Fabric script for doing multiple operations on Wiki Labels servers,
 both production and staging.
 
 ## Setting up a new server ##
@@ -27,7 +27,7 @@ this! You can run this with:
 
     fab stage
 
-This updates the staging server (ores-staging.wmflabs.org) with code from
+This updates the staging server (labels-staging.wmflabs.org) with code from
 the staging branch, and restarts uwsgi so the changes take effect.
 
 ## Deploying a code update to 'production' ##
@@ -38,23 +38,23 @@ This can be simply run by:
 
     fab deploy
 
-This updates all the web workers of ores to the new code and restarts them.
+This updates all the web workers of wikilabels to the new code and restarts them.
 """
 from fabric.api import cd, env, roles, shell_env, sudo
 
 env.roledefs = {
-    'web': ['ores-web-01.eqiad.wmflabs', 'ores-web-02.eqiad.wmflabs'],
-    'staging': ['ores-staging.eqiad.wmflabs'],
+    'web': ['labels-web-01.eqiad.wmflabs', 'labels-web-02.eqiad.wmflabs'],
+    'staging': ['labels-staging.eqiad.wmflabs'],
 }
 env.use_ssh_config = True
 
-src_dir = '/srv/ores/src'
-venv_dir = '/srv/ores/venv'
-data_dir = '/srv/ores/data'
+src_dir = '/srv/wikilabels/src'
+venv_dir = '/srv/wikilabels/venv'
+data_dir = '/srv/wikilabels/data'
 
 
 def sr(*cmd):
-    with shell_env(HOME='/srv/ores'):
+    with shell_env(HOME='/srv/wikilabels'):
         return sudo(' '.join(cmd), user='www-data', group='www-data')
 
 
@@ -73,11 +73,6 @@ def initialize_server():
     sr('mkdir', '-p', venv_dir)
     sr('virtualenv', '--python', 'python3', '--system-site-packages', venv_dir)
     update_virtualenv()
-    sr(venv_dir + '/bin/python', '-m', 'nltk.downloader',
-       '-d', data_dir + '/nltk',
-       'wordnet', 'omw', 'stopwords')
-    sr('git', 'clone', 'https://github.com/yuvipanda/ores-models.git',
-       '/srv/ores/src/models')
     restart_uwsgi()
 
 
