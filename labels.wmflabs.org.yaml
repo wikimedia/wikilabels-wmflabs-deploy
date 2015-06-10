@@ -1,6 +1,8 @@
+wikilabels:
+  form_directory: forms/enabled
+
 wsgi:
   host: labels.wmflabs.org
-  form_directory: forms/enabled
   application_root: ""
   url_prefix: ""
 
@@ -12,4 +14,4 @@ database:
 
 oauth:
   mw_uri: https://www.mediawiki.org/w/index.php
-  credentials: oauth.yaml
+  creds: oauth-wikimedia.yaml
