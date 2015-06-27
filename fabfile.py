@@ -66,13 +66,20 @@ def initialize_server():
 
     - Creates the virtualenv
     - Installs virtualenv
-    - Installs nltk corpuses
-    - Installs the model files
+    - Create psql user 'wikilabels'
+    - Initialize database
     """
     update_git()
     sr('mkdir', '-p', venv_dir)
     sr('virtualenv', '--python', 'python3', '--system-site-packages', venv_dir)
     update_virtualenv()
+
+    # Create psql user & db
+    sudo('createuser', 'wikilabels', '--createdb')
+
+    # Initialize database (will not overwrite if exists)
+    sr('wikilabels', 'initialize_db', 'config/ores.wmflabs.org.yaml')
+
     restart_uwsgi()
 
 
