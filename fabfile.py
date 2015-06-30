@@ -73,6 +73,7 @@ def stage():
     """
     update_config('staging')
     upgrade_requirements()
+    upload_oauth_creds()
     restart_uwsgi()
 
 @roles('database')
