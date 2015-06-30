@@ -13,9 +13,8 @@ can initialize it with:
 
 This:
     1. Sets up the virtualenv appropriately
-    2. Downloads NLTK corpuses
-    3. Sets up latest models
-    4. Does a deploy / restarts uwsgi
+    2. Sets up latest models
+    3. Does a deploy / restarts uwsgi
 
 For first time use, just doing this step should provide a working server!
 
@@ -36,55 +35,93 @@ This pushes the 'deploy' branch to the production servers. Make sure to push
 the changes you want deployed to the 'deploy' branch before running this!
 This can be simply run by:
 
-    fab deploy
+    fab deploy_web
 
 This updates all the web workers of wikilabels to the new code and restarts them.
 """
-from fabric.api import cd, env, roles, shell_env, sudo
+from fabric.api import cd, env, put, roles, shell_env, sudo
 
 env.roledefs = {
-    'web': ['labels-web-01.eqiad.wmflabs', 'labels-web-02.eqiad.wmflabs'],
+    'web': ['labels-web.eqiad.wmflabs'],
     'staging': ['labels-staging.eqiad.wmflabs'],
+    'database': ['labels-database.eqiad.wmflabs'],
 }
 env.use_ssh_config = True
 
 src_dir = '/srv/wikilabels/src'
 venv_dir = '/srv/wikilabels/venv'
-data_dir = '/srv/wikilabels/data'
-
 
 def sr(*cmd):
     with shell_env(HOME='/srv/wikilabels'):
         return sudo(' '.join(cmd), user='www-data', group='www-data')
 
 
-def initialize_server():
+@roles('web')
+def deploy_web():
     """
-    Setup an initial deployment on a fresh host.
-
-    This currently does:
-
-    - Creates the virtualenv
-    - Installs virtualenv
-    - Create psql user 'wikilabels'
-    - Initialize database
+    Deploys updated code to the web server
     """
-    update_git()
-    sr('mkdir', '-p', venv_dir)
-    sr('virtualenv', '--python', 'python3', '--system-site-packages', venv_dir)
-    update_virtualenv()
+    update_config()
+    upgrade_requirements()
+    upload_oauth_creds()
+    restart_uwsgi()
+
+@roles('staging')
+def stage():
+    """
+    Deployes updated code to the staging server
+    """
+    update_config('staging')
+    upgrade_requirements()
+    restart_uwsgi()
+
+@roles('database')
+def setup_db():
+    """
+    Initializes the database node
+    """
+
+    # Install requirements
+    upgrade_requirements()
 
     # Create psql user & db
     sudo('createuser', 'wikilabels', '--createdb')
 
-    # Initialize database (will not overwrite if exists)
-    sr('wikilabels', 'initialize_db', 'config/ores.wmflabs.org.yaml')
-
-    restart_uwsgi()
-
+    # Load schema (will not overwrite data if exists)
+    sr('wikilabels', 'load_schema', 'config/ores.wmflabs.org.yaml')
 
 @roles('web')
-def update_git(branch='deploy'):
+def setup_web():
+    """
+    Initializes a web server node
+    """
+
+    # Install requirements
+    upgrade_requirements()
+
+    # Restart uWSGI
+    restart_uwsgi()
+
+def install_wikilabels():
+    """
+    Setup an initial deployment on a fresh host.
+    """
+
+    # Updates current version of wikilabels-wikimedia-config
+    update_config()
+
+    # Sets up a virtualenv directory
+    sr('mkdir', '-p', venv_dir)
+    sr('virtualenv', '--python', 'python3', '--system-site-packages', venv_dir)
+
+    # Updates the virtualenv with new wikilabels code
+    update_requirements()
+
+@roles('web')
+def update_config(branch='deploy'):
+    """
+    Updates the service configuration
+    """
     with cd(src_dir):
         sr('git', 'fetch', 'origin')
         sr('git', 'reset', '--hard', 'origin/%s' % branch)
@@ -92,27 +129,25 @@ def update_git(branch='deploy'):
 
 @roles('web')
 def restart_uwsgi():
+    """
+    Restarts the uWSGI server
+    """
     sudo('uwsgictl restart')
 
 
 @roles('web')
-def deploy_web():
-    update_git()
-    restart_uwsgi()
-
-
-@roles('web')
-def update_virtualenv():
+def upgrade_requirements():
+    """
+    Installs upgraded versions of requirements (if applicable)
+    """
     sr(venv_dir + '/bin/pip', 'install', '--upgrade',
        '-r', src_dir + '/requirements.txt')
 
-
-@roles('staging')
-def stage():
-    update_git('staging')
-    update_virtualenv()
-    restart_uwsgi()
-
+@roles('web')
+def upload_oauth_creds():
+    put("oauth-wikimedia.yaml", '/srv/wikilabels/src/', use_sudo=True)
+    sudo('chown', 'www-data:www-data',
+         '/srv/wikilabels/src/oauth-wikimedia.yaml')
 
 def run_puppet():
     sudo('puppet agent -tv')
