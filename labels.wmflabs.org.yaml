@@ -7,7 +7,7 @@ wsgi:
   url_prefix: ""
 
 database:
-  host: localhost
+  host: wikilabels-database
   user: wikilabels
   database: wikilabels
   password: wikilabels-admin
