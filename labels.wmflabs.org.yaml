@@ -10,7 +10,7 @@ database:
   host: wikilabels-database
   user: wikilabels
   database: wikilabels
-  password: wikilabels-admin
+  password: ""
 
 oauth:
   mw_uri: https://www.mediawiki.org/w/index.php
