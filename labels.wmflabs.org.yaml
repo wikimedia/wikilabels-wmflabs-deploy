@@ -5,6 +5,9 @@ wsgi:
   application_root: ""
   url_prefix: ""
 
+database:
+  config: wikilabels-db-config.yaml
+
 oauth:
   mw_uri: https://www.mediawiki.org/w/index.php
   creds: oauth-wikimedia.yaml
