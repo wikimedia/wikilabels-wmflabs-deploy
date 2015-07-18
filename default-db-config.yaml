@@ -1,0 +1,4 @@
+host: wikilabels-database
+user: wikilabels
+database: wikilabels
+password: wikilabels-admin

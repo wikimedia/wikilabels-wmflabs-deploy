@@ -9,6 +9,12 @@ both production and staging.
 This assumes that the puppet role has been applied, and then you
 can initialize it with:
 
+For staging:
+
+    fab initialize_staging_server:hosts="<fqdn1>;<fqdn2>"
+
+For production:
+
     fab initialize_server:hosts="<fqdn1>;<fqdn2>"
 
 This:
@@ -35,120 +41,121 @@ This pushes the 'deploy' branch to the production servers. Make sure to push
 the changes you want deployed to the 'deploy' branch before running this!
 This can be simply run by:
 
-    fab deploy_web
+    fab deploy
 
 This updates all the web workers of wikilabels to the new code and restarts them.
 """
 from fabric.api import cd, env, put, roles, shell_env, sudo
+import os
 
 env.roledefs = {
     'web': ['labels-web.eqiad.wmflabs'],
-    'staging': ['labels-staging.eqiad.wmflabs'],
-    'database': ['labels-database.eqiad.wmflabs'],
+    'staging': ['wikilabels-test.eqiad.wmflabs'],
 }
 env.use_ssh_config = True
+env.shell = '/bin/bash -c'
 
-src_dir = '/srv/wikilabels/src'
+config_dir = '/srv/wikilabels/config'
 venv_dir = '/srv/wikilabels/venv'
+db_config_file = 'wikilabels-db-config.yaml'
+oauth_creds_file = 'oauth-wikimedia.yaml'
+
 
 def sr(*cmd):
     with shell_env(HOME='/srv/wikilabels'):
-        return sudo(' '.join(cmd), user='www-data', group='www-data')
+        return sudo(' '.join(cmd), user='www-data')
 
 
 @roles('web')
-def deploy_web():
+def deploy():
     """
     Deploys updated code to the web server
     """
     update_config()
     upgrade_requirements()
-    upload_oauth_creds()
     restart_uwsgi()
 
+
 @roles('staging')
-def stage():
+def stage(branch='master'):
     """
     Deployes updated code to the staging server
     """
-    update_config('staging')
+    update_config(branch)
     upgrade_requirements()
-    upload_oauth_creds()
     restart_uwsgi()
 
-@roles('database')
+
 def setup_db():
     """
-    Initializes the database node
+    Loads the db schema (will not overwrite data if exists)
     """
+    sr(venv_dir + '/bin/wikilabels', 'load_schema',
+        os.path.join(config_dir, db_config_file))
 
-    # Install requirements
-    upgrade_requirements()
 
-    # Create psql user & db
-    sudo('createuser', 'wikilabels', '--createdb')
+def initialize_staging_server():
+    initialize_server('master')
 
-    # Load schema (will not overwrite data if exists)
-    sr('wikilabels', 'load_schema', 'config/ores.wmflabs.org.yaml')
 
-@roles('web')
-def setup_web():
-    """
-    Initializes a web server node
-    """
-
-    # Install requirements
-    upgrade_requirements()
-
-    # Restart uWSGI
-    restart_uwsgi()
-
-def install_wikilabels():
+def initialize_server(branch='deploy'):
     """
     Setup an initial deployment on a fresh host.
     """
-
-    # Updates current version of wikilabels-wikimedia-config
-    update_config()
-
     # Sets up a virtualenv directory
     sr('mkdir', '-p', venv_dir)
-    sr('virtualenv', '--python', 'python3', '--system-site-packages', venv_dir)
+    sr('virtualenv', '--python', 'python3', venv_dir)
+
+    # Updates current version of wikilabels-wikimedia-config
+    update_config(branch)
 
     # Updates the virtualenv with new wikilabels code
-    update_requirements()
+    upgrade_requirements()
 
-@roles('web')
+    # Uploads the db and oauth creds to the server
+    upload_creds(branch)
+
+    # Initialize DB
+    setup_db()
+
+
 def update_config(branch='deploy'):
     """
     Updates the service configuration
     """
-    with cd(src_dir):
+    with cd(config_dir):
         sr('git', 'fetch', 'origin')
         sr('git', 'reset', '--hard', 'origin/%s' % branch)
 
 
-@roles('web')
 def restart_uwsgi():
     """
     Restarts the uWSGI server
     """
-    sudo('uwsgictl restart')
+    sudo('service uwsgi-wikilabels-web restart')
 
 
-@roles('web')
 def upgrade_requirements():
     """
     Installs upgraded versions of requirements (if applicable)
     """
-    sr(venv_dir + '/bin/pip', 'install', '--upgrade',
-       '-r', src_dir + '/requirements.txt')
+    with cd(venv_dir):
+        sr(venv_dir + '/bin/pip', 'install', '--upgrade', '-r',
+            os.path.join(config_dir, 'requirements.txt'))
 
-@roles('web')
-def upload_oauth_creds():
-    put("oauth-wikimedia.yaml", '/srv/wikilabels/src/', use_sudo=True)
-    sudo('chown', 'www-data:www-data',
-         '/srv/wikilabels/src/oauth-wikimedia.yaml')
+
+def upload_creds(branch='deploy'):
+    """
+    Uploads config files to server
+    """
+    # Upload oauth creds
+    put(oauth_creds_file, config_dir, use_sudo=True)
+    sudo("chown www-data:www-data " + os.path.join(config_dir, oauth_creds_file))
+
+    # Upload postgres db config
+    put(branch + "-db-config.yaml", os.path.join(config_dir, db_config_file),
+        use_sudo=True)
+
 
 def run_puppet():
     sudo('puppet agent -tv')

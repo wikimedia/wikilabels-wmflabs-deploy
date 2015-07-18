@@ -7,6 +7,9 @@ from wikilabels.wsgi import server
 import yamlconf
 
 config = yamlconf.load(open("labels.wmflabs.org.yaml"))
+# FIXME: DON'T DO THIS
+db_config = config['database']['config']
+config['database'] = yamlconf.load(open(db_config))
 
 application = server.configure(config)
 application.debug = True
