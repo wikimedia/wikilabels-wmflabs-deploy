@@ -2,15 +2,8 @@ wikilabels:
   form_directory: forms/enabled
 
 wsgi:
-  host: labels.wmflabs.org
   application_root: ""
   url_prefix: ""
-
-database:
-  host: wikilabels-database
-  user: wikilabels
-  database: wikilabels
-  password: ""
 
 oauth:
   mw_uri: https://www.mediawiki.org/w/index.php

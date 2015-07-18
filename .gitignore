@@ -1,0 +1,4 @@
+*.pyc
+oauth-wikimedia.yaml
+master-db-config.yaml
+deploy-db-config.yaml
