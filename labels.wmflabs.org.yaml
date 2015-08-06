@@ -2,6 +2,7 @@ wikilabels:
   form_directory: forms/enabled
 
 wsgi:
+  host: labels.wmflabs.org
   application_root: ""
   url_prefix: ""
 
