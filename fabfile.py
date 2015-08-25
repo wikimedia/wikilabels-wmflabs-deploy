@@ -49,7 +49,7 @@ from fabric.api import cd, env, put, roles, shell_env, sudo
 import os
 
 env.roledefs = {
-    'web': ['labels-web.eqiad.wmflabs'],
+    'web': ['wikilabels-01.wikilabels.eqiad.wmflabs'],
     'staging': ['wikilabels-test.eqiad.wmflabs'],
 }
 env.use_ssh_config = True
