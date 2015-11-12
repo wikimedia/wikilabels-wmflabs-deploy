@@ -61,7 +61,7 @@ i18n:
     goodfaith-yes-tooltip: "Yes this edit appears to have been made in good-faith."
     goodfaith-no-label: "No"
     goodfaith-no-tooltip: "No this edit appears to have been made in bad-faith."
-  es
+  es:
     unsure-label: "¿Inseguro?"
     damaging-label: "¿Dañina?"
     damaging-help: "¿Revertirías esta edición?"
@@ -103,7 +103,7 @@ i18n:
     goodfaith-yes-tooltip: "Oui cette modification semble de bonne intention"
     goodfaith-no-label: "Non"
     goodfaith-no-tooltip: "Non cette modification semble avoir été faite avec de mauvaises intentions"
-  he
+  he:
     unsure-label: "לא בטוח?"
     damaging-label: "מזיק?"
     damaging-help: "האם היית משחזר את העריכה הזאת?"
@@ -131,7 +131,7 @@ i18n:
     goodfaith-yes-tooltip: "Iya, suntingan ini sepertinya dibuat dengan niat baik."
     goodfaith-no-label: "Tidak"
     goodfaith-no-tooltip: "Tidak, suntingan ini sepertinya dibuat dengan niat buruk."
-  ja
+  ja:
     unsure-label: "不正確ですか？"
     damaging-label: "破壊的な編集ですか？"
     damaging-help: "この編集を取り消しますか？"
@@ -145,7 +145,7 @@ i18n:
     goodfaith-yes-tooltip: "「はい」とは、この編集は善意によってなされたものという意味です。"
     goodfaith-no-label: "いいえ"
     goodfaith-no-tooltip: "「いいえ」とは、この編集は悪意を持ってなされたものという意味です。"
-  pl
+  pl:
     unsure-label: "Niepewny?"
     damaging-label: "Nieprawidłowa?"
     damaging-help: "Czy wycofałbyś tę edycję?"
@@ -173,7 +173,7 @@ i18n:
     goodfaith-yes-tooltip: "Sim esta edição parece ter sido feita de boa fé."
     goodfaith-no-label: "Não"
     goodfaith-no-tooltip: "Não esta edição parece ter sido feita de má fé."
-  ru
+  ru:
     unsure-label: "Не уверены?"
     damaging-label: "Правка вредоносная?"
     damaging-help: "Вы бы отменили эту правку?"
@@ -215,7 +215,7 @@ i18n:
     goodfaith-yes-tooltip: "Так, це редагування схоже на зроблене з добрими намірами."
     goodfaith-no-label: "Ні"
     goodfaith-no-tooltip: "Ні, це редагування схоже на зроблене з поганими намірами."
-  zh
+  zh:
     unsure-label: "不确定？"
     damaging-label: "破坏性编辑?"
     damaging-help: "您是否要回退此次编辑？"
