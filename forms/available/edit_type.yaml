@@ -37,6 +37,7 @@ fields:
       name: "notes"
       class: "TextInputWidget"
       multiline: true
+      autosize: true
 
 i18n:
   en:
