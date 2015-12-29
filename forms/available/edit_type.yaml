@@ -67,7 +67,7 @@ i18n:
     semantic-labels-label: Choose as semantic meaning
     # Semantic meanings
     link-disambig-label: Link Disambiguation
-    link-disambig-description: 	redirect, repair a dead link, link modification
+    link-disambig-description: redirect, repair a dead link, link modification
     fact-update-label: Fact Update
     fact-update-description: update numbers, dates, scores, table, etc.. correct inaccuracies
     formatting-label: Formatting
