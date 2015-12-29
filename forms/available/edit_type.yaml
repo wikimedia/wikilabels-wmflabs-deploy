@@ -164,6 +164,8 @@ i18n:
     cleanup-description:
     vandalism-label: Atti vandalici
     vandalism-description:
+    anti-vandalism-label: Anti-vandalism
+    anti-vandalism-description: revert or remove vandal content
     npov-label: Neutralità
     npov-description:
     clarify-label: Precisazione
