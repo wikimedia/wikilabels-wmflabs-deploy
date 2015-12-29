@@ -5,31 +5,54 @@ fields:
     name: "semantic_labels"
     meaningsLabel: "<semantic-labels-label>"
     meanings:
-      - {"label": "<link-disambig-label>", "value": "link-disambig"}
-      - {"label": "<fact-update-label>", "value": "fact-update"}
-      - {"label": "<formatting-label>", "value": "formatting"}
-      - {"label": "<verifiability-label>", "value": "verifiability"}
-      - {"label": "<cleanup-label>", "value": "cleanup"}
-      - {"label": "<vandalism-label>", "value": "vandalism"}
-      - {"label": "<npov-label>", "value": "npov"}
-      - {"label": "<clarify-label>", "value": "clarify"}
-      - {"label": "<elaborate-label>", "value": "elaborate"}
-      - {"label": "<copy-edit-label>", "value": "copy-edit"}
+      - {"label": "<link-disambig-label>", "value": "link-disambig",
+         "description": <link-disambig-description>}
+      - {"label": "<fact-update-label>", "value": "fact-update",
+         "description": "<fact-update-description>"}
+      - {"label": "<formatting-label>", "value": "formatting",
+         "description": "<formatting-description>"}
+      - {"label": "<verifiability-label>", "value": "verifiability",
+         "description": "<verifiability-description>"}
+      - {"label": "<cleanup-label>", "value": "cleanup",
+         "description": "<cleanup-description>"}
+      - {"label": "<vandalism-label>", "value": "vandalism",
+         "description": "<vandalism-description>"}
+      - {"label": "<npov-label>", "value": "npov",
+         "description": "<npov-description>"}
+      - {"label": "<clarify-label>", "value": "clarify",
+         "description": "<clarify-description>"}
+      - {"label": "<elaborate-label>", "value": "elaborate",
+         "description": "<elaborate-description>"}
+      - {"label": "<copy-edit-label>", "value": "copy-edit",
+         "description": "<copy-edit-description>"}
     objects:
-      - {"label": "<wikilink-label>", "value": "wikilink"}
-      - {"label": "<inter-wikilink-label>", "value": "inter-wikilink"}
-      - {"label": "<external-link-label>", "value": "external-link"}
-      - {"label": "<ref-label>", "value": "ref"}
-      - {"label": "<cat-label>", "value": "cat"}
-      - {"label": "<heading-label>", "value": "heading"}
-      - {"label": "<table-label>", "value": "table"}
-      - {"label": "<image-label>", "value": "image"}
-      - {"label": "<sentence-label>", "value": "sentence"}
-      - {"label": "<word-label>", "value": "word"}
+      - {"label": "<wikilink-label>", "value": "wikilink",
+         "description": "<wikilink-description>"}
+      - {"label": "<inter-wikilink-label>", "value": "inter-wikilink",
+         "description": "<inter-wikilink-description>"}
+      - {"label": "<external-link-label>", "value": "external-link",
+         "description": "<external-link-description>"}
+      - {"label": "<ref-label>", "value": "ref",
+         "description": "<ref-description>"}
+      - {"label": "<cat-label>", "value": "cat",
+         "description": "<cat-description>"}
+      - {"label": "<heading-label>", "value": "heading",
+         "description": "<heading-description>"}
+      - {"label": "<table-label>", "value": "table",
+         "description": "<table-description>"}
+      - {"label": "<image-label>", "value": "image",
+         "description": "<image-description>"}
+      - {"label": "<sentence-label>", "value": "sentence",
+         "description": "<sentence-description>"}
+      - {"label": "<word-label>", "value": "word",
+         "description": "<word-description>"}
     actions:
-      - {"label": "<deletion-label>", "value": "deletion"}
-      - {"label": "<insertion-label>", "value": "insertion"}
-      - {"label": "<modification-label>", "value": "modification"}
+      - {"label": "<deletion-label>", "value": "deletion",
+         "description": "<deletion-description>"}
+      - {"label": "<insertion-label>", "value": "insertion",
+         "description": "<insertion-description>"}
+      - {"label": "<modification-label>", "value": "modification",
+         "description": "<modification-description>"}
   - class: "FieldLayout"
     label: "<notes-label>"
     align: "top"
@@ -37,58 +60,113 @@ fields:
       name: "notes"
       class: "TextInputWidget"
       multiline: true
-      autosize: true
 
 i18n:
   en:
     notes-label: Notes
     semantic-labels-label: Choose as semantic meaning
+    # Semantic meanings
     link-disambig-label: Link Disambiguation
+    link-disambig-description: 	redirect, repair a dead link, link modification
     fact-update-label: Fact Update
+    fact-update-description: update numbers, dates, scores, table, etc.. correct inaccuracies
     formatting-label: Formatting
+    formatting-description: change font, fix errors in wikitext code
     verifiability-label: Verifiability
+    verifiability-description: add sources, citation
     cleanup-label: Cleanup
+    cleanup-description: remove unnecessary information, delete whitespace
     vandalism-label: Vandalism
+    vandalism-description: a deliberate attempt to damage articles
+    anti-vandalism-label: Anti-vandalism
+    anti-vandalism-description: revert or remove vandal content
     npov-label: Neutral Point of View
+    npov-description: fairly, proportionately and without bias
     clarify-label: Clarification
+    clarify-description: specification, explanation to existing view
     elaborate-label: Elaboration
+    elaborate-description: elaboration, add substantive content, insert point of views, add facts.
     copy-edit-label: Copy Editing
+    copy-edit-description: rephrases, improve grammar, spelling, tone, punctuation
+    other-label: Other
+    other-description: no other option captures the meaning of the edit
+    # Objects
     wikilink-label: Wikilink
+    wikilink-description:
     inter-wikilink-label: Inter Wikilink
+    inter-wikilink-description:
     external-link-label: External Link
+    external-link-description:
     ref-label: Reference
+    ref-description:
     cat-label: Category
+    cat-description:
     heading-label: Heading
+    heading-description:
     table-label: Table
+    table-description:
     image-label: Image
+    image-description:
     sentence-label: Sentence
+    sentence-description:
     word-label: Word
+    word-description:
+    # Actions
     deletion-label: Deletion
+    deletion-description:
     insertion-label: Insertion
+    insertion-description:
     modification-label: Modification
+    modification-description:
   it:
     notes-label: Commenti
     semantic-labels-label: Scegli un significato semantico
+    # Semantic meanings
     link-disambig-label: Collegamento disambiguazione
+    link-disambig-description:
     fact-update-label: Fatto Aggiornamento
+    fact-update-description:
     formatting-label: Formattazione
+    formatting-description:
     verifiability-label: Verificabilità
+    verifiability-description:
     cleanup-label: Pulire
+    cleanup-description:
     vandalism-label: Atti vandalici
+    vandalism-description:
     npov-label: Neutralità
+    npov-description:
     clarify-label: Precisazione
+    clarify-description:
     elaborate-label: Elaborazione
+    elaborate-description:
     copy-edit-label: Copy Editing
+    copy-edit-description:
+    # Objects
     wikilink-label: Wikilink
+    wikilink-description:
     inter-wikilink-label: Inter Wikilink
+    inter-wikilink-description:
     external-link-label: Link esterno
+    external-link-description:
     ref-label: Citazione
+    ref-description:
     cat-label: Categoria
+    cat-description:
     heading-label: Intestazione
+    heading-description:
     table-label: Tavola
+    table-description:
     image-label: Immagine
+    image-description:
     sentence-label: Frase
+    sentence-description:
     word-label: Parola
+    word-description:
+    # Actions
     deletion-label: Cancellazione
+    deletion-description:
     insertion-label: Inserimento
+    insertion-description:
     modification-label: Modifica
+    modification-description:
