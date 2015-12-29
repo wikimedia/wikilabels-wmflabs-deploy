@@ -36,16 +36,30 @@ fields:
          "description": "<ref-description>"}
       - {"label": "<cat-label>", "value": "cat",
          "description": "<cat-description>"}
+      - {"label": "<number-label>", "value": "number",
+         "description": "<number-description>"}
+      - {"label": "<datetime-label>", "value": "datetime",
+         "description": "<datetime-description>"}
       - {"label": "<heading-label>", "value": "heading",
          "description": "<heading-description>"}
       - {"label": "<table-label>", "value": "table",
          "description": "<table-description>"}
+      - {"label": "<list-label>", "value": "list",
+         "description": "<list-description>"}
+      - {"label": "<template-label>", "value": "table",
+         "description": "<template-description>"}
+      - {"label": "<markup-label>", "value": "markup",
+         "description": "<markup-description>"}
       - {"label": "<image-label>", "value": "image",
          "description": "<image-description>"}
       - {"label": "<sentence-label>", "value": "sentence",
          "description": "<sentence-description>"}
       - {"label": "<word-label>", "value": "word",
          "description": "<word-description>"}
+      - {"label": "<punctuation-label>", "value": "punctuation",
+         "description": "<punctuation-description>"}
+      - {"label": "<special-chars-label>", "value": "special-chars",
+         "description": "<special-chars-description>"}
     actions:
       - {"label": "<deletion-label>", "value": "deletion",
          "description": "<deletion-description>"}
@@ -101,16 +115,30 @@ i18n:
     ref-description:
     cat-label: Category
     cat-description:
+    number-label: Number
+    number-description:
+    datetime-label: Date/Time
+    datetime-description:
     heading-label: Heading
     heading-description:
     table-label: Table
     table-description:
+    list-label: List
+    list-description:
+    template-label: Template
+    template-description:
+    markup-label: Markup
+    markup-description:
     image-label: Image
     image-description:
     sentence-label: Sentence
     sentence-description:
     word-label: Word
     word-description:
+    punctuation-label: Punctuation
+    punctuation-description:
+    special-char-label: Special Characters
+    special-char-description:
     # Actions
     deletion-label: Deletion
     deletion-description:
@@ -153,10 +181,20 @@ i18n:
     ref-description:
     cat-label: Categoria
     cat-description:
+    number-label: Number
+    number-description:
+    datetime-label: Date/Time
+    datetime-description:
     heading-label: Intestazione
     heading-description:
     table-label: Tavola
     table-description:
+    list-label: List
+    list-description:
+    template-label: Template
+    template-description:
+    markup-label: Markup
+    markup-description:
     image-label: Immagine
     image-description:
     sentence-label: Frase
@@ -170,3 +208,7 @@ i18n:
     insertion-description:
     modification-label: Modifica
     modification-description:
+    punctuation-label: Punctuation
+    punctuation-description:
+    special-char-label: Special Characters
+    special-char-description:
