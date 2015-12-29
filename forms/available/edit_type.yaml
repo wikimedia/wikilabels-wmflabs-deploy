@@ -17,6 +17,8 @@ fields:
          "description": "<cleanup-description>"}
       - {"label": "<vandalism-label>", "value": "vandalism",
          "description": "<vandalism-description>"}
+      - {"label": "<anti-vandalism-label>", "value": "anti-vandalism",
+         "description": "<anti-vandalism-description>"}
       - {"label": "<npov-label>", "value": "npov",
          "description": "<npov-description>"}
       - {"label": "<clarify-label>", "value": "clarify",
