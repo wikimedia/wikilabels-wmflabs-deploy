@@ -3,65 +3,73 @@ name: edit_type
 fields:
   - class: "SemanticOperationsSelector"
     name: "semantic_labels"
-    meaningsLabel: "<semantic-labels-label>"
+    meaningsLabel: "<semanticlabels-label>"
     meanings:
-      - {"label": "<link-disambig-label>", "value": "link-disambig",
-         "description": <link-disambig-description>}
-      - {"label": "<fact-update-label>", "value": "fact-update",
-         "description": "<fact-update-description>"}
-      - {"label": "<formatting-label>", "value": "formatting",
-         "description": "<formatting-description>"}
+      - {"label": "<copyediting-label>", "value": "copyediting",
+         "description": "<copyediting-description>"}
+      - {"label": "<clarification-label>", "value": "clarification",
+         "description": "<clarification-description>"}
+      - {"label": "<simplification-label>", "value": "simplification",
+         "description": "<simplification-description>"}
+      - {"label": "<pov-label>", "value": "pov",
+         "description": "<pov-description>"}
+      - {"label": "<refactoring-label>", "value": "refactoring",
+         "description": "<refactoring-description>"}
+      - {"label": "<factupdate-label>", "value": "factupdate",
+         "description": "<factupdate-description>"}
+      - {"label": "<elaboration-label>", "value": "elaboration",
+         "description": "<elaboration-description>"}
       - {"label": "<verifiability-label>", "value": "verifiability",
          "description": "<verifiability-description>"}
-      - {"label": "<cleanup-label>", "value": "cleanup",
-         "description": "<cleanup-description>"}
+      - {"label": "<disambiguation-label>", "value": "disambiguation",
+         "description": <disambiguation-description>}
+      - {"label": "<wikification-label>", "value": "wikify",
+         "description": <wikification-description>}
       - {"label": "<vandalism-label>", "value": "vandalism",
          "description": "<vandalism-description>"}
-      - {"label": "<anti-vandalism-label>", "value": "anti-vandalism",
-         "description": "<anti-vandalism-description>"}
-      - {"label": "<npov-label>", "value": "npov",
-         "description": "<npov-description>"}
-      - {"label": "<clarify-label>", "value": "clarify",
-         "description": "<clarify-description>"}
-      - {"label": "<elaborate-label>", "value": "elaborate",
-         "description": "<elaborate-description>"}
-      - {"label": "<copy-edit-label>", "value": "copy-edit",
-         "description": "<copy-edit-description>"}
+      - {"label": "<countervandalism-label>", "value": "countervandalism",
+         "description": "<countervandalism-description>"}
+      - {"label": "<process-label>", "value": "process",
+         "description": "<process-description>"}
+      - {"label": "<other-label>", "value": "other",
+         "description": "<other-description>"}
     objects:
       - {"label": "<wikilink-label>", "value": "wikilink",
          "description": "<wikilink-description>"}
-      - {"label": "<inter-wikilink-label>", "value": "inter-wikilink",
-         "description": "<inter-wikilink-description>"}
-      - {"label": "<external-link-label>", "value": "external-link",
-         "description": "<external-link-description>"}
+      - {"label": "<interwikilink-label>", "value": "interwikilink",
+         "description": "<interwikilink-description>"}
+      - {"label": "<externallink-label>", "value": "externallink",
+         "description": "<externallink-description>"}
       - {"label": "<ref-label>", "value": "ref",
          "description": "<ref-description>"}
       - {"label": "<cat-label>", "value": "cat",
          "description": "<cat-description>"}
-      - {"label": "<number-label>", "value": "number",
-         "description": "<number-description>"}
-      - {"label": "<datetime-label>", "value": "datetime",
-         "description": "<datetime-description>"}
       - {"label": "<heading-label>", "value": "heading",
          "description": "<heading-description>"}
       - {"label": "<table-label>", "value": "table",
          "description": "<table-description>"}
+      - {"label": "<template-label>", "value": "template",
+         "description": "<template-description>"}
+      - {"label": "<cleanuptag-label>", "value": "cleanuptag",
+         "description": "<cleanuptag-description>"}
+      - {"label": "<processtag-label>", "value": "processtag",
+         "description": "<processtag-description>"}
       - {"label": "<list-label>", "value": "list",
          "description": "<list-description>"}
-      - {"label": "<template-label>", "value": "table",
-         "description": "<template-description>"}
       - {"label": "<markup-label>", "value": "markup",
          "description": "<markup-description>"}
-      - {"label": "<image-label>", "value": "image",
-         "description": "<image-description>"}
-      - {"label": "<sentence-label>", "value": "sentence",
-         "description": "<sentence-description>"}
-      - {"label": "<word-label>", "value": "word",
-         "description": "<word-description>"}
+      - {"label": "<specialchars-label>", "value": "specialchars",
+         "description": "<specialchars-description>"}
+      - {"label": "<media-label>", "value": "media",
+         "description": "<media-description>"}
+      - {"label": "<bodycopy-label>", "value": "bodycopy",
+         "description": "<bodycopy-description>"}
+      - {"label": "<datavalue-label>", "value": "datavalue",
+         "description": "<datavalue-description>"}
       - {"label": "<punctuation-label>", "value": "punctuation",
          "description": "<punctuation-description>"}
-      - {"label": "<special-chars-label>", "value": "special-chars",
-         "description": "<special-chars-description>"}
+      - {"label": "<information-label>", "value": "information",
+         "description": "<information-description>"}
     actions:
       - {"label": "<deletion-label>", "value": "deletion",
          "description": "<deletion-description>"}
@@ -80,67 +88,73 @@ fields:
 i18n:
   en:
     notes-label: Notes
-    semantic-labels-label: Choose as semantic meaning
+    semanticlabels-label: Choose likely intention(s) for the edit
     # Semantic meanings
-    link-disambig-label: Link Disambiguation
-    link-disambig-description: redirect, repair a dead link, link modification
-    fact-update-label: Fact Update
-    fact-update-description: update numbers, dates, scores, table, etc.. correct inaccuracies
-    formatting-label: Formatting
-    formatting-description: change font, fix errors in wikitext code
+    copyediting-label: Copy Editing
+    copyediting-description: rephrase; improve grammar, spelling, tone, or punctuation.
+    clarification-label: Clarification
+    clarification-description: specify or explain an existing fact or meaning by example or discussion without adding new information.
+    simplification-label: Simplification
+    simplification-description: reduce the complexity or breadth of discussion; may remove information.
+    pov-label: Point of View
+    pov-description: rewrite using encyclopedic, neutral tone; remove bias; apply due weight.
+    refactoring-label: Refactoring
+    refactoring-description: restructure the article; move and rewrite content, without changing the meaning of it.
+    factupdate-label: Fact Update
+    factupdate-description: update numbers, dates, scores, episodes, status, etc. based on newly available information.
+    elaboration-label: Elaboration
+    elaboration-description: extend/add substantive new content; insert a fact or new meaningful assertion (beyond a simple Fact Update).
     verifiability-label: Verifiability
     verifiability-description: add sources, citation
-    cleanup-label: Cleanup
-    cleanup-description: remove unnecessary information, delete whitespace
+    disambiguation-label: Disambiguation
+    disambiguation-description: re-link from a disambiguation page to the specific page.
+    wikification-label: Wikification
+    wikification-description: make text more suitable for the wiki medium, e.g. adding links, or removing them where necessary; converting bold text to proper headers, etc; or manual of style related changes for formatting
     vandalism-label: Vandalism
-    vandalism-description: a deliberate attempt to damage articles
-    anti-vandalism-label: Anti-vandalism
-    anti-vandalism-description: revert or remove vandal content
-    npov-label: Neutral Point of View
-    npov-description: fairly, proportionately and without bias
-    clarify-label: Clarification
-    clarify-description: specification, explanation to existing view
-    elaborate-label: Elaboration
-    elaborate-description: elaboration, add substantive content, insert point of views, add facts.
-    copy-edit-label: Copy Editing
-    copy-edit-description: rephrases, improve grammar, spelling, tone, punctuation
+    vandalism-description: deliberately attempt to damage the article.
+    countervandalism-label: Counter-vandalism
+    countervandalism-description: revert or remove vandalism.
+    process-label: Process
+    process-description: start or continue a wiki process workflow such as tagging (or un-tagging) an article with cleanup, merge or deletion notices.
     other-label: Other
-    other-description: no other option captures the meaning of the edit
+    other-description: none of the above, please leave a note.
     # Objects
     wikilink-label: Wikilink
-    wikilink-description:
-    inter-wikilink-label: Inter Wikilink
-    inter-wikilink-description:
-    external-link-label: External Link
-    external-link-description:
+    wikilink-description: Links to another page within English Wikipedia. E.g. <code>[[John_Smith_(professor)|Dr. Smith]]</code>
+    interwikilink-label: Inter Wikilink
+    interwikilink-description: Links to a page on another Wikimedia project website, such as Meta or another language. E.g. <code>[[:mw:Extension:OAuth]]</code>
+    externallink-label: External Link
+    externallink-description: Links that use absolute URLs to point towards external domains. E.g. <code>[https://wikimedia.org The Wikimedia Portal]</code>
     ref-label: Reference
-    ref-description:
+    ref-description: A reference tag and/or a citation template. E.g. <code>&lt;ref&gt;{{cite book| ... }}&lt;/ref&gt;</code>
     cat-label: Category
-    cat-description:
-    number-label: Number
-    number-description:
-    datetime-label: Date/Time
-    datetime-description:
+    cat-description: 	A category link. E.g. <code>[[Category:Hats]]</code>
     heading-label: Heading
-    heading-description:
+    heading-description: Section headings. E.g. <code>== Heading 2 ==</code>
     table-label: Table
-    table-description:
-    list-label: List
-    list-description:
+    table-description: Wikitext table code and/or the content contained within. E.g., <code>{|</code>, <code>|</code>, <code>|-</code>, <code>|}</code>
     template-label: Template
-    template-description:
+    template-description: General template transclusions. E.g. <code>{{Chemistry navbox}}</code> or <code>{{Infobox|...}}</code> (not a citation template or cleanup template)
+    cleanuptag-label: Cleanup tag
+    cleanuptag-description: A template that notes of an issue in the page. E.g. "reads like an advert", <code>{{citation needed}}</code>, or "COI involved"
+    processtag-label: Process tag
+    processtag-description: A template that implements an on wiki process.  E.g. <code>{{Prod}}</code> or <code>{{CSD}}</code>.
+    list-label: List
+    list-description: Bulleted, numbered or description list
     markup-label: Markup
-    markup-description:
-    image-label: Image
-    image-description:
-    sentence-label: Sentence
-    sentence-description:
-    word-label: Word
-    word-description:
+    markup-description: Elements used for formatting content (excludes tables, templates and special characters). E.g. <code>'''</code> (bold), <code>''</code> (italics) and HTML tags.
+    specialchars-label: Special Characters
+    specialchars-description: Mathematical characters, greek characters, etc. E.g. &Sigma; (&amp;Sigma;) or &middot; (&amp;middot;)
+    media-label: Media
+    media-description: Media Files (Images, Audio, Video) objects. Usually in the form of a <code>[[File:...]]</code> link, but sometimes also appears in a template as a parameter <code>filename = File:...</code>.
+    bodycopy-label: Body Copy
+    bodycopy-description: The main article or text part (as distinct from the headings, subheadings, and graphics)
+    datavalue-label: Data Value
+    datavalue-description: Numbers, True/False/yes/no, dates or time. E.g. <code>January 3rd</code>, <code>$150</code>, <code>2015/01/02</code>, <code>{{Infobox president|<u>is-current=yes</u>}}</code>, etc.
     punctuation-label: Punctuation
-    punctuation-description:
-    special-char-label: Special Characters
-    special-char-description:
+    punctuation-description: Body copy punctuation characters that are intended to appear in text. E.g. periods, commas, asterisks, brackets, colon, dash, etc.
+    information-label: Information
+    information-description: Factual or meaningful information content.  Note that one could change "body copy" without changing the "information" contained.
     # Actions
     deletion-label: Deletion
     deletion-description:
