@@ -84,7 +84,7 @@ i18n:
     damaging-no-label: "نه"
     damaging-no-tooltip: "نه، باید این ویرایش همین‌گونه باشد."
     goodfaith-label: "با فرض حسن نیت؟"
-    goodfaith-help: "آیا کاربر ویرایشگر با حسن نیست ویرایش کرده و سازنده بوده است؟"
+    goodfaith-help: "آیا کاربر ویرایشگر با حسن نیت ویرایش کرده و سازنده بوده است؟"
     goodfaith-yes-label: "بله"
     goodfaith-yes-tooltip: "بله، این ویرایش به نظرم با حسن نیت انجام شده‌است."
     goodfaith-no-label: "نه"
