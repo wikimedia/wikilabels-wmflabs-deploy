@@ -128,7 +128,7 @@ i18n:
     ref-label: Reference
     ref-description: A reference tag and/or a citation template. E.g. <code>&lt;ref&gt;{{cite book| ... }}&lt;/ref&gt;</code>
     cat-label: Category
-    cat-description: 	A category link. E.g. <code>[[Category:Hats]]</code>
+    cat-description: A category link. E.g. <code>[[Category:Hats]]</code>
     heading-label: Heading
     heading-description: Section headings. E.g. <code>== Heading 2 ==</code>
     table-label: Table
