@@ -164,69 +164,77 @@ i18n:
     modification-description:
   it:
     notes-label: Commenti
-    semantic-labels-label: Scegli un significato semantico
+    semanticlabels-label: Scegli l'intenzione più probabile per questa modifica.
     # Semantic meanings
-    link-disambig-label: Collegamento disambiguazione
-    link-disambig-description:
-    fact-update-label: Fatto Aggiornamento
-    fact-update-description:
-    formatting-label: Formattazione
-    formatting-description:
+    copyediting-label: Copy Editing
+    copyediting-description: parafrasa, migliora la grammatica, il tono o la punteggiatura.
+    clarification-label: Precisazione
+    clarification-description: chiarifica or articola ulteriormente un passaggio senza aggiungere nuova informazione.
+    simplification-label: Semplificazione
+    simplification-description: riduce la complessità o lunghezza di un passaggio. Può rimuovere informazione.
+    pov-label: Punto di vista neutrale
+    pov-description: riscrive un passaggio usando un tono neutro ed enciclopedico. Rimuove bias e dà un'enfasi appropriata a diversi punti di vista.
+    refactoring-label: Riorganizzazione
+    refactoring-description: riordina e ristruttura una voce, muovendo o riscrivendo il contenuto, senza modificarne il significato.
+    factupdate-label: Aggiornamento fattuale
+    factupdate-description: aggiorna numeri, date, o altri elementi fattuali di una voce sulla base di nuova informazione disponibile.
+    elaboration-label: Elaborazione
+    elaboration-description: estende o aggiunge contenuto sostanzialmente nuovo; inserisce un fatto o una nuova asserzione, al di là di un semplice aggiornamento fattuale.
     verifiability-label: Verificabilità
-    verifiability-description:
-    cleanup-label: Pulire
-    cleanup-description:
-    vandalism-label: Atti vandalici
-    vandalism-description:
-    anti-vandalism-label: Anti-vandalism
-    anti-vandalism-description: revert or remove vandal content
-    npov-label: Neutralità
-    npov-description:
-    clarify-label: Precisazione
-    clarify-description:
-    elaborate-label: Elaborazione
-    elaborate-description:
-    copy-edit-label: Copy Editing
-    copy-edit-description:
+    verifiability-description: aggiunge fonti o citazioni.
+    disambiguation-label: Disambiguazione
+    disambiguation-description: ristabilisce un link da una pagina di disambiguazione a una voce specifica.
+    wikification-label: Wikificazione
+    wikification-description: modifica una voce per renderla conforme, per grafica e organizzazione dei contenuti, al resto delle voci del progetto. Per esempio, aggiungere o rimuovere link, dove appropriato; sostituire un grassetto con un'intestazione di sezione, applicare il manuale di stile.
+    vandalism-label: Vandalismo
+    vandalism-description: tentativo intenzionale di danneggiare una voce.
+    countervandalism-label: Antivandalismo
+    countervandalism-description: corregge o rimuove modifiche volte a danneggiare intenzionalmente una voce.
+    process-label: Processo
+    process-description: inizia o estende un processo come l'applicazione a una voce di un template di manutenzione, una richiesta di cancellazione etc.
+    other-label: Altro
+    other-description: nessuna di queste opzioni, per favore lascia un commento.
     # Objects
     wikilink-label: Wikilink
-    wikilink-description:
-    inter-wikilink-label: Inter Wikilink
-    inter-wikilink-description:
-    external-link-label: Link esterno
-    external-link-description:
-    ref-label: Citazione
-    ref-description:
+    wikilink-description: Link verso un'altra voce della Wikipedia italiana. Per esempio, <code>[[Dante Alighieri|Dante]]</code>.
+    interwikilink-label: Interlink
+    interwikilink-description: Link verso una voce su un altro progetto Wikimedia (per esempio Meta) o verso un'altra lingua. Per esempio, <code>[[:mw:Extension:OAuth]]</code>.
+    externallink-label: Link esterno
+    externallink-description: Link che usa un URL assoluto verso un dominio esterno. Per esempio, <code>[http://www.bbc.com/ BBC]</code>.
+    ref-label: Nota
+    ref-description: Una nota e/o un template di citazione fonti. Per esempio, <code>&lt;ref&gt;{{Cita libro| ... }}&lt;/ref&gt;</code>.
     cat-label: Categoria
-    cat-description:
-    number-label: Number
-    number-description:
-    datetime-label: Date/Time
-    datetime-description:
+    cat-description: Link a una categoria. Per esempio, <code>[[Categoria:Cappelli]]</code>.
     heading-label: Intestazione
-    heading-description:
-    table-label: Tavola
-    table-description:
-    list-label: List
-    list-description:
+    heading-description: Un'intestazione di sezione. Per esempio, <code>== Sezione 2 ==</code>.
+    table-label: Tabella
+    table-description: Markup di tabella e/o contenuto all'interno di una tabella. Per esempio, <code>{|</code>, <code>|</code>, <code>|-</code>, <code>|}</code>.
     template-label: Template
-    template-description:
+    template-description: Template generico (ad esclusione di template di citazione fonti o di manutenzione). Per esempio, <code>{{Regioni italiane}}</code>.
+    cleanuptag-label: Template di manutenzione
+    cleanuptag-description: Un template che segnala problemi di una voce. Per esempio, <code>{{promozionale}}</code> o <code>{{citazione necessaria}}</code>.
+    processtag-label: Template di processo
+    processtag-description: Un template che implementa un processo. Per esempio, <code>{{Cancellazione}}</code>.
+    list-label: Lista
+    list-description: Una lista, lista numerata o lista di definizioni.
     markup-label: Markup
-    markup-description:
-    image-label: Immagine
-    image-description:
-    sentence-label: Frase
-    sentence-description:
-    word-label: Parola
-    word-description:
+    markup-description: Un elemento usato per la formattazione di contenuto (ad esclusione di tabelle, template e caratteri speciali). Per esempio, <code>'''</code> (grassetto) <code>'''</code>.
+    specialchars-label: Caratteri speciali
+    specialchars-description: Caratteri matematici, greci etc. Per esempio, &Sigma; (&amp;Sigma;) o &middot; (&amp;middot;)
+    media-label: Elemento multimediale
+    media-description: File multimediale (immagine, file audio, video). Generalmente nella forma di un link <code>[[File:...]]</code>, o di un parametro all'interno di un template <code>filename = File:...</code>.
+    bodycopy-label: Corpo del testo
+    bodycopy-description: Contenuto testuale di una voce (ad esclusione di intestazioni, sottointestazioni, elementi grafici etc.).
+    datavalue-label: Dato
+    datavalue-description: Numeri, date, ore, valori come Vero o Falso all'interno di un template. Per esempio, <code>3 gennaio</code>, <code>$150</code>, <code>03/01/2015</code>, etc.
+    punctuation-label: Punteggiatura
+    punctuation-description: Caratteri di punteggiatura all'interno del testo di una voce. Per esempio, punti, virgole, parentesi, etc.
+    information-label: Informazione
+    information-description: Contenuto che rappresenta un'informazione fattuale.  Nota che è possibile modificare il corpo del testo senza modificare l'informazione in esso contenuta.
     # Actions
     deletion-label: Cancellazione
-    deletion-description:
+    deletion-description: rimuove un elemento.
     insertion-label: Inserimento
-    insertion-description:
+    insertion-description: aggiunge un elemento.
     modification-label: Modifica
-    modification-description:
-    punctuation-label: Punctuation
-    punctuation-description:
-    special-char-label: Special Characters
-    special-char-description:
+    modification-description: modifica un elemento.
