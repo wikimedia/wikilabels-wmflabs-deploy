@@ -169,7 +169,7 @@ i18n:
     copyediting-label: Copy Editing
     copyediting-description: parafrasa, migliora la grammatica, il tono o la punteggiatura.
     clarification-label: Precisazione
-    clarification-description: chiarifica or articola ulteriormente un passaggio senza aggiungere nuova informazione.
+    clarification-description: chiarifica o articola ulteriormente un passaggio senza aggiungere nuova informazione.
     simplification-label: Semplificazione
     simplification-description: riduce la complessità o lunghezza di un passaggio. Può rimuovere informazione.
     pov-label: Punto di vista neutrale
