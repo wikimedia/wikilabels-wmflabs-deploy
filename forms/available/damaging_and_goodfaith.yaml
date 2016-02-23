@@ -77,7 +77,7 @@ i18n:
     goodfaith-no-tooltip: "No, esta edición parece haber sido hecha con mala fe."
   fa:
     damaging-label: "خرابکاری؟"
-    unsure-label: "مطمئنید؟"
+    unsure-label: "مطمئن نیستید؟"
     damaging-help: "آیا ویرایش باعث خراب شدن مقاله شده‌است؟"
     damaging-yes-label: "بله"
     damaging-yes-tooltip: "بله، این ویرایش باعث خراب شدن مقاله شده‌است و باید واگردانی شود"
