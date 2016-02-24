@@ -50,13 +50,14 @@ import os
 
 env.roledefs = {
     'web': ['wikilabels-01.wikilabels.eqiad.wmflabs'],
-    'staging': ['wikilabels-test.eqiad.wmflabs'],
+    'staging': ['wikilabels-staging-01.wikilabels.eqiad.wmflabs'],
 }
 env.use_ssh_config = True
 env.shell = '/bin/bash -c'
 
 config_dir = '/srv/wikilabels/config'
 venv_dir = '/srv/wikilabels/venv'
+main_config_file = 'labels.wmflabs.org.yaml'
 db_config_file = 'wikilabels-db-config.yaml'
 oauth_creds_file = 'oauth-wikimedia.yaml'
 
@@ -91,7 +92,7 @@ def setup_db():
     Loads the db schema (will not overwrite data if exists)
     """
     sr(venv_dir + '/bin/wikilabels', 'load_schema',
-        os.path.join(config_dir, db_config_file))
+        os.path.join(config_dir, main_config_file))
 
 
 def initialize_staging_server():
@@ -155,6 +156,7 @@ def upload_creds(branch='deploy'):
     # Upload postgres db config
     put(branch + "-db-config.yaml", os.path.join(config_dir, db_config_file),
         use_sudo=True)
+    sudo("chown www-data:www-data " + os.path.join(config_dir, db_config_file))
 
 
 def run_puppet():
