@@ -173,7 +173,7 @@ i18n:
     goodfaith-yes-tooltip: "Ja, het lijkt erop dat de persoon die deze bewerking deed van goede wil was."
     goodfaith-no-label: "Nee"
     goodfaith-no-tooltip: "Nee, het lijkt erop dat de persoon die deze bewerking deed niet van goede wil was."
-  no:
+  'no':
     unsure-label: "Usikker?"
     damaging-label: "Ødeleggende?"
     damaging-help: "Ville du tilbakestilt denne endringen?"
