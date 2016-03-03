@@ -1,0 +1,15 @@
+{
+    "damaging-help": "آیا ویرایش باعث خراب شدن مقاله شده‌است؟",
+    "damaging-label": "خرابکاری؟",
+    "damaging-no-label": "نه",
+    "damaging-no-tooltip": "نه، باید این ویرایش همین‌گونه باشد.",
+    "damaging-yes-label": "بله",
+    "damaging-yes-tooltip": "بله، این ویرایش باعث خراب شدن مقاله شده‌است و باید واگردانی شود",
+    "goodfaith-help": "آیا کاربر ویرایشگر با حسن نیت ویرایش کرده و سازنده بوده است؟",
+    "goodfaith-label": "با فرض حسن نیت؟",
+    "goodfaith-no-label": "نه",
+    "goodfaith-no-tooltip": "نه، این ویرایش با حسن نیست نبوده است",
+    "goodfaith-yes-label": "بله",
+    "goodfaith-yes-tooltip": "بله، این ویرایش به نظرم با حسن نیت انجام شده‌است.",
+    "unsure-label": "مطمئن نیستید؟"
+}

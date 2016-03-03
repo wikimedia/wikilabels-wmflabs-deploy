@@ -1,0 +1,15 @@
+{
+    "damaging-help": "Auriez-vous annulé cette modification?",
+    "damaging-label": "Dommageable ?",
+    "damaging-no-label": "Non",
+    "damaging-no-tooltip": "Non cette modification n'est pas dommageable et peut être gardée.",
+    "damaging-yes-label": "Oui",
+    "damaging-yes-tooltip": "Oui cette modification est dommageable et doit être annulée",
+    "goodfaith-help": "Est-ce qu'il apparait que l'auteur de cette modification essayait de contribuer de façon productive ?",
+    "goodfaith-label": "Bonne intention ?",
+    "goodfaith-no-label": "Non",
+    "goodfaith-no-tooltip": "Non cette modification semble avoir été faite avec de mauvaises intentions",
+    "goodfaith-yes-label": "Oui",
+    "goodfaith-yes-tooltip": "Oui cette modification semble de bonne intention",
+    "unsure-label": "Incertain ?"
+}

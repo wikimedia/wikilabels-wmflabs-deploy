@@ -1,0 +1,15 @@
+{
+    "damaging-help": "Zou u deze bewerking terugdraaien?",
+    "damaging-label": "Schadelijk?",
+    "damaging-no-label": "Nee",
+    "damaging-no-tooltip": "Nee, deze bewerking is niet schadelijk en kan gehandhaafd blijven.",
+    "damaging-yes-label": "Ja",
+    "damaging-yes-tooltip": "Ja, deze bewerking is schadelijk en moet worden teruggedraaid.",
+    "goodfaith-help": "Lijkt het erop dat de persoon die deze bewerking deed een constructieve bijdrage wilde leveren?",
+    "goodfaith-label": "Goede wil?",
+    "goodfaith-no-label": "Nee",
+    "goodfaith-no-tooltip": "Nee, het lijkt erop dat de persoon die deze bewerking deed niet van goede wil was.",
+    "goodfaith-yes-label": "Ja",
+    "goodfaith-yes-tooltip": "Ja, het lijkt erop dat de persoon die deze bewerking deed van goede wil was.",
+    "unsure-label": "Niet zeker?"
+}

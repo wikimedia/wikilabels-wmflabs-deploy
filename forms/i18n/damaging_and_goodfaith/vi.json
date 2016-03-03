@@ -1,0 +1,15 @@
+{
+    "damaging-help": "Bạn có định lùi lại sửa đổi này không?",
+    "damaging-label": "Phá hoại?",
+    "damaging-no-label": "Không",
+    "damaging-no-tooltip": "Không, sửa đổi này không gây hại và có thể giữ nguyên.",
+    "damaging-yes-label": "Có",
+    "damaging-yes-tooltip": "Có, sửa đổi này gây hại và cần được lùi lại.",
+    "goodfaith-help": "Người thực hiện sửa đổi này có thiện ý muốn đóng góp thông tin hữu ích hay không?",
+    "goodfaith-label": "Sửa đổi thiện ý?",
+    "goodfaith-no-label": "Không",
+    "goodfaith-no-tooltip": "Không, sửa đổi này có vẻ là một sửa đổi ác ý.",
+    "goodfaith-yes-label": "Có",
+    "goodfaith-yes-tooltip": "Có, sửa đổi này có vẻ được thực hiện có thiện ý.",
+    "unsure-label": "Bạn không chắc?"
+}

@@ -1,0 +1,15 @@
+{
+    "damaging-help": "Czy wycofałbyś tę edycję?",
+    "damaging-label": "Szkodliwa?",
+    "damaging-no-label": "Nie",
+    "damaging-no-tooltip": "Nie, ta edycja nie jest szkodliwa i może zostać.",
+    "damaging-yes-label": "Tak",
+    "damaging-yes-tooltip": "Ta edycja jest szkodliwa i trzeba ją wycofać.",
+    "goodfaith-help": "Czy ten autor mógł próbować wykonać dobrą edycję?",
+    "goodfaith-label": "W dobrej wierze?",
+    "goodfaith-no-label": "Nie",
+    "goodfaith-no-tooltip": "Nie, ta edycja wygląda na wykonaną w złej wierze.",
+    "goodfaith-yes-label": "Tak",
+    "goodfaith-yes-tooltip": "Tak, ta edycja wygląda na wykonaną w dobrej wierze.",
+    "unsure-label": "Niepewny?"
+}
