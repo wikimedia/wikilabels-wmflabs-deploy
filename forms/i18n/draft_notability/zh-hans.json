@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"book-choice-label": "书籍",
+	"damaging-false-label": "否",
+	"damaging-label": "破坏？",
+	"damaging-true-label": "是",
+	"event-choice-label": "事件",
+	"film-choice-label": "电影",
+	"form-title": "关注度",
+	"guideline-choice-label": "该条目的主题是否受以下某条关注度指引（如有）的约束？",
+	"music-choice-label": "音乐",
+	"notable-no-label": "否",
+	"notable-switch": "根据这个指引，该主题是否有关注度？",
+	"notable-yes-label": "是",
+	"org-choice-label": "组织与公司",
+	"other-choice-label": "其他",
+	"person-choice-label": "人物",
+	"web-choice-label": "网站"
+}

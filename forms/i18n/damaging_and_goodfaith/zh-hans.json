@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"damaging-help": "您是否要回退该编辑？",
+	"damaging-label": "破坏？",
+	"damaging-no-label": "否",
+	"damaging-no-tooltip": "不，该编辑不是破坏，可以原样保留。",
+	"damaging-yes-label": "是",
+	"damaging-yes-tooltip": "是的，该编辑是破坏，应予以回退。",
+	"goodfaith-help": "该编辑的作者是否看起来要尝试做出有意义的贡献？",
+	"goodfaith-label": "善意？",
+	"goodfaith-no-label": "否",
+	"goodfaith-no-tooltip": "不，该编辑似乎是恶意编辑。",
+	"goodfaith-yes-label": "是",
+	"goodfaith-yes-tooltip": "是的，该编辑似乎是善意编辑。",
+	"unsure-label": "不确定？"
+}

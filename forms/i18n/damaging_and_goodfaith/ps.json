@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"damaging-help": "آيا غواړئ همدا سمون پر شا وتمبوئ؟",
+	"damaging-no-label": "نه",
+	"damaging-yes-label": "هو",
+	"goodfaith-no-label": "نه",
+	"goodfaith-yes-label": "هو",
+	"unsure-label": "ناډاډمن ياست؟"
+}

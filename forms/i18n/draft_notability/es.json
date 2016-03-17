@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"book-choice-label": "Libros",
+	"damaging-false-label": "no",
+	"damaging-label": "¿Dañino?",
+	"damaging-true-label": "sí",
+	"event-choice-label": "Eventos",
+	"film-choice-label": "Películas",
+	"form-title": "Notabilidad",
+	"guideline-choice-label": "¿A cuál de las siguientes directrices de notabilidad pertenece este artículo (si es que pertenece a alguno)?",
+	"music-choice-label": "Música",
+	"notable-no-label": "no",
+	"notable-switch": "¿El tema es notable según esta directriz?",
+	"notable-yes-label": "sí",
+	"org-choice-label": "Organizaciones y compañías",
+	"other-choice-label": "Otras",
+	"person-choice-label": "Personas",
+	"web-choice-label": "Contenido web"
+}

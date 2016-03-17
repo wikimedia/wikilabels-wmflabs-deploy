@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"book-choice-label": "Bücher",
+	"damaging-false-label": "nein",
+	"damaging-label": "Zerstörung?",
+	"damaging-true-label": "ja",
+	"event-choice-label": "Ereignisse",
+	"film-choice-label": "Filme",
+	"form-title": "Relevanz",
+	"guideline-choice-label": "Unter welche der folgenden Relevanzkriterien, falls vorhanden, fällt dieses Artikelthema?",
+	"music-choice-label": "Musik",
+	"notable-no-label": "nein",
+	"notable-switch": "Ist das Thema unter dieser Richtlinie relevant?",
+	"notable-yes-label": "ja",
+	"org-choice-label": "Organisationen und Unternehmen",
+	"other-choice-label": "Andere",
+	"person-choice-label": "Menschen",
+	"web-choice-label": "Webinhalt"
+}

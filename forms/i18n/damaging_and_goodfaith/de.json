@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"damaging-help": "Möchtest du diese Bearbeitung zurücksetzen?",
+	"damaging-label": "Zerstörung?",
+	"damaging-no-label": "Nein",
+	"damaging-no-tooltip": "Nein, diese Bearbeitung ist nicht zerstörerisch und kann behalten werden.",
+	"damaging-yes-label": "Ja",
+	"damaging-yes-tooltip": "Ja, diese Bearbeitung ist zerstörerisch und sollte zurückgesetzt werden.",
+	"goodfaith-help": "Scheint es so, als ob der Autor dieser Bearbeitung versucht, etwas Produktives beizutragen?",
+	"goodfaith-label": "Gute Absicht?",
+	"goodfaith-no-label": "Nein",
+	"goodfaith-no-tooltip": "Nein, diese Bearbeitung scheint in schlechter Absicht erstellt worden zu sein.",
+	"goodfaith-yes-label": "Ja",
+	"goodfaith-yes-tooltip": "Ja, diese Bearbeitung scheint in guter Absicht erstellt worden zu sein.",
+	"unsure-label": "Unsicher?"
+}

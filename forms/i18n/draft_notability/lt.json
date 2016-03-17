@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"book-choice-label": "Knygos",
+	"damaging-false-label": "ne",
+	"damaging-true-label": "taip",
+	"event-choice-label": "Įvykiai",
+	"film-choice-label": "Filmai",
+	"music-choice-label": "Muzika",
+	"notable-no-label": "ne",
+	"notable-yes-label": "taip",
+	"other-choice-label": "Kita",
+	"person-choice-label": "Žmonės"
+}

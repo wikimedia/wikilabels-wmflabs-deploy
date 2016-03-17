@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"book-choice-label": "Livres",
+	"damaging-false-label": "non",
+	"damaging-label": "Nuisible ?",
+	"damaging-true-label": "oui",
+	"event-choice-label": "Événements",
+	"film-choice-label": "Films",
+	"form-title": "Notoriété",
+	"guideline-choice-label": "À laquelle des indications de notoriété (s’il y en a) le sujet de cet article correspond-il ?",
+	"music-choice-label": "Musique",
+	"notable-no-label": "non",
+	"notable-switch": "Le sujet est-il notable d’après cette indication ?",
+	"notable-yes-label": "oui",
+	"org-choice-label": "Organisations et sociétés",
+	"other-choice-label": "Autre",
+	"person-choice-label": "Personnes",
+	"web-choice-label": "Contenu du web"
+}

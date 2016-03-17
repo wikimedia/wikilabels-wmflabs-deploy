@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"book-choice-label": "کتابونه",
+	"damaging-false-label": "نه",
+	"damaging-true-label": "هو",
+	"event-choice-label": "پېښې",
+	"film-choice-label": "فلمونه",
+	"music-choice-label": "موسيقي",
+	"notable-yes-label": "هو",
+	"other-choice-label": "نور",
+	"person-choice-label": "خلک"
+}
