@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"guideline-choice-label": "এই নিবন্ধের বিষয় নিম্নলিখিত কোন উল্লেখযোগ্যতার নির্দেশাবলীর (যদি থাকে) অধীনে পড়ে?",
+	"book-choice-label": "বই",
+	"event-choice-label": "ঘটনা",
+	"film-choice-label": "চলচ্চিত্র",
+	"music-choice-label": "সঙ্গীত",
+	"person-choice-label": "ব্যক্তি",
+	"org-choice-label": "প্রতিষ্ঠান ও কোম্পানি",
+	"web-choice-label": "ওয়েব সামগ্রী",
+	"other-choice-label": "অন্যান্য",
+	"form-title": "উল্লেখযোগ্যতা",
+	"notable-switch": "এই নির্দেশনার অধীনে বিষয়টি কি উল্লেখযোগ্য?",
+	"notable-no-label": "না",
+	"notable-yes-label": "হ্যাঁ",
+	"damaging-label": "ক্ষতিকর?",
+	"damaging-false-label": "না",
+	"damaging-true-label": "হ্যাঁ"
+}

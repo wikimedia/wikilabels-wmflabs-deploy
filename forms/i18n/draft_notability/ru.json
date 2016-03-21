@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"book-choice-label": "Книги",
+	"event-choice-label": "События",
+	"film-choice-label": "Фильмы",
+	"music-choice-label": "Музыка",
+	"person-choice-label": "Люди",
+	"notable-no-label": "нет",
+	"notable-yes-label": "да",
+	"damaging-false-label": "нет",
+	"damaging-true-label": "да"
+}

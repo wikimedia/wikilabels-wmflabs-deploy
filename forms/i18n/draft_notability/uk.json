@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Green Zero"
+		]
+	},
+	"book-choice-label": "Книги",
+	"event-choice-label": "Події",
+	"film-choice-label": "Фільми",
+	"music-choice-label": "Музика",
+	"person-choice-label": "Люди",
+	"web-choice-label": "Веб-контент",
+	"other-choice-label": "Інше",
+	"notable-no-label": "ні",
+	"notable-yes-label": "так",
+	"damaging-false-label": "ні",
+	"damaging-true-label": "так"
+}

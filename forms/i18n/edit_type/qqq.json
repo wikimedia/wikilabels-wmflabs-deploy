@@ -4,5 +4,17 @@
 			"Liuxinyu970226"
 		]
 	},
-	"cat-label": "{{Identical|Category}}"
+	"cat-label": "{{Identical|Category}}",
+	"heading-label": "{{Identical|Heading}}",
+	"information-label": "{{Identical|Information}}",
+	"list-label": "{{Identical|List}}",
+	"markup-label": "{{Identical|Markup}}",
+	"media-label": "{{Identical|Media}}",
+	"notes-label": "{{Identical|Note}}",
+	"other-label": "{{Identical|Other}}",
+	"process-label": "{{Identical|Process}}",
+	"ref-label": "{{Identical|Reference}}",
+	"table-label": "{{Identical|Table}}",
+	"template-label": "{{Identical|Template}}",
+	"wikilink-label": "{{Identical|Wikilink}}"
 }

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"book-choice-label": "Böcker",
+	"event-choice-label": "Händelser",
+	"film-choice-label": "Filmer",
+	"music-choice-label": "Musik",
+	"person-choice-label": "Folk",
+	"org-choice-label": "Organisationer och företag",
+	"web-choice-label": "Webbinnehåll",
+	"other-choice-label": "Övrigt",
+	"notable-no-label": "nej",
+	"notable-yes-label": "ja",
+	"damaging-false-label": "nej",
+	"damaging-true-label": "ja"
+}

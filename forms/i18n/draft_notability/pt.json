@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"book-choice-label": "Livros",
+	"event-choice-label": "Eventos",
+	"film-choice-label": "Filmes",
+	"music-choice-label": "Música",
+	"person-choice-label": "Pessoa",
+	"org-choice-label": "Organizações e empresas",
+	"web-choice-label": "Conteúdo web",
+	"other-choice-label": "Outra",
+	"form-title": "Notoriedade",
+	"notable-no-label": "não",
+	"notable-yes-label": "sim",
+	"damaging-label": "Prejudicial?",
+	"damaging-false-label": "não",
+	"damaging-true-label": "sim"
+}

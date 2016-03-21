@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robin van der Vliet"
+		]
+	},
+	"book-choice-label": "Libroj",
+	"film-choice-label": "Filmoj",
+	"music-choice-label": "Muziko",
+	"notable-no-label": "ne",
+	"notable-yes-label": "jes",
+	"damaging-false-label": "ne",
+	"damaging-true-label": "jes"
+}

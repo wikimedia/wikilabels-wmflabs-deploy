@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maroen1990",
+			"محمد أحمد عبد الفتاح"
+		]
+	},
+	"damaging-no-label": "لا",
+	"damaging-no-tooltip": "لا، هذا التعديل ليس ضارًا ويمكن إبقاؤه.",
+	"damaging-yes-label": "نعم",
+	"damaging-yes-tooltip": "نعم، هذا التعديل ضار ويجب التراجع عنه.",
+	"goodfaith-no-label": "لا",
+	"goodfaith-no-tooltip": "لا، يبدو أن هذا التعديل أجري بسوء نية.",
+	"goodfaith-yes-label": "نعم",
+	"goodfaith-yes-tooltip": "نعم، يبدو أن هذا التعديل أجري بحسن نية."
+}

@@ -6,20 +6,20 @@
 			"Reza1615"
 		]
 	},
+	"guideline-choice-label": "این مقاله با استناد به کدام معیار سرشناس است؟",
 	"book-choice-label": "کتاب‌ها",
-	"damaging-false-label": "نه",
-	"damaging-label": "آسیب زننده؟",
-	"damaging-true-label": "بله",
 	"event-choice-label": "مناسبت‌ها",
 	"film-choice-label": "فیلم‌ها",
-	"form-title": "سرشناسی",
-	"guideline-choice-label": "این مقاله با استناد به کدام معیار سرشناس است؟",
 	"music-choice-label": "موسیقی",
-	"notable-no-label": "نه",
-	"notable-switch": "آیا مقاله با توجه به این رهنمود سرشناس است؟",
-	"notable-yes-label": "بله",
-	"org-choice-label": "سازمان‌ها و شرکت‌ها",
-	"other-choice-label": "سایر",
 	"person-choice-label": "انسان‌ها",
-	"web-choice-label": "محتوای وب"
+	"org-choice-label": "سازمان‌ها و شرکت‌ها",
+	"web-choice-label": "محتوای وب",
+	"other-choice-label": "سایر",
+	"form-title": "سرشناسی",
+	"notable-switch": "آیا مقاله با توجه به این رهنمود سرشناس است؟",
+	"notable-no-label": "نه",
+	"notable-yes-label": "بله",
+	"damaging-label": "آسیب زننده؟",
+	"damaging-false-label": "نه",
+	"damaging-true-label": "بله"
 }

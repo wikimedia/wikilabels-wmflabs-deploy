@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"book-choice-label": "Bicher",
+	"film-choice-label": "Filmer",
+	"music-choice-label": "Musek",
+	"person-choice-label": "Leit",
+	"notable-no-label": "neen",
+	"notable-yes-label": "jo",
+	"damaging-false-label": "neen",
+	"damaging-true-label": "jo"
+}

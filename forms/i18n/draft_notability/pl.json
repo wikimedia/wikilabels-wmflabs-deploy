@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps"
+		]
+	},
+	"book-choice-label": "Książki",
+	"event-choice-label": "Wydarzenia",
+	"film-choice-label": "Filmy",
+	"music-choice-label": "Muzyka",
+	"person-choice-label": "Osoby",
+	"notable-no-label": "nie",
+	"notable-yes-label": "tak",
+	"damaging-false-label": "nie",
+	"damaging-true-label": "tak"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"guideline-choice-label": "In quale delle seguenti linee guida sulla rilevanza (se del caso) ricade l'argomento di questa voce?",
+	"book-choice-label": "Libri",
+	"event-choice-label": "Eventi",
+	"film-choice-label": "Film",
+	"music-choice-label": "Musica",
+	"person-choice-label": "Persone",
+	"org-choice-label": "Organizzazioni e aziende",
+	"web-choice-label": "Contenuto web",
+	"other-choice-label": "Altro",
+	"form-title": "Rilevanza",
+	"notable-switch": "È un argomento rilevante in base a questa linea guida?",
+	"notable-no-label": "no",
+	"notable-yes-label": "sì",
+	"damaging-label": "Dannoso?",
+	"damaging-false-label": "no",
+	"damaging-true-label": "sì"
+}

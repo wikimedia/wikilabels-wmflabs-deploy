@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"guideline-choice-label": "Кои начела за значајност (ако ги има) не ги задоволува статијава?",
+	"book-choice-label": "Книги",
+	"event-choice-label": "Настани",
+	"film-choice-label": "Филмови",
+	"music-choice-label": "Музика",
+	"person-choice-label": "Луѓе",
+	"org-choice-label": "Организации и претпријатија",
+	"web-choice-label": "Содржина од семрежјето",
+	"other-choice-label": "Друго",
+	"form-title": "Значајност",
+	"notable-switch": "Дали темава е значајна согласно начелово?",
+	"notable-no-label": "не",
+	"notable-yes-label": "да",
+	"damaging-label": "Штетно?",
+	"damaging-false-label": "не",
+	"damaging-true-label": "да"
+}

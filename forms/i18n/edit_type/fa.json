@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Arian Ar",
-			"Reza1615"
+			"Reza1615",
+			"Alirezaaa",
+			"Ladsgroup"
 		]
 	},
 	"bodycopy-label": "کپی بدنه",
@@ -26,6 +28,7 @@
 	"list-label": "فهرست",
 	"markup-label": "مارک‌آپ",
 	"media-label": "رسانه",
+	"modification-label": "تغییر",
 	"notes-label": "یادداشت‌ها",
 	"other-description": "هیچ‌کدام از گزینه‌های بالا, لطفا یک یادداشت بگذارید.",
 	"other-label": "سایر",
@@ -43,5 +46,6 @@
 	"verifiability-description": "اضافه‌کردن منابع, ارجاع",
 	"verifiability-label": "تأییدپذیری",
 	"wikification-label": "ویکی‌سازی",
+	"wikilink-description": "به صفحهٔ دیگری از ویکی‌پدیای فارسی پیوند دهید. مانند: <code>[[اوبونتو|اوبونتو]]</code>",
 	"wikilink-label": "ویکی‌پیوند"
 }

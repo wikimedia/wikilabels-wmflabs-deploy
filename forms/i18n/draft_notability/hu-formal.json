@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Futhark1988"
+		]
+	},
+	"book-choice-label": "Könyvek",
+	"film-choice-label": "Filmek",
+	"music-choice-label": "Zene",
+	"person-choice-label": "Emberek",
+	"other-choice-label": "Egyéb",
+	"form-title": "Jelentősség",
+	"notable-no-label": "nem",
+	"notable-yes-label": "igen",
+	"damaging-label": "Káros?",
+	"damaging-true-label": "igen"
+}

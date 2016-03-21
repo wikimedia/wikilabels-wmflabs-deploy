@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maroen1990",
+			"محمد أحمد عبد الفتاح"
+		]
+	},
+	"book-choice-label": "كتاب",
+	"event-choice-label": "أحداث",
+	"film-choice-label": "افلام",
+	"music-choice-label": "موسيقى",
+	"person-choice-label": "الأشخاص",
+	"other-choice-label": "أخرى",
+	"form-title": "الملحوظية",
+	"notable-no-label": "لا",
+	"notable-yes-label": " نعم",
+	"damaging-false-label": "لا",
+	"damaging-true-label": "نعم"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"guideline-choice-label": "Đề tài của bài này trực thuộc hướng dẫn độ nổi bật nào (nếu có)?",
+	"book-choice-label": "Sách",
+	"event-choice-label": "Sự kiện",
+	"film-choice-label": "Điện ảnh",
+	"music-choice-label": "Âm nhạc",
+	"person-choice-label": "Nhân vật",
+	"org-choice-label": "Tổ chức và công ty",
+	"web-choice-label": "Nội dung Web",
+	"other-choice-label": "Khác",
+	"form-title": "Độ nổi bật",
+	"notable-switch": "Đề tài có nổi bật theo hướng dẫn này không?",
+	"notable-no-label": "không",
+	"notable-yes-label": "có",
+	"damaging-label": "Có hại không?",
+	"damaging-false-label": "không",
+	"damaging-true-label": "có"
+}

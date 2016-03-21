@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lizalizaufa",
+			"Айсар",
+			"Янмурза Баки"
+		]
+	},
+	"guideline-choice-label": "Киләһе ниндәй билдәле ҡараш (әгәр булһа), был мәҡәләне көҙ темаһына ҡуйырға буламы?",
+	"book-choice-label": "Китаптар",
+	"event-choice-label": "Ваҡиғалар",
+	"film-choice-label": "Фильмдар",
+	"music-choice-label": "Музыка",
+	"person-choice-label": "Кешеләр (халыҡ)",
+	"org-choice-label": "Ойошмалар һәм компаниялар",
+	"notable-no-label": "юҡ",
+	"notable-yes-label": "эйе",
+	"damaging-false-label": "юҡ",
+	"damaging-true-label": "эйе"
+}

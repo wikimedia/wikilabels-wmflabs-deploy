@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Wladek92"
 		]
 	},
 	"bodycopy-description": "L’article principal ou la partie du texte (distinct des entêtes, sous-titres, et graphismes)",
@@ -18,6 +19,7 @@
 	"countervandalism-label": "Anti-vandalisme",
 	"datavalue-description": "Nombres, Vrai/Faux/oui/non, dates ou heures. Par ex. <code>3 janvier</code>, <code>$150</code>, <code>2015/01/02</code>, <code>{{Infobox president|<u>is-current=yes</u>}}</code>, etc.",
 	"datavalue-label": "Valeur de donnée",
+	"deletion-description": "Voir tout le contenu de la description ici: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"deletion-label": "Suppression",
 	"disambiguation-description": "relier depuis une page de désambiguïsation vers la page spécifique.",
 	"disambiguation-label": "Désambiguïsation",
@@ -31,6 +33,7 @@
 	"heading-label": "Titre",
 	"information-description": "Continu d’information factuelle ou significative. Noter que l’on peut modifier la « copie du contenu » sans modifier l’« information » contenue dedans.",
 	"information-label": "Information",
+	"insertion-description": "Voir tout le contenu de la description ici: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"insertion-label": "Insertion",
 	"interwikilink-description": "Liens vers une page d’un autre site web de projet WikimédiaL, comme Meta ou une autre langue. Par ex. <code>[[:mw:Extension:OAuth]]</code>",
 	"interwikilink-label": "Lien interwiki",
@@ -40,6 +43,7 @@
 	"markup-label": "Marquage",
 	"media-description": "Objects fichiers de média (images, audio, vidéo). En général sous la forme d’un lien <code>[[File:...]]</code>, mais apparaît parfois dans un modèle comme un paramètre <code>filename = File:...</code>.",
 	"media-label": "Média",
+	"modification-description": "Voir tout le contenu de la description ici : [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"modification-label": "Modification",
 	"notes-label": "Notes",
 	"other-description": "aucun de ceux ci-dessus, veuillez laisser une note.",

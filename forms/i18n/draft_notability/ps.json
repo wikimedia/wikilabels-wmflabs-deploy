@@ -1,16 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"عثمان منصور انصاري"
 		]
 	},
 	"book-choice-label": "کتابونه",
-	"damaging-false-label": "نه",
-	"damaging-true-label": "هو",
 	"event-choice-label": "پېښې",
-	"film-choice-label": "فلمونه",
+	"film-choice-label": "فېلمونه",
 	"music-choice-label": "موسيقي",
-	"notable-yes-label": "هو",
+	"person-choice-label": "خلک",
 	"other-choice-label": "نور",
-	"person-choice-label": "خلک"
+	"notable-no-label": "نه",
+	"notable-yes-label": "هو",
+	"damaging-false-label": "نه",
+	"damaging-true-label": "هو"
 }

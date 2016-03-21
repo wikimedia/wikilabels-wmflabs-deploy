@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"damaging-help": "Vuoi annullare questa modifica?",
+	"damaging-label": "Dannoso?",
+	"damaging-no-label": "No",
+	"damaging-no-tooltip": "No, questa modifica non è dannosa e può essere mantenuta così com'è.",
+	"damaging-yes-label": "Sì",
+	"damaging-yes-tooltip": "Sì, questa modifica è dannosa e deve essere annullata.",
+	"goodfaith-help": "Sembra come se l'autore di questa modifica stava cercando di contribuire in modo produttivo?",
+	"goodfaith-label": "Buona fede?",
+	"goodfaith-no-label": "No",
+	"goodfaith-no-tooltip": "No, questa modifica sembra essere stata fatta in mala fede.",
+	"goodfaith-yes-label": "Sì",
+	"goodfaith-yes-tooltip": "Sì, questa modifica sembra essere stata fatta in buona fede."
+}

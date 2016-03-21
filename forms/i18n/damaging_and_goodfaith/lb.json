@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"damaging-no-label": "Neen",
+	"damaging-no-tooltip": "Neen, dës Ännerung ass net schiedlech a ka gehal ginn.",
+	"damaging-yes-label": "Jo",
+	"damaging-yes-tooltip": "Jo, dës Ännerung ass schiedlech a soll zeréckgesat ginn.",
+	"goodfaith-label": "Gutt Absicht?",
+	"goodfaith-no-label": "Neen",
+	"goodfaith-no-tooltip": "Neen, dës Ännerung schéngt a schlechter Absicht gemaacht ze gi sinn.",
+	"goodfaith-yes-label": "Jo",
+	"goodfaith-yes-tooltip": "Jo, dës Ännerung gouf wahrscheinlech a gudder Absicht gemaach.",
+	"unsure-label": "Onsécher?"
+}

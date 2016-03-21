@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"damaging-help": "Vill du ångra denna redigering?",
+	"damaging-no-label": "Nej",
+	"damaging-yes-label": "Ja",
+	"goodfaith-no-label": "Nej",
+	"goodfaith-yes-label": "Ja",
+	"unsure-label": "Osäker?"
+}

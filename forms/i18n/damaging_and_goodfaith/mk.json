@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"damaging-help": "Дали би го отповикале уредувањево?",
+	"damaging-label": "Дали е штетно?",
+	"damaging-no-label": "Не",
+	"damaging-no-tooltip": "Не, уредувањево не е штетно и може да остане какво што е.",
+	"damaging-yes-label": "Да",
+	"damaging-yes-tooltip": "Да, уредувањево е штетно и треба да се отповика.",
+	"goodfaith-help": "Дали ви изгледа дека авторот на уредувањево сакал да направи конструктивен придонес?",
+	"goodfaith-label": "Со добра намера?",
+	"goodfaith-no-label": "Не",
+	"goodfaith-no-tooltip": "Не, уредувањево делува злонамерно.",
+	"goodfaith-yes-label": "Да",
+	"goodfaith-yes-tooltip": "Да, уредувањево делува добронамерно.",
+	"unsure-label": "Не сте сигурни?"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Futhark1988"
+		]
+	},
+	"damaging-help": "Visszavonná ezt a szerkesztést?",
+	"damaging-label": "Káros?",
+	"damaging-no-label": "Nem",
+	"goodfaith-no-label": "Nem",
+	"unsure-label": "Bizonytalan?"
+}

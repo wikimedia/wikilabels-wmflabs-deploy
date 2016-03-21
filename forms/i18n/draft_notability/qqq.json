@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Robby"
+		]
+	},
+	"book-choice-label": "{{Identical|Book}}",
+	"event-choice-label": "{{Identical|Event}}",
+	"film-choice-label": "{{Identical|Film}}",
+	"music-choice-label": "{{Identical|Music}}",
+	"person-choice-label": "{{Identical|People}}",
+	"other-choice-label": "{{Identical|Other}}",
+	"notable-no-label": "{{Identical|No}}",
+	"notable-yes-label": "{{Identical|Yes}}",
+	"damaging-false-label": "{{Identical|No}}",
+	"damaging-true-label": "{{Identical|Yes}}"
+}
