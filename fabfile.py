@@ -127,6 +127,7 @@ def update_config(branch='deploy'):
     with cd(config_dir):
         sr('git', 'fetch', 'origin')
         sr('git', 'reset', '--hard', 'origin/%s' % branch)
+        sr('git', 'submodule', 'update', '--init', '--recursive')
 
 
 def restart_uwsgi():
