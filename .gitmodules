@@ -1,0 +1,3 @@
+[submodule "submodules/wikilabels"]
+	path = submodules/wikilabels
+	url = https://github.com/wiki-ai/wikilabels

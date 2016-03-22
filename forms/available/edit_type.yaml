@@ -1,7 +1,7 @@
 name: edit_type
 
 fields:
-  - class: "SemanticOperationsSelector"
+  - class: "SemanticsSelector"
     name: "semantic_labels"
     meaningsLabel: "<semanticlabels-label>"
     meanings:
@@ -33,48 +33,6 @@ fields:
          "description": "<process-description>"}
       - {"label": "<other-label>", "value": "other",
          "description": "<other-description>"}
-    objects:
-      - {"label": "<wikilink-label>", "value": "wikilink",
-         "description": "<wikilink-description>"}
-      - {"label": "<interwikilink-label>", "value": "interwikilink",
-         "description": "<interwikilink-description>"}
-      - {"label": "<externallink-label>", "value": "externallink",
-         "description": "<externallink-description>"}
-      - {"label": "<ref-label>", "value": "ref",
-         "description": "<ref-description>"}
-      - {"label": "<cat-label>", "value": "cat",
-         "description": "<cat-description>"}
-      - {"label": "<heading-label>", "value": "heading",
-         "description": "<heading-description>"}
-      - {"label": "<table-label>", "value": "table",
-         "description": "<table-description>"}
-      - {"label": "<template-label>", "value": "template",
-         "description": "<template-description>"}
-      - {"label": "<cleanuptag-label>", "value": "cleanuptag",
-         "description": "<cleanuptag-description>"}
-      - {"label": "<processtag-label>", "value": "processtag",
-         "description": "<processtag-description>"}
-      - {"label": "<list-label>", "value": "list",
-         "description": "<list-description>"}
-      - {"label": "<markup-label>", "value": "markup",
-         "description": "<markup-description>"}
-      - {"label": "<specialchars-label>", "value": "specialchars",
-         "description": "<specialchars-description>"}
-      - {"label": "<media-label>", "value": "media",
-         "description": "<media-description>"}
-      - {"label": "<bodycopy-label>", "value": "bodycopy",
-         "description": "<bodycopy-description>"}
-      - {"label": "<datavalue-label>", "value": "datavalue",
-         "description": "<datavalue-description>"}
-      - {"label": "<punctuation-label>", "value": "punctuation",
-         "description": "<punctuation-description>"}
-    actions:
-      - {"label": "<deletion-label>", "value": "deletion",
-         "description": "<deletion-description>"}
-      - {"label": "<insertion-label>", "value": "insertion",
-         "description": "<insertion-description>"}
-      - {"label": "<modification-label>", "value": "modification",
-         "description": "<modification-description>"}
   - class: "FieldsetLayout"
     label: "<information-label>"
     icon: "info"

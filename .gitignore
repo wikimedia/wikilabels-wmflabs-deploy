@@ -3,3 +3,4 @@ oauth-wikimedia.yaml
 master-db-config.yaml
 deploy-db-config.yaml
 wikilabels-db-config.yaml
+99-local.yaml
