@@ -68,8 +68,6 @@ fields:
          "description": "<datavalue-description>"}
       - {"label": "<punctuation-label>", "value": "punctuation",
          "description": "<punctuation-description>"}
-      - {"label": "<information-label>", "value": "information",
-         "description": "<information-description>"}
     actions:
       - {"label": "<deletion-label>", "value": "deletion",
          "description": "<deletion-description>"}
@@ -77,6 +75,32 @@ fields:
          "description": "<insertion-description>"}
       - {"label": "<modification-label>", "value": "modification",
          "description": "<modification-description>"}
+  - class: "FieldsetLayout"
+    label: "<information-label>"
+    icon: "info"
+    iconTitle: "<information-tooltip>"
+    items:
+      - class: "FieldLayout"
+        label: "<added-label>"
+        align: "right"
+        classes: ['inline-field']
+        fieldWidget:
+          name: "information-added"
+          class: "CheckboxInputWidget"
+      - class: "FieldLayout"
+        label: "<modified-label>"
+        align: "right"
+        classes: ['inline-field']
+        fieldWidget:
+          name: "information-modified"
+          class: "CheckboxInputWidget"
+      - class: "FieldLayout"
+        label: "<removed-label>"
+        align: "right"
+        classes: ['inline-field']
+        fieldWidget:
+          name: "information-removed"
+          class: "CheckboxInputWidget"
   - class: "FieldLayout"
     label: "<notes-label>"
     align: "top"
