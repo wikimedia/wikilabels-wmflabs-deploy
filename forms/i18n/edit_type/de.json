@@ -4,6 +4,7 @@
 			"Metalhead64"
 		]
 	},
+	"added-label": "Hinzugefügt",
 	"bodycopy-description": "Der Hauptartikel oder Textteil (im Unterschied zu den Überschriften, Unterüberschriften und Grafiken)",
 	"bodycopy-label": "Körperkopie",
 	"cat-description": "Ein Kategorielink, z.&nbsp;B. <code>[[Kategorie:Hüte]]</code>",
@@ -30,7 +31,7 @@
 	"factupdate-label": "Tatsachenaktualisierung",
 	"heading-description": "Abschnittsüberschriften, z.&nbsp;B. <code>== Überschrift 2 ==</code>",
 	"heading-label": "Überschrift",
-	"information-description": "Sachliche oder aussagekräftige Informationsinhalte. Beachte, dass jemand „Körperkopie“ ändern könnte, ohne die enthaltene „Information“ zu ändern.",
+	"information-tooltip": "Das Markieren dieser Kontrollkästchen ist der sachlich oder aussagekräftig geänderte Inhalt. Beachte, dass jemand „Körperkopie“ ändern könnte, ohne die enthaltene „Information“ zu ändern.",
 	"information-label": "Information",
 	"insertion-description": "Siehe hier den gesamten Beschreibungsinhalt: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"insertion-label": "Einfügung",
@@ -44,6 +45,7 @@
 	"media-label": "Medien",
 	"modification-description": "Siehe hier den gesamten Beschreibungsinhalt: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"modification-label": "Veränderung",
+	"modified-label": "Verändert",
 	"notes-label": "Anmerkungen",
 	"other-description": "Keine der obigen, bitte eine Anmerkung hinterlassen.",
 	"other-label": "Andere",
@@ -59,6 +61,7 @@
 	"ref-label": "Einzelnachweis",
 	"refactoring-description": "Den Artikel umstrukturieren; Inhalt verschieben und neu schreiben, ohne die Bedeutung zu ändern.",
 	"refactoring-label": "Überarbeiten",
+	"removed-label": "Entfernt",
 	"semanticlabels-label": "Wähle die wahrscheinliche Absicht für diese Bearbeitung aus.",
 	"simplification-description": "Komplexität reduzieren oder Breite der Diskussion; eventuell Informationen entfernen.",
 	"simplification-label": "Vereinfachung",

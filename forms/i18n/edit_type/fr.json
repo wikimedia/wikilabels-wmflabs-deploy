@@ -5,6 +5,7 @@
 			"Wladek92"
 		]
 	},
+	"added-label": "Ajouté",
 	"bodycopy-description": "L’article principal ou la partie du texte (distinct des entêtes, sous-titres, et graphismes)",
 	"bodycopy-label": "Copie du contenu",
 	"cat-description": "Un lien de catégorie. Par ex. <code>[[Catégorie:Chapeaux]]</code>",
@@ -31,7 +32,7 @@
 	"factupdate-label": "Mise à jour de fait",
 	"heading-description": "Titres de section. Par ex. <code>== Titre 2 ==</code>",
 	"heading-label": "Titre",
-	"information-description": "Continu d’information factuelle ou significative. Noter que l’on peut modifier la « copie du contenu » sans modifier l’« information » contenue dedans.",
+	"information-tooltip": "Cocher ces cases indique que le contenu de l’information factuel ou significatif a été modifié. Notez qu’on peut modifier « la copie du corps » sans modifier l’« information » contenue.",
 	"information-label": "Information",
 	"insertion-description": "Voir tout le contenu de la description ici: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"insertion-label": "Insertion",
@@ -45,6 +46,7 @@
 	"media-label": "Média",
 	"modification-description": "Voir tout le contenu de la description ici : [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"modification-label": "Modification",
+	"modified-label": "Modifié",
 	"notes-label": "Notes",
 	"other-description": "aucun de ceux ci-dessus, veuillez laisser une note.",
 	"other-label": "Autre",
@@ -60,6 +62,7 @@
 	"ref-label": "Référence",
 	"refactoring-description": "restructurer l’article ; déplacer et réécrire le contenu, sans modifier sa signification.",
 	"refactoring-label": "Réécriture",
+	"removed-label": "Supprimé",
 	"semanticlabels-label": "Choisir les intention(s) probables pour la modification",
 	"simplification-description": "réduire la complexité ou l’étendue de la discussion ; peut supprimer des informations.",
 	"simplification-label": "Simplification",

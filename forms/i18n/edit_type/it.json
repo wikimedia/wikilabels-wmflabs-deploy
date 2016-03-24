@@ -4,6 +4,7 @@
 			"Beta16"
 		]
 	},
+	"added-label": "Aggiunto",
 	"bodycopy-description": "Contenuto testuale di una voce (ad esclusione di intestazioni, sottointestazioni, elementi grafici etc.).",
 	"bodycopy-label": "Corpo del testo",
 	"cat-description": "Link a una categoria. Per esempio, <code>[[Categoria:Cappelli]]</code>.",
@@ -30,7 +31,7 @@
 	"factupdate-label": "Aggiornamento fattuale",
 	"heading-description": "Un'intestazione di sezione. Per esempio, <code>== Sezione 2 ==</code>.",
 	"heading-label": "Intestazione",
-	"information-description": "Contenuto che rappresenta un'informazione fattuale.  Nota che è possibile modificare il corpo del testo senza modificare l'informazione in esso contenuta.",
+	"information-tooltip": "Controlla queste caselle è il contenuto informativo di fatto o di significato modificato. Nota che si potrebbe cambiare il \"corpo del testo\" senza cambiare le \"informazioni\" contenute.",
 	"information-label": "Informazione",
 	"insertion-description": "aggiunge un elemento.",
 	"insertion-label": "Inserimento",
@@ -44,6 +45,7 @@
 	"media-label": "Elemento multimediale",
 	"modification-description": "modifica un elemento.",
 	"modification-label": "Modifica",
+	"modified-label": "Modificato",
 	"notes-label": "Commenti",
 	"other-description": "nessuna di queste opzioni, per favore lascia un commento.",
 	"other-label": "Altro",
@@ -59,6 +61,7 @@
 	"ref-label": "Nota",
 	"refactoring-description": "riordina e ristruttura una voce, muovendo o riscrivendo il contenuto, senza modificarne il significato.",
 	"refactoring-label": "Riorganizzazione",
+	"removed-label": "Rimosso",
 	"semanticlabels-label": "Scegli l'intenzione più probabile per questa modifica.",
 	"simplification-description": "riduce la complessità o lunghezza di un passaggio. Può rimuovere informazione.",
 	"simplification-label": "Semplificazione",

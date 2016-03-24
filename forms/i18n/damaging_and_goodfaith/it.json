@@ -15,5 +15,6 @@
 	"goodfaith-no-label": "No",
 	"goodfaith-no-tooltip": "No, questa modifica sembra essere stata fatta in mala fede.",
 	"goodfaith-yes-label": "Sì",
-	"goodfaith-yes-tooltip": "Sì, questa modifica sembra essere stata fatta in buona fede."
+	"goodfaith-yes-tooltip": "Sì, questa modifica sembra essere stata fatta in buona fede.",
+	"unsure-label": "Indeciso?"
 }

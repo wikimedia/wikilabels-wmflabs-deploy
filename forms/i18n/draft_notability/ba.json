@@ -13,8 +13,11 @@
 	"music-choice-label": "Музыка",
 	"person-choice-label": "Кешеләр (халыҡ)",
 	"org-choice-label": "Ойошмалар һәм компаниялар",
+	"other-choice-label": "Башҡа",
+	"form-title": "Әһәмиәтлек",
 	"notable-no-label": "юҡ",
 	"notable-yes-label": "эйе",
+	"damaging-label": "Боҙоу?",
 	"damaging-false-label": "юҡ",
 	"damaging-true-label": "эйе"
 }

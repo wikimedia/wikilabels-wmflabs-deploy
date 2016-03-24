@@ -2,13 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Maroen1990",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"Ayatun"
 		]
 	},
 	"damaging-no-label": "لا",
 	"damaging-no-tooltip": "لا، هذا التعديل ليس ضارًا ويمكن إبقاؤه.",
 	"damaging-yes-label": "نعم",
 	"damaging-yes-tooltip": "نعم، هذا التعديل ضار ويجب التراجع عنه.",
+	"goodfaith-label": "إيمان جيد ؟",
 	"goodfaith-no-label": "لا",
 	"goodfaith-no-tooltip": "لا، يبدو أن هذا التعديل أجري بسوء نية.",
 	"goodfaith-yes-label": "نعم",

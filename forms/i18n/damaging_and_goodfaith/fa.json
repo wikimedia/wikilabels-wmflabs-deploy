@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Arian Ar",
-			"Ladsgroup"
+			"Ladsgroup",
+			"Saeidpourbabak"
 		]
 	},
 	"damaging-help": "آیا ویرایش باعث خراب شدن مقاله شده‌است؟",
@@ -11,7 +12,7 @@
 	"damaging-no-tooltip": "نه، باید این ویرایش همین‌گونه باشد.",
 	"damaging-yes-label": "بله",
 	"damaging-yes-tooltip": "بله، این ویرایش باعث خراب شدن مقاله شده‌است و باید واگردانی شود",
-	"goodfaith-help": "آیا کاربر ویرایشگر با حسن نیت ویرایش کرده و سازنده بوده است؟",
+	"goodfaith-help": "آیا ویرایش با حسن نیت انجام شده است؟",
 	"goodfaith-label": "با فرض حسن نیت؟",
 	"goodfaith-no-label": "نه",
 	"goodfaith-no-tooltip": "نه، این ویرایش با حسن نیت نبوده است.",

@@ -4,6 +4,7 @@
 			"Bjankuloski06"
 		]
 	},
+	"added-label": "Додадено",
 	"bodycopy-description": "Главниот дел на статијата или текстот (засебно од поднасловите и графичките елементи)",
 	"bodycopy-label": "Копија на содржината",
 	"cat-description": "Врска за категорија. На пр. <code>[[Категорија:Зеленчук]]</code>",
@@ -30,7 +31,7 @@
 	"factupdate-label": "Поднова на факти",
 	"heading-description": "Поднаслови. На пр. <code>== Поднаслов 2 ==</code>",
 	"heading-label": "Наслов",
-	"information-description": "Фактографска информативна содржина со смисла. Имајте на ум дека не може да се смени содржината без „информации“.",
+	"information-tooltip": "Штиклирајте ги квадратчињава ако е изменета фактографската содржина. Имајте на ум дека не може да се смени примерокот од содржината без да се сменат информациите.",
 	"information-label": "Информации",
 	"insertion-description": "Целата описна содржина ќе ја најдете на: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"insertion-label": "Вметнување",
@@ -44,6 +45,7 @@
 	"media-label": "Слика/снимка",
 	"modification-description": "Целата описна содржина ќе ја најдете на: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"modification-label": "Видоизмена",
+	"modified-label": "Изменето",
 	"notes-label": "Белешки",
 	"other-description": "ниедно од наведените; напишете белешка.",
 	"other-label": "Друго",
@@ -59,6 +61,7 @@
 	"ref-label": "Навод",
 	"refactoring-description": "преструктуирајте ја статијата; преместете или напишете ја содржината поинаку без да ѝ се промени смислата.",
 	"refactoring-label": "Пресрочување",
+	"removed-label": "Отстрането",
 	"semanticlabels-label": "Изберете веројатна намера на уредувањето",
 	"simplification-description": "намалете ја сложеноста или опсегот на дискусијата; може да бидат остранети информации.",
 	"simplification-label": "Упростување",
