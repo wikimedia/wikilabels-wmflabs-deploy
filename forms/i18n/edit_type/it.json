@@ -63,6 +63,7 @@
 	"refactoring-label": "Riorganizzazione",
 	"removed-label": "Rimosso",
 	"semanticlabels-label": "Scegli l'intenzione più probabile per questa modifica.",
+	"semanticlabels-empty": "Nessuna intenzione prescelto. Si prega di aggiungere l'intenzione o 'Altro'.",
 	"simplification-description": "riduce la complessità o lunghezza di un passaggio. Può rimuovere informazione.",
 	"simplification-label": "Semplificazione",
 	"specialchars-description": "Caratteri matematici, greci etc. Per esempio, &Sigma; (&amp;Sigma;) o &middot; (&amp;middot;)",
