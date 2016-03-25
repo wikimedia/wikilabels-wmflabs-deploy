@@ -4,6 +4,7 @@ fields:
   - class: "SemanticsSelector"
     name: "semantic_labels"
     meaningsLabel: "<semanticlabels-label>"
+    emptyMessage: "<semanticlabels-empty>"
     meanings:
       - {"label": "<copyediting-label>", "value": "copyediting",
          "description": "<copyediting-description>"}
