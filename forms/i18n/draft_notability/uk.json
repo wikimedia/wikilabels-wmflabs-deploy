@@ -1,18 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Green Zero"
+			"Green Zero",
+			"Piramidion"
 		]
 	},
+	"guideline-choice-label": "Під яку із вказаних настанов значимості (якщо такі є) підпадає тема статті?",
 	"book-choice-label": "Книги",
 	"event-choice-label": "Події",
 	"film-choice-label": "Фільми",
 	"music-choice-label": "Музика",
 	"person-choice-label": "Люди",
+	"org-choice-label": "Організації та компанії",
 	"web-choice-label": "Веб-контент",
 	"other-choice-label": "Інше",
+	"form-title": "Значимість",
+	"notable-switch": "Чи є ця тема значимою відповідно до цієї настанови?",
 	"notable-no-label": "ні",
 	"notable-yes-label": "так",
+	"damaging-label": "Шкідлива?",
 	"damaging-false-label": "ні",
 	"damaging-true-label": "так"
 }

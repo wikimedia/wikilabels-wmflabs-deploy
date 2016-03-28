@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Green Zero",
+			"Jbuket",
+			"Piramidion",
+			"Visem"
+		]
+	},
+	"added-label": "Додано",
+	"bodycopy-description": "Основна стаття або частина тексту (на противагу заголовкам, підзаголовкам та графічним елементам)",
+	"copyediting-label": "Копія редагування",
+	"countervandalism-description": "відновити або видалити вандалізм.",
+	"deletion-label": "Видалення",
+	"disambiguation-label": "Значення",
+	"elaboration-label": "Розробка",
+	"information-label": "Інформація",
+	"modification-label": "Модифікація",
+	"modified-label": "Змінено",
+	"notes-label": "Примітки",
+	"other-label": "Інше",
+	"pov-label": "Точка зору",
+	"process-label": "Процес",
+	"removed-label": "Вилучено",
+	"semanticlabels-empty": "Немає обраних намірів. Будь ласка, додайте намір або 'інше'.",
+	"vandalism-label": "Вандалізм",
+	"verifiability-description": "додати джерела, цитати",
+	"verifiability-label": "Перевірність",
+	"wikification-label": "Вікіфікація"
+}

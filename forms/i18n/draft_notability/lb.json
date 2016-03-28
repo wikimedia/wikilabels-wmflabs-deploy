@@ -5,11 +5,13 @@
 		]
 	},
 	"book-choice-label": "Bicher",
+	"event-choice-label": "Evenementer",
 	"film-choice-label": "Filmer",
 	"music-choice-label": "Musek",
 	"person-choice-label": "Leit",
 	"notable-no-label": "neen",
 	"notable-yes-label": "jo",
+	"damaging-label": "Schiedlech?",
 	"damaging-false-label": "neen",
 	"damaging-true-label": "jo"
 }

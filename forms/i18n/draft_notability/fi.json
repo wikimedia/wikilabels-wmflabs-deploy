@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikahama"
+		]
+	},
+	"book-choice-label": "Kirjat",
+	"music-choice-label": "Musiikki",
+	"person-choice-label": "Ihmiset",
+	"notable-yes-label": "kyllä",
+	"damaging-false-label": "ei",
+	"damaging-true-label": "kyllä"
+}

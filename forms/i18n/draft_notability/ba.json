@@ -3,7 +3,8 @@
 		"authors": [
 			"Lizalizaufa",
 			"Айсар",
-			"Янмурза Баки"
+			"Янмурза Баки",
+			"Азат Хәлилов"
 		]
 	},
 	"guideline-choice-label": "Киләһе ниндәй билдәле ҡараш (әгәр булһа), был мәҡәләне көҙ темаһына ҡуйырға буламы?",
@@ -13,6 +14,7 @@
 	"music-choice-label": "Музыка",
 	"person-choice-label": "Кешеләр (халыҡ)",
 	"org-choice-label": "Ойошмалар һәм компаниялар",
+	"web-choice-label": "Веб-контент",
 	"other-choice-label": "Башҡа",
 	"form-title": "Әһәмиәтлек",
 	"notable-no-label": "юҡ",
