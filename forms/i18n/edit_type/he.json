@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"LaG roiL"
+		]
+	},
+	"clarification-label": "הבהרה",
+	"copyediting-description": "ניסוח מחדש; שיפור דקדוק, איות, נימה או פיסוק.",
+	"countervandalism-description": "שחזור או הסרת השחתה.",
+	"deletion-label": "מחיקה",
+	"disambiguation-description": "קישור מחדש מדף פירושונים לדף הספציפי.",
+	"disambiguation-label": "פירושונים",
+	"factupdate-description": "עדכון מספרים, תאריכים, מצבי נקודות, פרקים, מצב,  וכד' בהתבסס על מידע חדש.",
+	"factupdate-label": "עדכון עובדות",
+	"information-label": "מידע",
+	"insertion-label": "הכנסה",
+	"modification-label": "שינוי",
+	"notes-label": "הערות",
+	"other-description": "אף אחד מהנ\"ל, נא להשאיר הערה.",
+	"other-label": "אחר",
+	"pov-label": "נקודת מבט",
+	"refactoring-description": "בניית הערך מחדש; העברת ושכתוב התוכן, מבלי שינוי הכוונה.",
+	"refactoring-label": "שיפוץ",
+	"semanticlabels-empty": "לא נבחרו כוונות. נא להוסיף כוונה או \"אחר\".",
+	"simplification-label": "הפשטה",
+	"vandalism-label": "השחתה",
+	"verifiability-description": "הוספת מקורות, ציטוט",
+	"verifiability-label": "יכולת אימות",
+	"wikification-label": "ויקיזציה"
+}

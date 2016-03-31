@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"LaG roiL"
+		]
+	},
+	"book-choice-label": "ספרים",
+	"event-choice-label": "אירועים",
+	"film-choice-label": "סרטים",
+	"music-choice-label": "מוזיקה",
+	"person-choice-label": "אנשים",
+	"org-choice-label": "ארגונים וחברות",
+	"web-choice-label": "תוכן רשתי",
+	"other-choice-label": "אחר",
+	"form-title": "חשיבות",
+	"notable-switch": "האם הנושא ראוי לציון לפי כלל זה?",
+	"notable-no-label": "לא",
+	"notable-yes-label": "כן",
+	"damaging-label": "מזיקה?",
+	"damaging-false-label": "לא",
+	"damaging-true-label": "כן"
+}

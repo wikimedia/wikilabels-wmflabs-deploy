@@ -40,6 +40,7 @@
 	"refactoring-label": "Réécriture",
 	"removed-label": "Supprimé",
 	"semanticlabels-label": "Choisir les intention(s) probables pour la modification",
+	"semanticlabels-empty": "Aucune intention de choisie. Veuillez ajouter une intention ou 'autre'.",
 	"simplification-description": "réduire la complexité ou l’étendue de la discussion ; peut supprimer des informations.",
 	"simplification-label": "Simplification",
 	"vandalism-description": "tentative délibérée de dénaturer l’article.",
