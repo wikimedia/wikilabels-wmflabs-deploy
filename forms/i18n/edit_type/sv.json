@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"deletion-label": "Radering",
+	"information-label": "Information",
+	"other-label": "Övrigt",
+	"simplification-label": "Förenkling",
+	"vandalism-label": "Vandalism",
+	"wikification-label": "Wikifiering"
+}

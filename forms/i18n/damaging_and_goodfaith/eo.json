@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robin van der Vliet"
+		]
+	},
+	"damaging-no-label": "Ne",
+	"damaging-yes-label": "Jes",
+	"goodfaith-no-label": "Ne",
+	"goodfaith-yes-label": "Jes"
+}

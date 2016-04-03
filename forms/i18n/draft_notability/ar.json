@@ -2,19 +2,24 @@
 	"@metadata": {
 		"authors": [
 			"Maroen1990",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"Ghassanmas"
 		]
 	},
+	"guideline-choice-label": "تحت أي من أصناف التالية تقع هذه المقالة؟ اختر كل ما تراه مناسباّ أو اترك فارغاّ إذا لا تقع تحت أي تصنيف.",
 	"book-choice-label": "كتب",
 	"event-choice-label": "أحداث",
 	"film-choice-label": "أفلام",
 	"music-choice-label": "موسيقى",
 	"person-choice-label": "الأشخاص",
+	"org-choice-label": "منظمات و شركات",
 	"web-choice-label": "محتوى وب",
 	"other-choice-label": "أخرى",
 	"form-title": "الملحوظية",
+	"notable-switch": "هل الموضوع جدير بذكر تحت هذا التصنيف",
 	"notable-no-label": "لا",
 	"notable-yes-label": " نعم",
+	"damaging-label": "تعديل سلبي أو سيء",
 	"damaging-false-label": "لا",
 	"damaging-true-label": "نعم"
 }

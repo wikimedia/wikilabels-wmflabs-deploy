@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"damaging-no-label": "Ne",
+	"damaging-yes-label": "Taip",
+	"goodfaith-no-label": "Ne",
+	"goodfaith-yes-label": "Taip"
+}

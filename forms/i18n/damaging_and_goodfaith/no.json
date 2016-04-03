@@ -1,15 +1,3 @@
 {
-    "damaging-help": "Ville du tilbakestilt denne endringen?",
-    "damaging-label": "Ødeleggende?",
-    "damaging-no-label": "Nei",
-    "damaging-no-tooltip": "Nei denne endringene er ikke ødeleggende og kan beholdes som den er.",
-    "damaging-yes-label": "Ja",
-    "damaging-yes-tooltip": "Ja denne endringen er ødeleggende og skulle vært tilbakestilt.",
-    "goodfaith-help": "Ser det ut for deg som om denne bidragsyteren av denne endringen har forsøkt å bidra konstruktivt?",
-    "goodfaith-label": "God tro?",
-    "goodfaith-no-label": "Nei",
-    "goodfaith-no-tooltip": "Nei, denne endringen ser ikke ut som er blitt gjort i god tro.",
-    "goodfaith-yes-label": "Ja",
-    "goodfaith-yes-tooltip": "Ja, denne endringen ser det ut som om er blitt gjort i god tro.",
-    "unsure-label": "Usikker?"
+	"@metadata": []
 }
