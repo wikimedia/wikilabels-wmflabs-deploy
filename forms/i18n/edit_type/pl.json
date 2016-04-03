@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps"
+		]
+	},
+	"added-label": "Dodane",
+	"clarification-label": "Wyjaśnienie",
+	"disambiguation-label": "Ujednoznacznienie",
+	"modification-label": "Modyfikacja",
+	"modified-label": "Zmienione",
+	"notes-label": "Uwagi",
+	"removed-label": "Usunięte",
+	"simplification-label": "Uproszczenie",
+	"vandalism-label": "Wandalizm",
+	"verifiability-label": "Weryfikowalność"
+}

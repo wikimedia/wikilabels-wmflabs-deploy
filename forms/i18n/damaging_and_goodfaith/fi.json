@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikahama"
+		]
+	},
+	"damaging-no-label": "Ei",
+	"damaging-yes-label": "Kyllä",
+	"goodfaith-no-label": "Ei",
+	"goodfaith-yes-label": "Kyllä"
+}

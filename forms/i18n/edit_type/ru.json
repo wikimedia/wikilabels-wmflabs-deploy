@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras",
+			"Янмурза Баки"
+		]
+	},
+	"clarification-label": "Аңлатма",
+	"deletion-label": "Удаление",
+	"information-label": "Информация",
+	"modification-label": "Модификация",
+	"other-description": "юғарыла бер нәмә юҡ, рәхим итеп хат ҡалдырғыҙ.",
+	"pov-label": "Нөктә ҡуйырға",
+	"simplification-label": "Упрощение",
+	"vandalism-label": "Вандализм",
+	"verifiability-label": "Тикшерергә",
+	"wikification-label": "Викификация"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"added-label": "Derbäigesat",
+	"countervandalism-description": "zerécksetzen oder Vandalismus ewechhuelen.",
+	"countervandalism-label": "Vandalismusbekämpfung",
+	"deletion-label": "Läschen",
+	"disambiguation-label": "Homonymie",
+	"elaboration-label": "Elaboratioun",
+	"factupdate-label": "Aktualiséiere vu Fakten",
+	"information-label": "Informatioun",
+	"modification-label": "Ännerung",
+	"modified-label": "Geännert",
+	"notes-label": "Notizen",
+	"other-label": "Anerer",
+	"pov-label": "Standpunkt",
+	"process-label": "Prozess",
+	"removed-label": "Ewechgeholl",
+	"simplification-label": "Vereinfachung",
+	"vandalism-label": "Vandalismius",
+	"wikification-label": "Wikifizéierung"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Futhark1988"
+		]
+	},
+	"clarification-label": "Tisztázás",
+	"countervandalism-label": "Ellen-vandalizmus",
+	"deletion-label": "Törlés",
+	"disambiguation-label": "Egyértelműsítés",
+	"elaboration-label": "Kidolgozás",
+	"insertion-label": "Beillesztés",
+	"modification-label": "Módosítás",
+	"notes-label": "Jegyzetek",
+	"other-description": "az említettek közül egyik sem, kérem hagyjon egy megjegyzést.",
+	"pov-label": "Nézőpont",
+	"simplification-label": "Egyszerűsítés",
+	"vandalism-label": "Vandalizmus",
+	"verifiability-label": "Ellenőrizhetőség"
+}

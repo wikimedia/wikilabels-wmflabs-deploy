@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"damaging-no-label": "ХӀахӀа",
+	"damaging-yes-label": "ХӀаъ",
+	"goodfaith-no-label": "ХӀахӀа",
+	"goodfaith-yes-label": "ХӀаъ"
+}

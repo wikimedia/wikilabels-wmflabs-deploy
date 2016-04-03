@@ -3,16 +3,21 @@
 		"authors": [
 			"Maroen1990",
 			"محمد أحمد عبد الفتاح",
-			"Ayatun"
+			"Ayatun",
+			"Ghassanmas"
 		]
 	},
+	"damaging-help": "هل تريد التراجع عن هذا التعديل ؟",
+	"damaging-label": "هل التعديل سلبي أو سيء؟",
 	"damaging-no-label": "لا",
 	"damaging-no-tooltip": "لا، هذا التعديل ليس ضارًا ويمكن إبقاؤه.",
 	"damaging-yes-label": "نعم",
 	"damaging-yes-tooltip": "نعم، هذا التعديل ضار ويجب التراجع عنه.",
-	"goodfaith-label": "إيمان جيد ؟",
+	"goodfaith-help": "هل من الواضح أن المحرر الذي قام بإجراء هذا تعديل, حاول أن يساهم بطريقة ايجابية أو حسنة؟",
+	"goodfaith-label": "هل النية حسنة؟",
 	"goodfaith-no-label": "لا",
-	"goodfaith-no-tooltip": "لا، يبدو أن هذا التعديل أجري بسوء نية.",
+	"goodfaith-no-tooltip": "لا، يبدو أن هذا التعديل أجريه بسوء نية.",
 	"goodfaith-yes-label": "نعم",
-	"goodfaith-yes-tooltip": "نعم، يبدو أن هذا التعديل أجري بحسن نية."
+	"goodfaith-yes-tooltip": "نعم، يبدو أن هذا التعديل أجري بحسن نية.",
+	"unsure-label": "غير متأكد"
 }

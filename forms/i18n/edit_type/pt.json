@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"clarification-label": "Esclarecimento",
+	"countervandalism-description": "reverter ou remover o vandalismo.",
+	"deletion-label": "Eliminação",
+	"disambiguation-label": "Desambiguação",
+	"elaboration-label": "Elaboração",
+	"information-label": "Informação",
+	"insertion-label": "Inserção",
+	"modification-label": "Modificação",
+	"notes-label": "Notas",
+	"other-label": "Outra",
+	"process-label": "Processo",
+	"simplification-label": "Simplificação",
+	"vandalism-label": "Vandalismo",
+	"verifiability-label": "Verificabilidade",
+	"wikification-label": "Wikificação"
+}

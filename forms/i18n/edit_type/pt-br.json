@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luk3"
+		]
+	},
+	"added-label": "Adicionado",
+	"modified-label": "Modificado",
+	"removed-label": "Removido",
+	"semanticlabels-empty": "Nenhuma intenção(ões) escolhida(s). Por favor adicione uma intenção ou 'outra'."
+}
