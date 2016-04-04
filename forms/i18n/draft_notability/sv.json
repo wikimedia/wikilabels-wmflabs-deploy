@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Josve05a"
 		]
 	},
 	"book-choice-label": "Böcker",
@@ -12,6 +13,7 @@
 	"org-choice-label": "Organisationer och företag",
 	"web-choice-label": "Webbinnehåll",
 	"other-choice-label": "Övrigt",
+	"form-title": "Relevans",
 	"notable-no-label": "nej",
 	"notable-yes-label": "ja",
 	"damaging-false-label": "nej",

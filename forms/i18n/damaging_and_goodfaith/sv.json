@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Josve05a"
 		]
 	},
 	"damaging-help": "Vill du ångra denna redigering?",
 	"damaging-no-label": "Nej",
 	"damaging-yes-label": "Ja",
+	"goodfaith-help": "Verkar det som om användaren av denna redigering försökte att bidra produktivt?",
 	"goodfaith-no-label": "Nej",
 	"goodfaith-yes-label": "Ja",
 	"unsure-label": "Osäker?"
