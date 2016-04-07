@@ -45,6 +45,7 @@ This can be simply run by:
 
 This updates all the web workers of wikilabels to the new code and restarts them.
 """
+import glob
 import os
 
 from fabric.api import cd, env, put, roles, shell_env, sudo
@@ -90,7 +91,7 @@ def setup_db():
     """
     Loads the db schema (will not overwrite data if exists)
     """
-    sr(venv_dir + '/bin/wikilabels', 'load_schema', '--config'
+    sr(venv_dir + '/bin/wikilabels', 'load_schema', '--config',
         os.path.join(config_config_dir))
 
 
