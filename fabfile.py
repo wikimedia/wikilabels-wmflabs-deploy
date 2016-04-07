@@ -45,8 +45,9 @@ This can be simply run by:
 
 This updates all the web workers of wikilabels to the new code and restarts them.
 """
-from fabric.api import cd, env, put, roles, shell_env, sudo
 import os
+
+from fabric.api import cd, env, put, roles, shell_env, sudo
 
 env.roledefs = {
     'web': ['wikilabels-01.wikilabels.eqiad.wmflabs'],
@@ -56,10 +57,8 @@ env.use_ssh_config = True
 env.shell = '/bin/bash -c'
 
 config_dir = '/srv/wikilabels/config'
+config_config_dir = '/srv/wikilabels/config/config'
 venv_dir = '/srv/wikilabels/venv'
-main_config_file = 'labels.wmflabs.org.yaml'
-db_config_file = 'wikilabels-db-config.yaml'
-oauth_creds_file = 'oauth-wikimedia.yaml'
 
 
 def sr(*cmd):
@@ -91,8 +90,8 @@ def setup_db():
     """
     Loads the db schema (will not overwrite data if exists)
     """
-    sr(venv_dir + '/bin/wikilabels', 'load_schema',
-        os.path.join(config_dir, main_config_file))
+    sr(venv_dir + '/bin/wikilabels', 'load_schema', '--config'
+        os.path.join(config_config_dir))
 
 
 def initialize_staging_server():
@@ -150,14 +149,22 @@ def upload_creds(branch='deploy'):
     """
     Uploads config files to server
     """
-    # Upload oauth creds
-    put(oauth_creds_file, config_dir, use_sudo=True)
-    sudo("chown www-data:www-data " + os.path.join(config_dir, oauth_creds_file))
+    if branch == "deploy":
+        creds_folder = "wmflabs"
+    elif branch == "master":
+        creds_folder = "wmflabs-staging"
+    else:
+        raise RuntimeError("I don't know how to deal with branch {0}"
+                           .format(branch))
 
-    # Upload postgres db config
-    put(branch + "-db-config.yaml", os.path.join(config_dir, db_config_file),
-        use_sudo=True)
-    sudo("chown www-data:www-data " + os.path.join(config_dir, db_config_file))
+    creds_paths = os.path.join("config", creds_folder, "*.yaml")
+    for creds_path in glob.glob(creds_paths):
+        # Upload oauth creds
+        put(creds_path, config_config_dir, use_sudo=True)
+
+        creds_filename = os.path.basename(creds_path)
+        sudo("chown www-data:www-data " +
+             os.path.join(config_config_dir, creds_filename))
 
 
 def run_puppet():
