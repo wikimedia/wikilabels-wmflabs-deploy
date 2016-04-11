@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alp Er Tunqa"
+		]
+	},
+	"book-choice-label": "کیتابلار",
+	"event-choice-label": "حادیثه‌لر",
+	"film-choice-label": "فیلملر",
+	"person-choice-label": "شخصلر",
+	"other-choice-label": "آیری",
+	"form-title": "آدلیملیق",
+	"notable-no-label": "یوخ",
+	"notable-yes-label": "هن",
+	"damaging-false-label": "یوْخ",
+	"damaging-true-label": "هن"
+}

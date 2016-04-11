@@ -5,6 +5,7 @@
 			"LaG roiL"
 		]
 	},
+	"guideline-choice-label": "לאיזו מדיניות חשיבות (אם בכלל) הנושא של הערך הזה מתאים?",
 	"book-choice-label": "ספרים",
 	"event-choice-label": "אירועים",
 	"film-choice-label": "סרטים",
@@ -14,7 +15,7 @@
 	"web-choice-label": "תוכן רשתי",
 	"other-choice-label": "אחר",
 	"form-title": "חשיבות",
-	"notable-switch": "האם הנושא ראוי לציון לפי כלל זה?",
+	"notable-switch": "האם הנושא ראוי לציון לפי המדיניות הזאת?",
 	"notable-no-label": "לא",
 	"notable-yes-label": "כן",
 	"damaging-label": "מזיקה?",

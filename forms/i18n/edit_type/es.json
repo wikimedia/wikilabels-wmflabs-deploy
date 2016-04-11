@@ -1,26 +1,34 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe"
+			"Macofe",
+			"AlvaroMolina"
 		]
 	},
+	"information-label": "Información",
+	"information-tooltip": "La comprobación de estos cuadros es el hecho significativo, el contenido de la información ha cambiado. Tenga en cuenta que se puede cambiar de cuerpo \"copiar\" sin cambiar la \"información\" contenida.",
+	"added-label": "Añadido",
+	"modified-label": "Modificado",
+	"removed-label": "Eliminado",
+	"notes-label": "Notas",
+	"semanticlabels-label": "Elige las posibles intenciones de la edición",
+	"semanticlabels-empty": "No se eligieron intenciones. Añade una o elige 'otras'.",
 	"bodycopy-description": "La parte principal del artículo o texoto (a diferencia de los encabezados, subencabezados y gráficos)",
 	"clarification-label": "Clarificación",
-	"countervandalism-description": "revertir o eliminar vandalismo.",
-	"countervandalism-label": "Contravandalismo",
-	"deletion-label": "Borrado",
-	"disambiguation-label": "Desambiguación",
+	"simplification-label": "Simplificación",
+	"pov-label": "Punto de vista",
 	"elaboration-label": "Elaboración",
-	"information-label": "Información",
+	"verifiability-label": "Verificabilidad",
+	"verifiability-description": "agregar fuentes, citas",
+	"disambiguation-label": "Desambiguación",
+	"wikification-label": "Wikificación",
+	"vandalism-label": "Vandalismo",
+	"countervandalism-label": "Contravandalismo",
+	"countervandalism-description": "revertir o eliminar vandalismo.",
+	"process-label": "Proceso",
+	"deletion-label": "Borrado",
 	"insertion-label": "Inserción",
 	"modification-label": "Modificación",
-	"notes-label": "Notas",
-	"other-description": "ninguna de las anteriores. Deja una nota.",
 	"other-label": "Otra",
-	"pov-label": "Punto de vista",
-	"process-label": "Proceso",
-	"simplification-label": "Simplificación",
-	"vandalism-label": "Vandalismo",
-	"verifiability-label": "Verificabilidad",
-	"wikification-label": "Wikificación"
+	"other-description": "ninguna de las anteriores. Deja una nota."
 }

@@ -2,11 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Robby"
+			"Robby",
+			"Amire80"
 		]
 	},
+	"damaging-label": "A question: “Is this edit damaging?”",
 	"damaging-no-label": "{{Identical|No}}",
 	"damaging-yes-label": "{{Identical|Yes}}",
+	"goodfaith-label": "A question: “Was this edit done in good faith?”",
 	"goodfaith-no-label": "{{Identical|No}}",
 	"goodfaith-yes-label": "{{Identical|Yes}}"
 }

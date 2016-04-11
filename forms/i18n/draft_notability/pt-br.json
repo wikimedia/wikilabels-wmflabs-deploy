@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luk3"
+		]
+	},
+	"book-choice-label": "Livros",
+	"event-choice-label": "Eventos",
+	"film-choice-label": "Filmes",
+	"music-choice-label": "Músicas",
+	"person-choice-label": "Pessoas",
+	"org-choice-label": "Organizações e empresas",
+	"web-choice-label": "Conteúdo web",
+	"other-choice-label": "Outros",
+	"form-title": "Notabilidade",
+	"notable-switch": "O tópico é notável sob esta diretriz?",
+	"notable-no-label": "não",
+	"notable-yes-label": "sim",
+	"damaging-label": "Prejudicial?",
+	"damaging-false-label": "não",
+	"damaging-true-label": "sim"
+}

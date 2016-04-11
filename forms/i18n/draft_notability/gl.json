@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo"
+		]
+	},
+	"event-choice-label": "Eventos",
+	"music-choice-label": "Música",
+	"other-choice-label": "Outros",
+	"notable-no-label": "non",
+	"notable-yes-label": "si",
+	"damaging-false-label": "non",
+	"damaging-true-label": "si"
+}

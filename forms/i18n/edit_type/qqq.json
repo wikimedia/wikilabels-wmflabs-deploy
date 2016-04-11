@@ -4,11 +4,11 @@
 			"Liuxinyu970226"
 		]
 	},
-	"added-label": "{{Identical|Added}}",
 	"information-label": "{{Identical|Information}}",
+	"added-label": "{{Identical|Added}}",
 	"modified-label": "{{Identical|Modified}}",
+	"removed-label": "{{Identical|Removed}}",
 	"notes-label": "{{Identical|Note}}",
-	"other-label": "{{Identical|Other}}",
 	"process-label": "{{Identical|Process}}",
-	"removed-label": "{{Identical|Removed}}"
+	"other-label": "{{Identical|Other}}"
 }

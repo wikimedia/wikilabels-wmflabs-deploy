@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"He7d3r",
+			"Luk3"
+		]
+	},
+	"damaging-help": "Você reverteria esta edição?",
+	"damaging-label": "Prejudicial?",
+	"damaging-no-label": "Não",
+	"damaging-no-tooltip": "Não, esta edição não é prejudicial e pode ser mantida como está.",
+	"damaging-yes-label": "Sim",
+	"damaging-yes-tooltip": "Sim, esta edição é prejudicial e deve ser revertida.",
+	"goodfaith-help": "Parece que o autor desta edição estava tentando contribuir produtivamente?",
+	"goodfaith-label": "Boa fé?",
+	"goodfaith-no-label": "Não",
+	"goodfaith-no-tooltip": "Não, esta edição parece ter sido feita de má fé.",
+	"goodfaith-yes-label": "Sim",
+	"goodfaith-yes-tooltip": "Sim, esta edição parece ter sido feita de boa fé.",
+	"unsure-label": "Sem certeza?"
+}
