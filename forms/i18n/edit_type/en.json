@@ -36,12 +36,6 @@
 	"countervandalism-description": "revert or remove vandalism.",
 	"process-label": "Process",
 	"process-description": "start or continue a wiki process workflow such as tagging (or un-tagging) an article with cleanup, merge or deletion notices.",
-	"deletion-label": "Deletion",
-	"deletion-description": "See all the description content here: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
-	"insertion-label": "Insertion",
-	"insertion-description": "See all the description content here: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
-	"modification-label": "Modification",
-	"modification-description": "See all the description content here: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"other-label": "Other",
 	"other-description": "none of the above, please leave a note."
 }
