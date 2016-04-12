@@ -18,7 +18,7 @@
 	"simplification-description": "reduce the complexity or breadth of discussion; may remove information.",
 	"pov-label": "Point of View",
 	"pov-description": "rewrite using encyclopedic, neutral tone; remove bias; apply due weight.",
-	"refactoring-label": "Refactoring",
+	"refactoring-label": "Reorganization",
 	"refactoring-description": "restructure the article; move and rewrite content, without changing the meaning of it.",
 	"factupdate-label": "Fact Update",
 	"factupdate-description": "update numbers, dates, scores, episodes, status, etc., based on newly available information.",
