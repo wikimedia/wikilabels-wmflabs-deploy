@@ -40,12 +40,6 @@
 	"countervandalism-description": "отповикајте или отстранете вандализам.",
 	"process-label": "Процес",
 	"process-description": "почни или продолжи процес на работниот тек на викито како ставање (или отстранување) ознаки во статија, соопштенија за средување, спојување или бришење.",
-	"deletion-label": "Бришење",
-	"deletion-description": "Целата описна содржина ќе ја најдете на: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
-	"insertion-label": "Вметнување",
-	"insertion-description": "Целата описна содржина ќе ја најдете на: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
-	"modification-label": "Видоизмена",
-	"modification-description": "Целата описна содржина ќе ја најдете на: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
 	"other-label": "Друго",
 	"other-description": "ниедно од наведените; напишете белешка."
 }

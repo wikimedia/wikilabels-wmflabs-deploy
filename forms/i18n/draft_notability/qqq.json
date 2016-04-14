@@ -2,17 +2,24 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Robby"
+			"Robby",
+			"Ladsgroup"
 		]
 	},
+	"guideline-choice-label": "What is type of the article when it comes to notability.",
 	"book-choice-label": "{{Identical|Book}}",
 	"event-choice-label": "{{Identical|Event}}",
 	"film-choice-label": "{{Identical|Film}}",
 	"music-choice-label": "{{Identical|Music}}",
 	"person-choice-label": "{{Identical|People}}",
+	"org-choice-label": "Notability guideline for companies and organizations",
+	"web-choice-label": "Content from web",
 	"other-choice-label": "{{Identical|Other}}",
+	"form-title": "Link to the policy of notability in Wikipedia",
+	"notable-switch": "Is this article is famous enough to have an article",
 	"notable-no-label": "{{Identical|No}}",
 	"notable-yes-label": "{{Identical|Yes}}",
+	"damaging-label": "If the edit is harming wikipedia",
 	"damaging-false-label": "{{Identical|No}}",
 	"damaging-true-label": "{{Identical|Yes}}"
 }

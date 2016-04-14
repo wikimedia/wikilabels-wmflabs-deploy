@@ -43,12 +43,6 @@
 	"countervandalism-description": "إزالة مرشحات الإساءة.",
 	"process-label": "عملية",
 	"process-description": "\tالبدأ أو الاستمرار بمجرى عملية في ويكي كطلب النقل أو طلب دمج التواريخ أو طلب مراجعة نقاشات الحذف أو أي عملية أخرى تقع تحت تصنيف عمليات ويكيبيديا.",
-	"deletion-label": "حذف",
-	"deletion-description": "انظر إلى تفاصيل المحتويات هنا",
-	"insertion-label": "إدراج",
-	"insertion-description": "انظر إلى كافة تفاصيل المحتوى هنا",
-	"modification-label": "تعديل",
-	"modification-description": "انظر إلى كافة تفاصيل المحتوى هنا",
 	"other-label": "أخرى",
 	"other-description": "لاشيء ينطبق, رجاءاّ اترك ملاحظة"
 }

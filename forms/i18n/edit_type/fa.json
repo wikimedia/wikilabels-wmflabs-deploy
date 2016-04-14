@@ -25,9 +25,6 @@
 	"countervandalism-label": "ضد خرابکاری",
 	"countervandalism-description": "واگردانی یا حذف خرابکاری.",
 	"process-label": "روند",
-	"deletion-label": "حذف",
-	"insertion-label": "واردکردن",
-	"modification-label": "تغییر",
 	"other-label": "سایر",
 	"other-description": "هیچ‌کدام از گزینه‌های بالا, لطفا یک یادداشت بگذارید."
 }

@@ -1,14 +1,47 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Amire80",
+			"Ladsgroup"
 		]
 	},
 	"information-label": "{{Identical|Information}}",
-	"added-label": "{{Identical|Added}}",
-	"modified-label": "{{Identical|Modified}}",
-	"removed-label": "{{Identical|Removed}}",
+	"information-tooltip": "An explanation if the user changed data on the article. In some cases users change articles without actually changing data in it.",
+	"added-label": "An adjective that describes the word in {{msg-wikimedia|Wiki-ai-wikilabels-form-et-information-label}}.\n{{Identical|Added}}",
+	"modified-label": "An adjective that describes the word in {{msg-wikimedia|Wiki-ai-wikilabels-form-et-information-label}}.\n{{Identical|Modified}}",
+	"removed-label": "An adjective that describes the word in {{msg-wikimedia|Wiki-ai-wikilabels-form-et-information-label}}.\n{{Identical|Removed}}",
 	"notes-label": "{{Identical|Note}}",
+	"semanticlabels-label": "What was user thinking when they were making the edit. Did they want to harm Wikipedia?",
+	"semanticlabels-empty": "When no aim of edit is defined. People can choose \"other\"",
+	"bodycopy-label": "The main article or text that writers are responsible for, is contrasted with \"display copy\", accompanying material such as headlines and captions, which are usually written by copy editors or sub-editors.",
+	"bodycopy-description": "Explanation of \"Body Copy\" option",
+	"copyediting-label": "Cleaning content from language issues",
+	"copyediting-description": "Explanation of \"Copy editing\" option",
+	"clarification-label": "Title for clearing content from ambiguous phrases",
+	"clarification-description": "Explanation of fixing ambiguous content",
+	"simplification-label": "Decreasing redundant complexities from content",
+	"simplification-description": "Explanation of decreasing redundant complexities from content",
+	"pov-label": "Using Wikipedia-ic language. Fixing NPOV issues.",
+	"pov-description": "Explanation of fixing NPOV issues.",
+	"refactoring-label": "Fixing structure of the article",
+	"refactoring-description": "Explanation of fixing structure of the article",
+	"factupdate-label": "Updating content of the article",
+	"factupdate-description": "Explanation of fact update",
+	"elaboration-label": "Adding new content to the article",
+	"elaboration-description": "Explanation of \"Elaboration\" option",
+	"verifiability-label": "Adding sources in order to comply with \"Verifiability\" policy",
+	"verifiability-description": "Explanation of \"Verifiability\" option",
+	"disambiguation-label": "When an edit is trying to fix linking to disambiguation pages",
+	"disambiguation-description": "Explanation of \"Disambiguation\" option",
+	"wikification-label": "Adding links, or other cosmetic changes that make article more suitable in Wikipedia environment",
+	"wikification-description": "Explanation of \"Wikification\" option",
+	"vandalism-label": "Edits that are harmful to Wikipedia with bad intention.",
+	"vandalism-description": "Explanation of vandalism",
+	"countervandalism-label": "Reverting harmful edits",
+	"countervandalism-description": "Undoing bad edits.",
 	"process-label": "{{Identical|Process}}",
-	"other-label": "{{Identical|Other}}"
+	"process-description": "Explanation of \"process\" edits. Edits such as adding cleanup templates",
+	"other-label": "{{Identical|Other}}",
+	"other-description": "Explanation of \"others\" option."
 }

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sjoerddebruin"
+		]
+	},
+	"book-choice-label": "Boeken",
+	"event-choice-label": "Evenementen",
+	"film-choice-label": "Films",
+	"music-choice-label": "Muziek",
+	"person-choice-label": "Personen",
+	"org-choice-label": "Organisaties en bedrijven",
+	"other-choice-label": "Overige",
+	"notable-no-label": "nee",
+	"notable-yes-label": "ja",
+	"damaging-label": "Schadelijk?",
+	"damaging-false-label": "nee",
+	"damaging-true-label": "ja"
+}
