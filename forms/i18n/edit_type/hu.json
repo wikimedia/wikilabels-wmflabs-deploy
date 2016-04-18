@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tgr",
+			"Wolf Rex"
+		]
+	},
+	"information-label": "Információ",
+	"information-tooltip": "Jelöld be ezeket az opciókat, ha a változtatás tényeket vagy egyéb jelentős információt érintett. (Az, hogy egy változtatás a főszöveget érinti, nem feltétlenül jelenti, hogy információ is változott!)",
+	"added-label": "Hozzáadva",
+	"modified-label": "Módosítva",
+	"removed-label": "Törölve",
+	"notes-label": "Megjegyzések",
+	"semanticlabels-label": "Válaszd ki a szerkesztés vélhető szándékát",
+	"semanticlabels-empty": "Nem választottál szándékot. Kérlek, jelölj meg egy szándékot, vagy az „egyéb” opciót.",
+	"bodycopy-label": "Főszöveg",
+	"bodycopy-description": "A fő szócikk vagy szöveg (szemben például a fejezetcímekkel vagy a képekkel)",
+	"copyediting-label": "Olvasószerkesztés",
+	"copyediting-description": "átfogalmazás, nyelvtani vagy helyesírási hibák javítása, központozás vagy stílus javítása",
+	"clarification-label": "Tisztázás",
+	"clarification-description": "egy a szövegben szereplő tényállítás vagy egyéb információ pontosítása vagy magyarázata, példákkal vagy bővebb tárgyalással, új információ hozzáadása nélkül.",
+	"simplification-label": "Egyszerűsítés",
+	"pov-label": "Nézőpont",
+	"verifiability-label": "Megerősíthetőség",
+	"verifiability-description": "források hozzáadása",
+	"disambiguation-label": "Egyértelműsítés",
+	"wikification-label": "Wikifikáció",
+	"vandalism-label": "Vandalizmus",
+	"vandalism-description": "szándékos kísérlet a szócikk rongálására",
+	"countervandalism-description": "vandalizmus visszaállítása vagy eltávolítása.",
+	"process-label": "Folyamat",
+	"other-label": "Egyéb",
+	"other-description": "a fentiek közül egyik sem, írd le megjegyzésbe."
+}

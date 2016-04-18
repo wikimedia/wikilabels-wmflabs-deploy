@@ -3,7 +3,8 @@
 		"authors": [
 			"Maroen1990",
 			"محمد أحمد عبد الفتاح",
-			"Ghassanmas"
+			"Ghassanmas",
+			"Sonic N800"
 		]
 	},
 	"guideline-choice-label": "تحت أي من أصناف التالية تقع هذه المقالة؟ اختر كل ما تراه مناسباّ أو اترك فارغاّ إذا لا تقع تحت أي تصنيف.",
@@ -19,7 +20,7 @@
 	"notable-switch": "هل الموضوع جدير بذكر تحت هذا التصنيف",
 	"notable-no-label": "لا",
 	"notable-yes-label": " نعم",
-	"damaging-label": "تعديل سلبي أو سيء",
+	"damaging-label": "تعديل سلبي أو سيئ",
 	"damaging-false-label": "لا",
 	"damaging-true-label": "نعم"
 }

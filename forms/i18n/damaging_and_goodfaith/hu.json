@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wolf Rex"
+		]
+	},
+	"damaging-help": "Te visszavonnád ezt a szerkesztést?",
+	"damaging-label": "Káros?",
+	"damaging-no-label": "Nem",
+	"damaging-no-tooltip": "Nem, ez a szerkesztés nem káros, és megtartható.",
+	"damaging-yes-label": "Igen",
+	"damaging-yes-tooltip": "Igen, ez a szerkesztés káros, és vissza kell vonni.",
+	"goodfaith-help": "Úgy tűnik, hogy a szerkesztő közreműködései hasznosak?",
+	"goodfaith-label": "Jóhiszemű?",
+	"goodfaith-no-label": "Nem",
+	"goodfaith-no-tooltip": "Nem, ez a szerkesztés vandalizmusnak tűnik.",
+	"goodfaith-yes-label": "Igen",
+	"goodfaith-yes-tooltip": "Igen, ez a szerkesztés jóhiszemű.",
+	"unsure-label": "Nem vagy biztos?"
+}

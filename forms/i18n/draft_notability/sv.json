@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"WikiPhoenix",
-			"Josve05a"
+			"Josve05a",
+			"Jopparn"
 		]
 	},
+	"guideline-choice-label": "Vilken av följande relevanskriterier (om någon) uppfyller det här artikelämnet?",
 	"book-choice-label": "Böcker",
 	"event-choice-label": "Händelser",
 	"film-choice-label": "Filmer",
@@ -14,8 +16,10 @@
 	"web-choice-label": "Webbinnehåll",
 	"other-choice-label": "Övrigt",
 	"form-title": "Relevans",
+	"notable-switch": "Är ämnet relevant enligt denna riktlinje?",
 	"notable-no-label": "nej",
 	"notable-yes-label": "ja",
+	"damaging-label": "Skadlig?",
 	"damaging-false-label": "nej",
 	"damaging-true-label": "ja"
 }

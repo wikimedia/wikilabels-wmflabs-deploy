@@ -2,15 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"WikiPhoenix",
-			"Josve05a"
+			"Josve05a",
+			"Jopparn"
 		]
 	},
 	"damaging-help": "Vill du ångra denna redigering?",
+	"damaging-label": "Skadlig?",
 	"damaging-no-label": "Nej",
+	"damaging-no-tooltip": "Nej, denna redigering är inte skadlig och kan behållas som den är.",
 	"damaging-yes-label": "Ja",
+	"damaging-yes-tooltip": "Ja, denna redigering är skadliga och bör återställas.",
 	"goodfaith-help": "Verkar det som om användaren av denna redigering försökte att bidra produktivt?",
 	"goodfaith-label": "God tro?",
 	"goodfaith-no-label": "Nej",
+	"goodfaith-no-tooltip": "Nej, denna redigering verkar ha gjorts med negativa intentioner.",
 	"goodfaith-yes-label": "Ja",
+	"goodfaith-yes-tooltip": "Ja, denna redigering verkar ha gjorts med goda intentioner.",
 	"unsure-label": "Osäker?"
 }

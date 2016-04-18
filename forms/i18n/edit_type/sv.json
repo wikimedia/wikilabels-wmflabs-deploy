@@ -1,13 +1,26 @@
 {
 	"@metadata": {
 		"authors": [
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Jopparn",
+			"Josve05a"
 		]
 	},
-	"deletion-label": "Radering",
 	"information-label": "Information",
-	"other-label": "Övrigt",
+	"added-label": "Lades till",
+	"modified-label": "Ändrades",
+	"removed-label": "Togs bort",
+	"notes-label": "Anteckningar",
+	"semanticlabels-label": "Välj den troliga avsikten med denna redigering",
+	"semanticlabels-empty": "Inga avsikter valt. Lägg till en avsikt eller \"övrigt\".",
 	"simplification-label": "Förenkling",
+	"refactoring-label": "Omorganisering",
+	"refactoring-description": "omstrukturera artikel; flytta och skriv om innehållet, utan att ändra innebörden av det.",
+	"factupdate-label": "Faktauppdatering",
+	"factupdate-description": "uppdatera nummer, datum, betyg, episoder, status, etc., baserad på ny tillgänglig information.",
+	"elaboration-label": "Utvecklar",
+	"verifiability-label": "Verifierbarhet",
+	"wikification-label": "Wikifiering",
 	"vandalism-label": "Vandalism",
-	"wikification-label": "Wikifiering"
+	"other-label": "Övrigt"
 }

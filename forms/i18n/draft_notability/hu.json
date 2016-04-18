@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wolf Rex"
+		]
+	},
+	"guideline-choice-label": "Az alábbiak közül melyik nevezetességi útmutató alá esik a téma?",
+	"book-choice-label": "Könyvek",
+	"event-choice-label": "Események",
+	"film-choice-label": "Filmek",
+	"music-choice-label": "Zene",
+	"person-choice-label": "Emberek",
+	"org-choice-label": "Szervezetek és vállalatok",
+	"web-choice-label": "Webes tartalom",
+	"other-choice-label": "Egyéb",
+	"form-title": "Nevezetesség",
+	"notable-switch": "Nevezetes a téma az útmutató alapján?",
+	"notable-no-label": "nem",
+	"notable-yes-label": "igen",
+	"damaging-label": "Káros?",
+	"damaging-false-label": "nem",
+	"damaging-true-label": "igen"
+}

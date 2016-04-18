@@ -1,8 +1,26 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hbseren"
+			"Hbseren",
+			"Sadrettin"
 		]
 	},
-	"semanticlabels-empty": "Hedef(ler) seçilmemiş. Lütfen bir hedef ekleyin veya 'diğer'i seçin."
+	"information-label": "Bilgi",
+	"added-label": "Eklendi",
+	"modified-label": "Değiştirildi",
+	"removed-label": "Kaldırıldı",
+	"notes-label": "Notlar",
+	"semanticlabels-empty": "Hedef(ler) seçilmemiş. Lütfen bir hedef ekleyin veya 'diğer'i seçin.",
+	"copyediting-label": "Kopya değişiklik",
+	"pov-label": "Görüş",
+	"refactoring-label": "Yeniden düzenleme",
+	"refactoring-description": "İçeriğin anlamı değiştirilmeksizin madde yeniden yapılandırılmalı; taşınmalı ve konu yeniden yazılmalı",
+	"elaboration-label": "Detaylandırma",
+	"verifiability-label": "Doğrulanabilirlik",
+	"verifiability-description": "Kaynak, alıntı ekle",
+	"disambiguation-label": "Anlam ayrımı",
+	"vandalism-label": "Vandalizm",
+	"countervandalism-description": "vandalizmi geri al veya kaldır",
+	"process-label": "Süreç",
+	"other-label": "Diğer"
 }

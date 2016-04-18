@@ -4,11 +4,12 @@
 			"Maroen1990",
 			"محمد أحمد عبد الفتاح",
 			"Ayatun",
-			"Ghassanmas"
+			"Ghassanmas",
+			"Sonic N800"
 		]
 	},
 	"damaging-help": "هل تريد التراجع عن هذا التعديل ؟",
-	"damaging-label": "هل التعديل سلبي أو سيء؟",
+	"damaging-label": "هل التعديل سلبي أو سيئ؟",
 	"damaging-no-label": "لا",
 	"damaging-no-tooltip": "لا، هذا التعديل ليس ضارًا ويمكن إبقاؤه.",
 	"damaging-yes-label": "نعم",

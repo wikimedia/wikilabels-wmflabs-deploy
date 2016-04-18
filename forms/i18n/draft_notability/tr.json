@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sadrettin"
+		]
+	},
+	"book-choice-label": "Kitaplar",
+	"event-choice-label": "Olaylar",
+	"film-choice-label": "Filmler",
+	"music-choice-label": "Müzik",
+	"person-choice-label": "İnsanlar",
+	"org-choice-label": "Kuruluşlar ve şirketler",
+	"web-choice-label": "Web içeriği",
+	"other-choice-label": "Diğer",
+	"form-title": "Kaydadeğerlik",
+	"notable-no-label": "hayır",
+	"notable-yes-label": "evet",
+	"damaging-label": "Zarar?",
+	"damaging-false-label": "hayır",
+	"damaging-true-label": "evet"
+}
