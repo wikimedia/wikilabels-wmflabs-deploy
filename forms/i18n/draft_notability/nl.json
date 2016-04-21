@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Jeleniccz"
 		]
 	},
 	"book-choice-label": "Boeken",
@@ -10,7 +11,9 @@
 	"music-choice-label": "Muziek",
 	"person-choice-label": "Personen",
 	"org-choice-label": "Organisaties en bedrijven",
+	"web-choice-label": "Web inhoud",
 	"other-choice-label": "Overige",
+	"form-title": "Erkenning",
 	"notable-no-label": "nee",
 	"notable-yes-label": "ja",
 	"damaging-label": "Schadelijk?",
