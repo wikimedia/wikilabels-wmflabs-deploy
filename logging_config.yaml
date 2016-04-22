@@ -1,0 +1,17 @@
+version: 1
+
+loggers:
+  wikilabels:
+    level: DEBUG
+    handlers: [stdout]
+
+handlers:
+  stdout:
+    class: logging.StreamHandler
+    formatter: basic_human
+    level: DEBUG
+    stream: ext://sys.stdout
+
+formatters:
+  basic_human:
+    format: "%(asctime)s %(levelname)s:%(name)s -- %(message)s"
