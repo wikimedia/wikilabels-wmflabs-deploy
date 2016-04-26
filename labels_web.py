@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import glob
 import logging
+import logging.config
 
 import yamlconf
 from wikilabels.wsgi import server
