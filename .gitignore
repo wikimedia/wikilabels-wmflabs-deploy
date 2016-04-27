@@ -1,2 +1,4 @@
 *.pyc
-9*-*.yaml
+*-oauth.yaml
+*-database.yaml
+*-local.yaml
