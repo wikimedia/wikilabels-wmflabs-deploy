@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo",
+			"Elisardojm"
+		]
+	},
+	"damaging-help": "Revertería esta edición?",
+	"damaging-label": "Daniño?",
+	"damaging-no-label": "Non",
+	"damaging-no-tooltip": "Non, esta edición non é daniña e pode manterse como está.",
+	"damaging-yes-label": "Si",
+	"damaging-yes-tooltip": "Si, esta edición daniña e debe reverterse.",
+	"goodfaith-help": "Parece que o autor desta edición estaba tratando de contribuír produtivamente?",
+	"goodfaith-label": "Boa fe?",
+	"goodfaith-no-label": "Non",
+	"goodfaith-no-tooltip": "Non, esta edición parece ter sido feita con mala fe.",
+	"goodfaith-yes-label": "Si"
+}

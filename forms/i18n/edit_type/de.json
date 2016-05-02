@@ -22,7 +22,7 @@
 	"simplification-description": "Komplexität reduzieren oder Breite der Diskussion; eventuell Informationen entfernen.",
 	"pov-label": "Standpunkt",
 	"pov-description": "Neuschreibung mithilfe von Enzyklopädien, neutralem Klang; Einseitigkeiten entfernen; passendes Gewicht anwenden.",
-	"refactoring-label": "Überarbeiten",
+	"refactoring-label": "Umstrukturierung",
 	"refactoring-description": "Den Artikel umstrukturieren; Inhalt verschieben und neu schreiben, ohne die Bedeutung zu ändern.",
 	"factupdate-label": "Tatsachenaktualisierung",
 	"factupdate-description": "Zahlen, Daten, Punktestände, Episoden, Status etc. aktualisieren, basierend auf verfügbare neuere Informationen.",

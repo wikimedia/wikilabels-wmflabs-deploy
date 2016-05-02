@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Marmase",
+			"Mirzali"
+		]
+	},
+	"book-choice-label": "Kıtabi",
+	"event-choice-label": "Weqey",
+	"film-choice-label": "Filmi",
+	"music-choice-label": "Muzik",
+	"person-choice-label": "Merdum",
+	"org-choice-label": "Organizasyoni u şirketi",
+	"web-choice-label": "Zerrekê Webi",
+	"other-choice-label": "Zewbi",
+	"form-title": "Erciyaye",
+	"notable-no-label": "nê",
+	"notable-yes-label": "eya",
+	"damaging-label": "Zerar?",
+	"damaging-false-label": "nê",
+	"damaging-true-label": "eya"
+}

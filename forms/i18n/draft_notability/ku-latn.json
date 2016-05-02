@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"George Animal"
+		]
+	},
+	"book-choice-label": "Pirtûk",
+	"event-choice-label": "Bûyer",
+	"film-choice-label": "Fîlm",
+	"music-choice-label": "Muzîk",
+	"person-choice-label": "Mirov",
+	"other-choice-label": "Yên din",
+	"notable-no-label": "na",
+	"notable-yes-label": "erê",
+	"damaging-false-label": "na",
+	"damaging-true-label": "erê"
+}

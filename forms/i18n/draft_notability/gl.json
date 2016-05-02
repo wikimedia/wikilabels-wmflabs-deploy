@@ -4,9 +4,14 @@
 			"Banjo"
 		]
 	},
+	"book-choice-label": "Libros",
 	"event-choice-label": "Eventos",
+	"film-choice-label": "Filmes",
 	"music-choice-label": "Música",
+	"person-choice-label": "Persoas",
+	"web-choice-label": "Contido web",
 	"other-choice-label": "Outros",
+	"form-title": "Notoriedade",
 	"notable-no-label": "non",
 	"notable-yes-label": "si",
 	"damaging-false-label": "non",
