@@ -22,7 +22,15 @@
 	"factupdate-description": "uppdatera nummer, datum, betyg, episoder, status, etc., baserad på ny tillgänglig information.",
 	"elaboration-label": "Utvecklar",
 	"verifiability-label": "Verifierbarhet",
+	"verifiability-description": "lägg till källor, citat",
+	"disambiguation-label": "Förgrening",
+	"disambiguation-description": "ändra en länk till en förgreningssida till en länk till den specifika sidan.",
 	"wikification-label": "Wikifiering",
 	"vandalism-label": "Vandalism",
-	"other-label": "Övrigt"
+	"countervandalism-label": "Vandalismbekämpning",
+	"countervandalism-description": "återställ eller ta bort vandalism.",
+	"process-label": "Arbetsflöde",
+	"process-description": "börja eller fortsätt ett arbetsflöde på wiki såsom taggning (eller avtaggning) av en artikel med städnings-, sammanslagnings- eller raderingsmeddelanden.",
+	"other-label": "Övrigt",
+	"other-description": "inget av ovanstående, vänligen lämna ett meddelande."
 }
