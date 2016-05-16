@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"VASANTH S.N."
+		]
+	},
+	"book-choice-label": "ಪುಸ್ತಕೊಲು",
+	"music-choice-label": "ಸಂಗೀತ",
+	"person-choice-label": "ಜನಕುಲು",
+	"notable-no-label": "ಅತ್ತ್",
+	"notable-yes-label": "ಅಂದ್",
+	"damaging-false-label": "ಅತ್ತ್",
+	"damaging-true-label": "ಅಂದ್"
+}
