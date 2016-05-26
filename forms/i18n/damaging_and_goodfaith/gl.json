@@ -15,5 +15,7 @@
 	"goodfaith-label": "Boa fe?",
 	"goodfaith-no-label": "Non",
 	"goodfaith-no-tooltip": "Non, esta edición parece ter sido feita con mala fe.",
-	"goodfaith-yes-label": "Si"
+	"goodfaith-yes-label": "Si",
+	"goodfaith-yes-tooltip": "Si, esta edición parece que foi feita con bo fe.",
+	"unsure-label": "Inseguro?"
 }

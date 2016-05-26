@@ -1,19 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Banjo"
+			"Banjo",
+			"Elisardojm"
 		]
 	},
+	"guideline-choice-label": "A cal das seguintes directrices de notabilidade pertence este artigo (se é que pertence a algunha)?",
 	"book-choice-label": "Libros",
 	"event-choice-label": "Eventos",
 	"film-choice-label": "Filmes",
 	"music-choice-label": "Música",
 	"person-choice-label": "Persoas",
+	"org-choice-label": "Organizacións e compañías",
 	"web-choice-label": "Contido web",
 	"other-choice-label": "Outros",
 	"form-title": "Notoriedade",
+	"notable-switch": "O tema é notable segundo esta directriz?",
 	"notable-no-label": "non",
 	"notable-yes-label": "si",
+	"damaging-label": "Prexudicial?",
 	"damaging-false-label": "non",
 	"damaging-true-label": "si"
 }
