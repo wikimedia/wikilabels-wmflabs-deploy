@@ -6,7 +6,7 @@ wsgi:
   host: labels.wmflabs.org
   application_root: ""
   url_prefix: ""
-  cors_allowed: https\://.+?\.(wikipedia|wikidata)\.org
+  cors_allowed: https\://([^\.\/]+\.)?(wiki[pm]edia|wikidata)\.org
 
 database:
   host: localhost
