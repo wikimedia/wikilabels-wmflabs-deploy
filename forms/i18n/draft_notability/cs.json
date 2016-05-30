@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Clon"
+		]
+	},
+	"book-choice-label": "Knihy",
+	"event-choice-label": "Události",
+	"film-choice-label": "Filmy",
+	"music-choice-label": "Hudba",
+	"person-choice-label": "Lidé",
+	"org-choice-label": "Organizace a společnosti",
+	"web-choice-label": "Webový obsah",
+	"other-choice-label": "Jiné",
+	"notable-no-label": "ne",
+	"notable-yes-label": "ano",
+	"damaging-false-label": "ne",
+	"damaging-true-label": "ano"
+}
