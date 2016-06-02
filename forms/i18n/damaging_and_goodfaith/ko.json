@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"damaging-help": "이 편집을 되돌리겠습니까?",
+	"damaging-no-label": "아니오",
+	"damaging-yes-label": "예",
+	"goodfaith-no-label": "아니오",
+	"goodfaith-yes-label": "예"
+}

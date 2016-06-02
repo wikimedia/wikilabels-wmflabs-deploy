@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kumkumuk",
+			"Marmase",
+			"Mirzali"
+		]
+	},
+	"information-label": "Melumat",
+	"added-label": "Defineya",
+	"modified-label": "Vurniya",
+	"removed-label": "Wedariya",
+	"notes-label": "Noti",
+	"elaboration-label": "Detayın kerdış",
+	"verifiability-label": "Raşt biyayin",
+	"verifiability-description": "Çıme, grotek dek",
+	"disambiguation-label": "Arêzekerdış",
+	"wikification-label": "Wikifikasyon",
+	"vandalism-label": "Vandalizm",
+	"countervandalism-label": "Anti-Vandalizm",
+	"process-label": "Dewamên",
+	"other-label": "Zewbi"
+}
