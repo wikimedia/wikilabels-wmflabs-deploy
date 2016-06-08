@@ -1,0 +1,39 @@
+name: article_topic
+title: "Article topic"
+
+fields:
+  - class: "FieldLayout"
+    label: "<academic-label>"
+    align: right
+    classes: ['inline-field']
+    fieldWidget:
+      name: "academic"
+      class: "ButtonSelectWidget"
+      items:
+        - class: "ButtonOptionWidget"
+          data: true
+          label: "<yes-label>"
+        - class: "ButtonOptionWidget"
+          data: false
+          label: "<no-label>"
+  - class: "FieldLayout"
+    label: "<pop-culture-label>"
+    align: right
+    classes: ['inline-field']
+    fieldWidget:
+      name: "pop_culture"
+      class: "ButtonSelectWidget"
+      items:
+        - class: "ButtonOptionWidget"
+          data: true
+          label: "<yes-label>"
+        - class: "ButtonOptionWidget"
+          data: false
+          label: "<no-label>"
+  - class: "FieldLayout"
+    label: "<notes-label>"
+    align: top
+    fieldWidget:
+      name: "notes"
+      class: "TextInputWidget"
+      multiline: true
