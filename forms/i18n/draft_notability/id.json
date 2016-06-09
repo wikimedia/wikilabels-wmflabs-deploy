@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"guideline-choice-label": "Kapan pedoman notabilitas berikut (jika ada) artikel ini digunakan?",
+	"book-choice-label": "Buku",
+	"event-choice-label": "Peristiwa",
+	"film-choice-label": "Film",
+	"music-choice-label": "Musik",
+	"person-choice-label": "Tokoh",
+	"org-choice-label": "Organisasi dan perusahaan",
+	"web-choice-label": "Konten web",
+	"other-choice-label": "Lainnya",
+	"form-title": "Notabilitas",
+	"notable-switch": "Apakah topik itu dikenal menurut pedoman ini?",
+	"notable-no-label": "tidak",
+	"notable-yes-label": "ya",
+	"damaging-label": "Rusak?",
+	"damaging-false-label": "tidak",
+	"damaging-true-label": "ya"
+}
