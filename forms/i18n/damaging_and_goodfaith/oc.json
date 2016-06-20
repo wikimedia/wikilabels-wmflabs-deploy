@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"damaging-help": "Auriatz anullat aquesta modificacion ?",
+	"damaging-label": "Damatjabla ?",
+	"damaging-no-label": "Non",
+	"damaging-yes-label": "Òc",
+	"goodfaith-no-label": "Non",
+	"goodfaith-yes-label": "Òc"
+}

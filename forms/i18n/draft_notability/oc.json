@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"book-choice-label": "Libres",
+	"event-choice-label": "Eveniments",
+	"film-choice-label": "Filmes",
+	"music-choice-label": "Musica",
+	"person-choice-label": "Personas",
+	"org-choice-label": "Organizacions e societats",
+	"web-choice-label": "Contengut del web",
+	"other-choice-label": "Autre",
+	"form-title": "Notabilitat",
+	"notable-no-label": "non",
+	"notable-yes-label": "òc",
+	"damaging-label": "Damatjable ?",
+	"damaging-false-label": "non",
+	"damaging-true-label": "òc"
+}

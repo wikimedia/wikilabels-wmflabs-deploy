@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"information-label": "Informacion",
+	"added-label": "Apondut",
+	"modified-label": "Modificat",
+	"removed-label": "Suprimit",
+	"notes-label": "Nòtas",
+	"clarification-label": "Clarificacion",
+	"simplification-label": "Simplificacion",
+	"elaboration-label": "Elaboracion",
+	"verifiability-label": "Verificabilitat",
+	"disambiguation-label": "Desambigüacion",
+	"wikification-label": "Wikificacion",
+	"vandalism-label": "Vandalisme",
+	"process-label": "Processus",
+	"other-label": "Autre"
+}

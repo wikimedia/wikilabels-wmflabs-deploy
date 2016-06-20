@@ -7,11 +7,15 @@
 	"book-choice-label": "کیتابلار",
 	"event-choice-label": "حادیثه‌لر",
 	"film-choice-label": "فیلملر",
+	"music-choice-label": "موزیک",
 	"person-choice-label": "شخصلر",
+	"org-choice-label": "تشکیلاتلارلا شیرکتلر",
+	"web-choice-label": "وب محتواسی",
 	"other-choice-label": "آیری",
 	"form-title": "آدلیملیق",
 	"notable-no-label": "یوخ",
 	"notable-yes-label": "هن",
+	"damaging-label": "ضرر ووران؟",
 	"damaging-false-label": "یوْخ",
 	"damaging-true-label": "هن"
 }
