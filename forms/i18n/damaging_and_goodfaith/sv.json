@@ -3,15 +3,16 @@
 		"authors": [
 			"WikiPhoenix",
 			"Josve05a",
-			"Jopparn"
+			"Jopparn",
+			"Ainali"
 		]
 	},
-	"damaging-help": "Vill du ångra denna redigering?",
+	"damaging-help": "Skulle du göra denna redigering ogjord?",
 	"damaging-label": "Skadlig?",
 	"damaging-no-label": "Nej",
 	"damaging-no-tooltip": "Nej, denna redigering är inte skadlig och kan behållas som den är.",
 	"damaging-yes-label": "Ja",
-	"damaging-yes-tooltip": "Ja, denna redigering är skadliga och bör återställas.",
+	"damaging-yes-tooltip": "Ja, denna redigering är skadlig och bör göras ogjord.",
 	"goodfaith-help": "Verkar det som om användaren av denna redigering försökte att bidra produktivt?",
 	"goodfaith-label": "God tro?",
 	"goodfaith-no-label": "Nej",

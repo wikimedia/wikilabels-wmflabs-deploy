@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"book-choice-label": "책",
+	"film-choice-label": "영화",
+	"music-choice-label": "음악",
+	"person-choice-label": "사람",
+	"web-choice-label": "웹 콘텐츠",
+	"form-title": "문서 등재 기준",
+	"notable-switch": "이 주제는 지침에 의해 문서 등재 기준을 충족합니까?",
+	"notable-no-label": "아니오",
+	"notable-yes-label": "예",
+	"damaging-false-label": "아니오",
+	"damaging-true-label": "예"
+}
