@@ -4,10 +4,19 @@
 			"Purodha"
 		]
 	},
+	"information-label": "Enfomazjuhn",
+	"added-label": "Dobei jedonn",
+	"modified-label": "Jeändert",
+	"removed-label": "Fott jenumme",
+	"notes-label": "Aanmärkonge",
+	"semanticlabels-empty": "Kein Affseesch usjsöhk. Sidd esu johd un doht dann „Söns jät“ ußwähe.",
 	"clarification-label": "Klohschtällong",
-	"countervandalism-label": "Jähje et Kapottmaache",
-	"deletion-label": "Fottschmiiße",
-	"modification-label": "Veränderong",
 	"pov-label": "Schtandpongk",
-	"verifiability-label": "Övverprööfbaakeit"
+	"verifiability-label": "Övverprööfbaakeit",
+	"vandalism-label": "Kapottmaacherei",
+	"vandalism-description": "met Affseesch versöhke, dä Atikkel kapott ze maache.",
+	"countervandalism-label": "Jähje et Kapottmaache",
+	"countervandalism-description": "Kapottmaacherei repparehre",
+	"other-label": "Söns jät",
+	"other-description": "Nix von dämm heh, Sidd_esu johd un dohd en Aanmärkong maache."
 }

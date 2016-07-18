@@ -4,6 +4,14 @@
 			"Purodha"
 		]
 	},
+	"book-choice-label": "Bööscher",
+	"film-choice-label": "Fellme",
+	"music-choice-label": "Mussik",
+	"person-choice-label": "Lück",
+	"org-choice-label": "Ojannesazjuhne un Ferrme",
+	"other-choice-label": "Söns jät",
 	"notable-no-label": "nää",
-	"damaging-false-label": "nää"
+	"notable-yes-label": "joh",
+	"damaging-false-label": "nää",
+	"damaging-true-label": "joh"
 }
