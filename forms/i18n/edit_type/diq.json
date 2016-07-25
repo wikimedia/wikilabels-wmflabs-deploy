@@ -11,6 +11,8 @@
 	"modified-label": "Vurniya",
 	"removed-label": "Wedariya",
 	"notes-label": "Noti",
+	"pov-label": "Fıkır",
+	"refactoring-label": "Fına vurnayış",
 	"elaboration-label": "Detayın kerdış",
 	"verifiability-label": "Raşt biyayin",
 	"verifiability-description": "Çıme, grotek dek",
@@ -18,6 +20,8 @@
 	"wikification-label": "Wikifikasyon",
 	"vandalism-label": "Vandalizm",
 	"countervandalism-label": "Anti-Vandalizm",
+	"countervandalism-description": "Vandalizmi peyser bıgi yana wedarn",
 	"process-label": "Dewamên",
-	"other-label": "Zewbi"
+	"other-label": "Zewbi",
+	"other-description": "Serni çıni ya,  noter abırn"
 }
