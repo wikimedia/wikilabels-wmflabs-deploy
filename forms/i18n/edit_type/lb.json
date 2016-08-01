@@ -9,17 +9,22 @@
 	"modified-label": "Geännert",
 	"removed-label": "Ewechgeholl",
 	"notes-label": "Notizen",
+	"semanticlabels-label": "Sicht déi wahrscheinlech Absicht vun dëser Ännerung eraus",
+	"semanticlabels-empty": "Keng Absichten erausgesicht. Setzt w.e.g. eng Absicht oder \"anerer\" dobäi",
+	"bodycopy-label": "Kopie vum Inhalt",
 	"clarification-label": "Klarifikatioun",
 	"simplification-label": "Vereinfachung",
 	"pov-label": "Standpunkt",
 	"refactoring-label": "Reorganisatioun",
 	"factupdate-label": "Aktualiséiere vu Fakten",
 	"elaboration-label": "Elaboratioun",
+	"verifiability-description": "Quellen an Zitater dobäisetzen",
 	"disambiguation-label": "Homonymie",
 	"wikification-label": "Wikifizéierung",
 	"vandalism-label": "Vandalismius",
 	"countervandalism-label": "Vandalismusbekämpfung",
 	"countervandalism-description": "zerécksetzen oder Vandalismus ewechhuelen.",
 	"process-label": "Prozess",
-	"other-label": "Anerer"
+	"other-label": "Anerer",
+	"other-description": "näischt vun deem hei driwwer, loosst eis w.e.g. e Message."
 }

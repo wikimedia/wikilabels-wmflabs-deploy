@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tow"
+		]
+	},
+	"book-choice-label": "ਕਿਤਾਬਾਂ",
+	"event-choice-label": "ਸਮਾਗਮ",
+	"film-choice-label": "ਫਿਲਮਾੰ",
+	"music-choice-label": "ਸੰਗੀਤ",
+	"person-choice-label": "ਲੋਕ",
+	"other-choice-label": "ਹੋਰ",
+	"notable-no-label": "ਨਹੀਂ",
+	"notable-yes-label": "ਹਾਂ",
+	"damaging-false-label": "ਨਹੀਂ",
+	"damaging-true-label": "ਹਾਂ"
+}
