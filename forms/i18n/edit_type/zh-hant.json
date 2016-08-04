@@ -1,10 +1,46 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Kly"
 		]
 	},
-	"added-label": "已加入",
 	"information-label": "資訊",
-	"removed-label": "已移除"
+	"information-tooltip": "檢查這些方框是內容裡有事實、或是俱意義的訊息遭更改。注意有更改「正文」而不更動包含「訊息」的情況。",
+	"added-label": "已加入",
+	"modified-label": "已修改",
+	"removed-label": "已移除",
+	"notes-label": "註解",
+	"semanticlabels-label": "選擇一個符合此編輯內容的行為摘要",
+	"semanticlabels-empty": "沒有選擇編輯摘要。請添加一個摘要或選擇「其它」。",
+	"bodycopy-label": "正文",
+	"bodycopy-description": "主條目或正文部分 (不同於標題、副標題、和圖形)",
+	"copyediting-label": "編修",
+	"copyediting-description": "重新表達，改進語法、拼寫、語氣或標點符號。",
+	"clarification-label": "闡述",
+	"clarification-description": "依舉例或討論方法來提及或解釋一個存在的實情或含意；而不靠添加新的訊息。",
+	"simplification-label": "簡化",
+	"simplification-description": "減少對話內容的複雜度或深度；有移除訊息的可能。",
+	"pov-label": "觀點",
+	"pov-description": "以百科全書風格的中立語氣、移除偏見、合理內容比重的方式重寫。",
+	"refactoring-label": "條目內容重組",
+	"refactoring-description": "更改條目架構，以不改變表達涵義方式移動並重寫內容。",
+	"factupdate-label": "更新來源",
+	"factupdate-description": "以近期最新可靠消息來更新數字、日期、分數、集數、狀態等內容。",
+	"elaboration-label": "詳細描述",
+	"elaboration-description": "擴充或增加確實存有的新內容；加入一個可靠訊息或全新具意義的斷言(多於簡單的事實來源更新)。",
+	"verifiability-label": "可查證性",
+	"verifiability-description": "增加來源、引用",
+	"disambiguation-label": "消歧義",
+	"disambiguation-description": "將連至消歧義頁面的連結改連至制特定頁面。",
+	"wikification-label": "維基化",
+	"wikification-description": "讓文字內容修飾成更適用於維基媒介，例如適當地添加或移除連結；將標題轉為粗體字型等、或將樣式手冊相關內容更改以便格式化。",
+	"vandalism-label": "破壞",
+	"vandalism-description": "有意企圖破壞條目。",
+	"countervandalism-label": "反破壞",
+	"countervandalism-description": "回退或移除破壞。",
+	"process-label": "過程",
+	"process-description": "開始或繼續一個維基工作流程，如標記(或取消標記)一個條目的清理、合併或刪除通知。",
+	"other-label": "其它",
+	"other-description": "以上皆非，請留下註解。"
 }

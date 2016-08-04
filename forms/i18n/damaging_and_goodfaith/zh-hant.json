@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"damaging-help": "您要回退此編輯嗎？",
+	"damaging-label": "在破壞？",
+	"damaging-no-label": "否",
+	"damaging-no-tooltip": "不，此編輯並非破壞可保留內容。",
+	"damaging-yes-label": "是",
+	"damaging-yes-tooltip": "是的，此編輯為破壞並應給予回退。",
+	"goodfaith-help": "該編輯的作者是否有要嘗試做出俱意義貢獻的情況？",
+	"goodfaith-label": "善意？",
+	"goodfaith-no-label": "否",
+	"goodfaith-no-tooltip": "不，此編輯內容似乎出於惡意。",
+	"goodfaith-yes-label": "是",
+	"goodfaith-yes-tooltip": "是的，此編輯內容應是出於善意。",
+	"unsure-label": "不確定？"
+}

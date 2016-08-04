@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"guideline-choice-label": "該條目主題符合在下列哪項關注度指引的要求？",
+	"book-choice-label": "書籍",
+	"event-choice-label": "事件",
+	"film-choice-label": "電影",
+	"music-choice-label": "音樂",
+	"person-choice-label": "人物",
+	"org-choice-label": "組織與公司",
+	"web-choice-label": "網站內容",
+	"other-choice-label": "其它",
+	"form-title": "關注度",
+	"notable-switch": "該主題的關注度是否滿足指引要求？",
+	"notable-no-label": "否",
+	"notable-yes-label": "是",
+	"damaging-label": "在破壞？",
+	"damaging-false-label": "否",
+	"damaging-true-label": "是"
+}
