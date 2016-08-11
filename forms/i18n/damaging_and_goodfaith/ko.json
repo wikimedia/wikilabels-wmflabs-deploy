@@ -12,7 +12,7 @@
 	"goodfaith-help": "이 편집을 한 사용자가 생산적인 기여를 하려는 것처럼 보이나요?",
 	"goodfaith-label": "선의의 기여인가요?",
 	"goodfaith-no-label": "아니오",
-	"goodfaith-no-tooltip": "아니오, 악의를 가진 기여로 보입니다.",
+	"goodfaith-no-tooltip": "아니오, 이 편집은 악의를 갖고 기여한 것으로 보입니다.",
 	"goodfaith-yes-label": "예",
-	"goodfaith-yes-tooltip": "예, 선의를 갖고 한 기여로 보입니다."
+	"goodfaith-yes-tooltip": "예, 이 편집은 좋은 뜻으로 기여한 것으로 보입니다."
 }
