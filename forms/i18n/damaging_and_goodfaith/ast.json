@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"damaging-help": "¿Revertiríes esta edición?",
+	"damaging-label": "¿Dañible?",
+	"damaging-no-label": "Non",
+	"damaging-no-tooltip": "Non, esta edición nun ye dañible y puede caltenese como ta.",
+	"damaging-yes-label": "Sí",
+	"damaging-yes-tooltip": "Sí, esta edición ye dañible y tien de revertise.",
+	"goodfaith-help": "¿Paez que l'autor d'esta edición tentaba contribuyir de mou productivu?",
+	"goodfaith-label": "¿Bona fe?",
+	"goodfaith-no-label": "Non",
+	"goodfaith-no-tooltip": "Non, esta edición paez ser fecha con mala fe.",
+	"goodfaith-yes-label": "Sí",
+	"goodfaith-yes-tooltip": "Sí, esta edición paez ser fecha con bona fe.",
+	"unsure-label": "¿Nun tas seguru?"
+}

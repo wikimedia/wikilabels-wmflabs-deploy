@@ -3,7 +3,8 @@
 		"authors": [
 			"Gomoko",
 			"Wladek92",
-			"Verdy p"
+			"Verdy p",
+			"Urhixidur"
 		]
 	},
 	"information-label": "Information",
@@ -27,7 +28,7 @@
 	"refactoring-label": "Réorganisation",
 	"refactoring-description": "restructurer l’article ; déplacer et réécrire le contenu, sans modifier sa signification.",
 	"factupdate-label": "Mise à jour de fait",
-	"factupdate-description": "met à jour des nombres, des dates, des scores, des épisodes, des états, etc., d’après de nouvelles informations disponibles.",
+	"factupdate-description": "met à jour des nombres, des dates, des pointages, des épisodes, des états, etc., d’après de nouvelles informations disponibles.",
 	"elaboration-label": "Développement",
 	"elaboration-description": "étend/ajoute un nouveau contenu substantiel ; insère un fait ou une nouvelle assertion significative (au-delà d’une simple mise à jour de fait)",
 	"verifiability-label": "Possibilité de vérification",

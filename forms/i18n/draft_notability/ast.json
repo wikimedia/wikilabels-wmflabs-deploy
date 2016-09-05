@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"guideline-choice-label": "¿A cuál de les siguientes recomendaciones de notoriedá pertenez esti artículu (si pertenez a dalguna)?",
+	"book-choice-label": "Llibros",
+	"event-choice-label": "Actividaes",
+	"film-choice-label": "Películes",
+	"music-choice-label": "Música",
+	"person-choice-label": "Persones",
+	"org-choice-label": "Organizaciones y empreses",
+	"web-choice-label": "Conteníu web",
+	"other-choice-label": "Otres",
+	"form-title": "Notoriedá",
+	"notable-switch": "¿La tema ye notable según esta recomendación?",
+	"notable-no-label": "non",
+	"notable-yes-label": "sí",
+	"damaging-label": "¿Dañible?",
+	"damaging-false-label": "non",
+	"damaging-true-label": "sí"
+}
