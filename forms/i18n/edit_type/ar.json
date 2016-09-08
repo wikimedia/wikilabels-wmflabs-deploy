@@ -5,7 +5,8 @@
 			"Ghassanmas",
 			"Maroen1990",
 			"محمد أحمد عبد الفتاح",
-			"DRIHEM"
+			"DRIHEM",
+			"Meno25"
 		]
 	},
 	"information-label": "معلومات",
@@ -43,7 +44,7 @@
 	"countervandalism-label": "مكافحة التخريب",
 	"countervandalism-description": "العودة أو إزالة التخريب.",
 	"process-label": "العملية",
-	"process-description": "إبدأ أو أكمل محرى علمية ويكي مثل وضع الوسم (أو إزالة الوسم) على مقال للتنظيف أو الدمج أو إشعارات الحذف.",
+	"process-description": "ابدأ أو أكمل محرى علمية ويكي مثل وضع الوسم (أو إزالة الوسم) على مقال للتنظيف أو الدمج أو إشعارات الحذف.",
 	"other-label": "أخرى",
 	"other-description": "لاشيء ينطبق مما سبق، رجاءاّ اترك ملاحظة."
 }
