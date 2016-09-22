@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vodnokon4e"
+		]
+	},
+	"damaging-no-label": "Не",
+	"damaging-yes-label": "Да",
+	"goodfaith-no-label": "Не",
+	"goodfaith-yes-label": "Да",
+	"unsure-label": "Не сте сигурни?"
+}

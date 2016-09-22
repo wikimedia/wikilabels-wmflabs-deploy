@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vodnokon4e"
+		]
+	},
+	"book-choice-label": "Книги",
+	"event-choice-label": "Събития",
+	"film-choice-label": "Филми",
+	"music-choice-label": "Музика",
+	"person-choice-label": "Хора",
+	"org-choice-label": "Организации и фирми",
+	"web-choice-label": "Уеб съдържание",
+	"other-choice-label": "Други",
+	"form-title": "Значимост",
+	"notable-no-label": "не",
+	"notable-yes-label": "да",
+	"damaging-false-label": "не",
+	"damaging-true-label": "да"
+}
