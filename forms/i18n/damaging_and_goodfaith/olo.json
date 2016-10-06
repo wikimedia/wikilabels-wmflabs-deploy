@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"damaging-no-label": "Ei",
+	"damaging-yes-label": "Muga",
+	"goodfaith-no-label": "Ei",
+	"goodfaith-yes-label": "Muga",
+	"unsure-label": "Ebävarmu?"
+}

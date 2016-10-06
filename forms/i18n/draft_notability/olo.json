@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"book-choice-label": "Kirjat",
+	"event-choice-label": "Tapahtumat",
+	"film-choice-label": "Fil'mat",
+	"music-choice-label": "Muuzikku",
+	"person-choice-label": "Rahvas",
+	"web-choice-label": "Verkosyväindö",
+	"other-choice-label": "Muu",
+	"notable-no-label": "ei",
+	"notable-yes-label": "muga",
+	"damaging-false-label": "ei",
+	"damaging-true-label": "muga"
+}
