@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilja.mos",
+			"Likopiän tyttö"
+		]
+	},
+	"book-choice-label": "Kirjat",
+	"event-choice-label": "Tapahtumat",
+	"film-choice-label": "Elokuvat",
+	"music-choice-label": "Musiikki",
+	"person-choice-label": "Rahvaš",
+	"org-choice-label": "Järješšöt ta firmat",
+	"web-choice-label": "Verkkošiämyštä",
+	"other-choice-label": "Muu",
+	"notable-no-label": "ei",
+	"notable-yes-label": "kyllä",
+	"damaging-false-label": "ei",
+	"damaging-true-label": "kyllä"
+}
