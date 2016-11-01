@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"information-label": "Titouroù",
+	"added-label": "Ouzhpennet",
+	"modified-label": "Kemmet",
+	"removed-label": "Tennet kuit",
+	"notes-label": "Notennoù :",
+	"bodycopy-description": "Ar pennad pennañ pe al lodenn eus an destenn (diforc'h diouzh an talbennoù, an istitloù hag ar grafikoù)",
+	"copyediting-label": "Kemmañ eilad",
+	"copyediting-description": "Adc'heriañ ; gwellaat ar yezhadur, ar reizhskrivadur, an ton pe ar poentaouiñ.",
+	"simplification-label": "Eeunaat",
+	"pov-label": "Savboent",
+	"refactoring-label": "Adaozañ",
+	"refactoring-description": "adframmañ ar pennad ; dilec'hiañ hag adskrivañ an endalc'h, hep kemmañ e ster.",
+	"factupdate-label": "Hizivaat evit gwir",
+	"elaboration-label": "Diorren",
+	"verifiability-description": "ouzhpennañ mammennoù, arroudennoù",
+	"wikification-label": "Stummet evit Wiki",
+	"vandalism-label": "Vandalerezh",
+	"countervandalism-label": "Enep-vandalerezh",
+	"countervandalism-description": "nullañ pe lemel vandelerezh",
+	"process-label": "Argerzh",
+	"process-description": "kregiñ pe kenderc'hel un argerzh labour eus ar wiki evel merkañ (pe lemel ar merkoù) ur pennad gant notennoù skarzhañ, kendeuziñ pe lemel.",
+	"other-label": "All",
+	"other-description": "hini ebet eus ar re-se a-us, lezel un notenn."
+}

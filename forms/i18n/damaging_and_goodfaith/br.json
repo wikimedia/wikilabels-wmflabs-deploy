@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"damaging-help": "Ha nullet ho pije ar c'hemm-se ?",
+	"damaging-no-label": "Ket",
+	"goodfaith-no-label": "Ket",
+	"goodfaith-no-tooltip": "Nann, seblantout a ra eo bet ar c'hemm-se a feiz fall.",
+	"goodfaith-yes-label": "Ya",
+	"goodfaith-yes-tooltip": "Ya, seblantout a ra eo bet graet ar c'hemm-se a feiz vat.",
+	"unsure-label": "Diasur?"
+}

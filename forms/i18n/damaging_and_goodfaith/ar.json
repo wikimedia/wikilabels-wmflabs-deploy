@@ -5,10 +5,11 @@
 			"محمد أحمد عبد الفتاح",
 			"Ayatun",
 			"Ghassanmas",
-			"Sonic N800"
+			"Sonic N800",
+			"ديفيد"
 		]
 	},
-	"damaging-help": "هل تريد التراجع عن هذا التعديل ؟",
+	"damaging-help": "هل تريد التراجع عن هذا التعديل؟",
 	"damaging-label": "هل التعديل سلبي أو سيئ؟",
 	"damaging-no-label": "لا",
 	"damaging-no-tooltip": "لا، هذا التعديل ليس ضارًا ويمكن إبقاؤه.",
@@ -17,8 +18,8 @@
 	"goodfaith-help": "هل من الواضح أن المحرر الذي قام بإجراء هذا تعديل, حاول أن يساهم بطريقة ايجابية أو حسنة؟",
 	"goodfaith-label": "هل النية حسنة؟",
 	"goodfaith-no-label": "لا",
-	"goodfaith-no-tooltip": "لا، يبدو أن هذا التعديل أجريه بسوء نية.",
+	"goodfaith-no-tooltip": "لا، يبدو أن هذا التعديل أُجري بسوء نية.",
 	"goodfaith-yes-label": "نعم",
-	"goodfaith-yes-tooltip": "نعم، يبدو أن هذا التعديل أجري بحسن نية.",
-	"unsure-label": "غير متأكد"
+	"goodfaith-yes-tooltip": "نعم، يبدو أن هذا التعديل أُجري بحسن نية.",
+	"unsure-label": "هل أنت غير متأكد؟"
 }

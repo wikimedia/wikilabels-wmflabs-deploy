@@ -1,17 +1,40 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chrumps"
+			"Chrumps",
+			"Woytecr"
 		]
 	},
+	"information-label": "Informacja",
 	"added-label": "Dodane",
-	"clarification-label": "Wyjaśnienie",
-	"disambiguation-label": "Ujednoznacznienie",
-	"modification-label": "Modyfikacja",
 	"modified-label": "Zmienione",
-	"notes-label": "Uwagi",
 	"removed-label": "Usunięte",
+	"notes-label": "Uwagi",
+	"semanticlabels-label": "Wybierz najbardziej prawdopodobny zamiar tej edycji",
+	"semanticlabels-empty": "Nie wybrano intencji. Dodaj intencję lub wybierz \"inne\".",
+	"copyediting-label": "Przeredagowanie",
+	"copyediting-description": "przeformułowanie; poprawa gramatyki, pisowni, tonu lub interpunkcji.",
+	"clarification-label": "Wyjaśnienie",
 	"simplification-label": "Uproszczenie",
+	"pov-label": "Punkt widzenia",
+	"pov-description": "przepisanie z użyciem stylu encyklopedycznego, neutralnego; usunięcie uprzedzeń, stronniczości; zastosowanie wagi należnej.",
+	"refactoring-label": "Reorganizacja",
+	"refactoring-description": "zmiana struktury artykułu; przeniesienie i przepisanie zawartości, bez zmiany jej znaczenia.",
+	"factupdate-label": "Aktualizacja faktów",
+	"factupdate-description": "aktualizacja liczb, dat, punktów, odcinków, stanu itd., na podstawie nowych dostępnych informacji.",
+	"elaboration-description": "rozszerzenie lub dodanie nowej istotnej zawartości; wstawienie faktu lub nowego znaczącego stwierdzenia (ale nie będącym zwykłą aktualizacją faktów).",
+	"verifiability-label": "Weryfikowalność",
+	"verifiability-description": "dodano źródła, przypisy",
+	"disambiguation-label": "Ujednoznacznienie",
+	"disambiguation-description": "zmiana linku do ujednoznacznienia na link do konkretnej strony.",
+	"wikification-label": "Wikizacja",
+	"wikification-description": "przerobienie tekstu na bardziej odpowiadający stylowi wiki, np. dodanie linków lub usunięcie ich gdzie trzeba; konwersja tekstu pogrubionego na nagłówki, itd.; lub ręczne zmiany związane ze stylem formatowania.",
 	"vandalism-label": "Wandalizm",
-	"verifiability-label": "Weryfikowalność"
+	"vandalism-description": "celowa próba zniszczenia artykułu.",
+	"countervandalism-label": "Antywandalizm",
+	"countervandalism-description": "wycofanie lub usunięcie wandalizmu.",
+	"process-label": "Czynności organizacyjne",
+	"process-description": "rozpoczęcie lub kontynuacja przepływu czynności, poprzez oznaczanie artykułu szablonami informującymi o potrzebie uporządkowania, łączenia lub powiadomienia o zgłoszeniu do usunięcia.",
+	"other-label": "Inne",
+	"other-description": "żaden z powyższych, proszę zostawić informację."
 }

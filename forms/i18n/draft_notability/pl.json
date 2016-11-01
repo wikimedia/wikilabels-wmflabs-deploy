@@ -1,17 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chrumps"
+			"Chrumps",
+			"Woytecr"
 		]
 	},
+	"guideline-choice-label": "Pod które wytyczne encyklopedyczności (jeżeli są) temat tego artykułu nie podlegał?",
 	"book-choice-label": "Książki",
 	"event-choice-label": "Wydarzenia",
 	"film-choice-label": "Filmy",
 	"music-choice-label": "Muzyka",
 	"person-choice-label": "Osoby",
 	"org-choice-label": "Organizacje i firmy",
+	"web-choice-label": "Zawartość Web",
+	"other-choice-label": "Inne",
+	"form-title": "Encyklopedyczność",
+	"notable-switch": "Czy ten temat jest encyklopedyczny według tych wytycznych?",
 	"notable-no-label": "nie",
 	"notable-yes-label": "tak",
+	"damaging-label": "Szkodliwa?",
 	"damaging-false-label": "nie",
 	"damaging-true-label": "tak"
 }

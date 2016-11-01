@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"book-choice-label": "Levrioù",
+	"event-choice-label": "Darvoudoù",
+	"film-choice-label": "Filmoù",
+	"music-choice-label": "Sonerezh",
+	"person-choice-label": "Tud",
+	"org-choice-label": "Aozadurioù ha kevredadoù",
+	"web-choice-label": "Endalc'had ar Web",
+	"other-choice-label": "All",
+	"damaging-false-label": "ket",
+	"damaging-true-label": "ya"
+}
