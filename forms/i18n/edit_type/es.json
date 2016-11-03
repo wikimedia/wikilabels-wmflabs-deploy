@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Macofe",
-			"AlvaroMolina"
+			"AlvaroMolina",
+			"Fitoschido"
 		]
 	},
 	"information-label": "Información",
@@ -13,11 +14,16 @@
 	"notes-label": "Notas",
 	"semanticlabels-label": "Elige la posible intención de esta edición",
 	"semanticlabels-empty": "No se eligieron intenciones. Añade una o elige 'otras'.",
+	"bodycopy-label": "Cuerpo de texto",
 	"bodycopy-description": "La parte principal del artículo o texoto (a diferencia de los encabezados, subencabezados y gráficos)",
+	"copyediting-label": "Revisión de textos",
+	"copyediting-description": "reformulación; mejora de gramática, ortografía, tono o uso de puntuación.",
 	"clarification-label": "Clarificación",
 	"simplification-label": "Simplificación",
 	"pov-label": "Punto de vista",
 	"refactoring-label": "Reorganización",
+	"factupdate-label": "Actualización de dato",
+	"factupdate-description": "puesta al día de cifras, fechas, puntuaciones, episodios, estados, etc., basándose en información publicada recientemente.",
 	"elaboration-label": "Elaboración",
 	"verifiability-label": "Verificabilidad",
 	"verifiability-description": "agregar fuentes, citas",
