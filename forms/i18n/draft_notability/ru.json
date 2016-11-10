@@ -1,16 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras"
+			"Okras",
+			"Irus",
+			"Kareyac"
 		]
 	},
+	"guideline-choice-label": "Под какое из следующих примечательностью рекомендации (если таковые имеются) эта статья по теме осень?",
 	"book-choice-label": "Книги",
 	"event-choice-label": "События",
 	"film-choice-label": "Фильмы",
 	"music-choice-label": "Музыка",
 	"person-choice-label": "Люди",
+	"org-choice-label": "Организации и компании",
+	"web-choice-label": "Веб-контент",
+	"other-choice-label": "Другое",
+	"form-title": "Примечательность",
+	"notable-switch": "Тема заметные под это правило?",
 	"notable-no-label": "нет",
 	"notable-yes-label": "да",
+	"damaging-label": "Повреждения?",
 	"damaging-false-label": "нет",
 	"damaging-true-label": "да"
 }
