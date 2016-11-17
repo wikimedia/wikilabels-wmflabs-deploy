@@ -3,7 +3,8 @@
 		"authors": [
 			"Okras",
 			"Irus",
-			"Kareyac"
+			"Kareyac",
+			"INS Pirat"
 		]
 	},
 	"guideline-choice-label": "Под какое из следующих примечательностью рекомендации (если таковые имеются) эта статья по теме осень?",
@@ -16,10 +17,10 @@
 	"web-choice-label": "Веб-контент",
 	"other-choice-label": "Другое",
 	"form-title": "Примечательность",
-	"notable-switch": "Тема заметные под это правило?",
+	"notable-switch": "Значима ли тема статьи в соответствии с данным руководством?",
 	"notable-no-label": "нет",
 	"notable-yes-label": "да",
-	"damaging-label": "Повреждения?",
+	"damaging-label": "Правка вредоносная?",
 	"damaging-false-label": "нет",
 	"damaging-true-label": "да"
 }
