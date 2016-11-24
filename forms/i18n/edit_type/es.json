@@ -3,7 +3,8 @@
 		"authors": [
 			"Macofe",
 			"AlvaroMolina",
-			"Fitoschido"
+			"Fitoschido",
+			"Zpizza"
 		]
 	},
 	"information-label": "Información",
@@ -19,16 +20,23 @@
 	"copyediting-label": "Revisión de textos",
 	"copyediting-description": "reformulación; mejora de gramática, ortografía, tono o uso de puntuación.",
 	"clarification-label": "Clarificación",
+	"clarification-description": "especificar o explicar un hecho existente o significado, por ejemplo, o el debate sin la adición de nueva información.",
 	"simplification-label": "Simplificación",
+	"simplification-description": "reducir la complejidad y amplitud de la discusión; puede quitar la información.",
 	"pov-label": "Punto de vista",
+	"pov-description": "reescribir el uso enciclopédico, tono neutro; eliminar el sesgo; aplicar el debido peso.",
 	"refactoring-label": "Reorganización",
+	"refactoring-description": "reestructurar el artículo; mover y volver a escribir el contenido, sin cambiar el significado de la misma.",
 	"factupdate-label": "Actualización de dato",
 	"factupdate-description": "puesta al día de cifras, fechas, puntuaciones, episodios, estados, etc., basándose en información publicada recientemente.",
 	"elaboration-label": "Elaboración",
+	"elaboration-description": "ampliar o añadir nuevo contenido sustantivo; insertar un hecho o un nuevo significativa afirmación (más allá de un simple Hecho de Actualización).",
 	"verifiability-label": "Verificabilidad",
 	"verifiability-description": "agregar fuentes, citas",
 	"disambiguation-label": "Desambiguación",
+	"disambiguation-description": "cambio de un enlace a una página de desambiguación para un enlace a la página específica.",
 	"wikification-label": "Wikificación",
+	"wikification-description": "hacer el texto más adecuado para la wiki medio, por ejemplo, la adición de enlaces, o la eliminación de ellos cuando sea necesario; la conversión de texto en negrita para la correcta encabezados, etc; o manual de estilo relacionadas con los cambios de formato.",
 	"vandalism-label": "Vandalismo",
 	"countervandalism-label": "Contravandalismo",
 	"countervandalism-description": "revertir o eliminar vandalismo.",

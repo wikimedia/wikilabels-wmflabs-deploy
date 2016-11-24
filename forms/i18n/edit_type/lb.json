@@ -5,6 +5,7 @@
 		]
 	},
 	"information-label": "Informatioun",
+	"information-tooltip": "Markéiert dës Këschte wa Fakten oder bedeitungsvoll Informatioune geännert goufen. Denkt drun datt een \"body copy\" ännere kann ouni d'\"Informatioun\" déi dran ass z'änneren.",
 	"added-label": "Derbäigesat",
 	"modified-label": "Geännert",
 	"removed-label": "Ewechgeholl",
@@ -25,6 +26,7 @@
 	"factupdate-label": "Aktualiséiere vu Fakten",
 	"factupdate-description": "Aktualisatioun vun Zuelen, Datumer, Resultater, Episoden, Status, asw. op der Basis vun neien, disponibelen Informatiounen.",
 	"elaboration-label": "Elaboratioun",
+	"elaboration-description": "erweideren oder substantiven neien Inhalt derbäisetzen, e Fakt drasetzen oder eppes Bedeitendes Neies drasetzen (méi wéi eng einfach Aktualisatioun vun engem Fakt).",
 	"verifiability-label": "Iwwerpréifbarkeet",
 	"verifiability-description": "Quellen an Zitater dobäisetzen",
 	"disambiguation-label": "Homonymie",
