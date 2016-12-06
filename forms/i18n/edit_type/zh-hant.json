@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Kly"
+			"Kly",
+			"LNDDYL"
 		]
 	},
 	"information-label": "資訊",
@@ -24,7 +25,7 @@
 	"pov-label": "觀點",
 	"pov-description": "以百科全書風格的中立語氣、移除偏見、合理內容比重的方式重寫。",
 	"refactoring-label": "條目內容重組",
-	"refactoring-description": "更改條目架構，以不改變表達涵義方式移動並重寫內容。",
+	"refactoring-description": "重組條目結構，以不改變表達涵義方式移動並重寫內容。",
 	"factupdate-label": "更新來源",
 	"factupdate-description": "以近期最新可靠消息來更新數字、日期、分數、集數、狀態等內容。",
 	"elaboration-label": "詳細描述",
