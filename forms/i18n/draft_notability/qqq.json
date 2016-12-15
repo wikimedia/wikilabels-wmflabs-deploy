@@ -19,7 +19,7 @@
 	"notable-switch": "Is this article is famous enough to have an article",
 	"notable-no-label": "{{Identical|No}}",
 	"notable-yes-label": "{{Identical|Yes}}",
-	"damaging-label": "If the edit is harming wikipedia",
+	"damaging-label": "If the edit is harming wikipedia\n{{Identical|Damaging}}",
 	"damaging-false-label": "{{Identical|No}}",
 	"damaging-true-label": "{{Identical|Yes}}"
 }

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Arthur2e5"
 		]
 	},
 	"guideline-choice-label": "该条目的主题受到以下哪条关注度指引（如有）的约束？",
@@ -17,7 +18,7 @@
 	"notable-switch": "根据这个指引，该主题是否有关注度？",
 	"notable-no-label": "否",
 	"notable-yes-label": "是",
-	"damaging-label": "破坏？",
+	"damaging-label": "有害？",
 	"damaging-false-label": "否",
 	"damaging-true-label": "是"
 }

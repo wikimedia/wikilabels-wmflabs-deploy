@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luk3"
+			"Luk3",
+			"!Silent"
 		]
 	},
+	"guideline-choice-label": "Sob quais das seguintes diretrizes de notabilidade (se houver) o tópico deste artigo pertence?",
 	"book-choice-label": "Livros",
 	"event-choice-label": "Eventos",
 	"film-choice-label": "Filmes",

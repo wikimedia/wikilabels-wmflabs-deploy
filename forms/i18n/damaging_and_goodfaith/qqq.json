@@ -8,7 +8,7 @@
 		]
 	},
 	"damaging-help": "An explanation if you were reviewing this edit, would you undo it? Is it in harmful to the Wikipedia?",
-	"damaging-label": "A question: “Is this edit damaging?”",
+	"damaging-label": "A question: “Is this edit damaging?”\n{{Identical|Damaging}}",
 	"damaging-no-label": "{{Identical|No}}",
 	"damaging-no-tooltip": "No, This edit is productive and we should keep it!",
 	"damaging-yes-label": "{{Identical|Yes}}",

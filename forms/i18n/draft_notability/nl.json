@@ -2,18 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Sjoerddebruin",
-			"Jeleniccz"
+			"Jeleniccz",
+			"Siebrand"
 		]
 	},
+	"guideline-choice-label": "Onder welke van de volgende encyclopediewaardigheidsrichtlijnen (indien van toepassing) valt het onderwerp van deze pagina?",
 	"book-choice-label": "Boeken",
 	"event-choice-label": "Evenementen",
 	"film-choice-label": "Films",
 	"music-choice-label": "Muziek",
 	"person-choice-label": "Personen",
 	"org-choice-label": "Organisaties en bedrijven",
-	"web-choice-label": "Web inhoud",
+	"web-choice-label": "Webinhoud",
 	"other-choice-label": "Overige",
-	"form-title": "Erkenning",
+	"form-title": "Encyclopediewaardig",
+	"notable-switch": "Is het onderwerp encyclopediewaardig volgens deze richtlijn?",
 	"notable-no-label": "nee",
 	"notable-yes-label": "ja",
 	"damaging-label": "Schadelijk?",

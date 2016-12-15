@@ -3,11 +3,12 @@
 		"authors": [
 			"Liuxinyu970226",
 			"Kly",
-			"LNDDYL"
+			"LNDDYL",
+			"Arthur2e5"
 		]
 	},
 	"information-label": "資訊",
-	"information-tooltip": "檢查這些方框是內容裡有事實、或是俱意義的訊息遭更改。注意有更改「正文」而不更動包含「訊息」的情況。",
+	"information-tooltip": "如果事實或者有意義的資訊被改掉了，請勾上這些方框。要注意，更改「正文」不一定會更改包含的「資訊」。",
 	"added-label": "已加入",
 	"modified-label": "已修改",
 	"removed-label": "已移除",
@@ -15,7 +16,7 @@
 	"semanticlabels-label": "選擇一個符合此編輯內容的行為摘要",
 	"semanticlabels-empty": "沒有選擇編輯摘要。請添加一個摘要或選擇「其它」。",
 	"bodycopy-label": "正文",
-	"bodycopy-description": "主條目或正文部分 (不同於標題、副標題、和圖形)",
+	"bodycopy-description": "主條目或正文部分（不同於標題、副標題、和圖形）",
 	"copyediting-label": "編修",
 	"copyediting-description": "重新表達，改進語法、拼寫、語氣或標點符號。",
 	"clarification-label": "闡述",
@@ -41,7 +42,7 @@
 	"countervandalism-label": "反破壞",
 	"countervandalism-description": "回退或移除破壞。",
 	"process-label": "過程",
-	"process-description": "開始或繼續一個維基工作流程，如標記(或取消標記)一個條目的清理、合併或刪除通知。",
+	"process-description": "開始或繼續一個維基工作流程，如標記（或取消標記）一個條目的清理、合併或刪除通知。",
 	"other-label": "其它",
 	"other-description": "以上皆非，請留下註解。"
 }

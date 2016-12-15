@@ -38,9 +38,11 @@
 	"wikification-label": "Wikificación",
 	"wikification-description": "volver el texto más apto para el medio wiki, por medio de, p. ej., la adición o eliminación de enlaces donde sea necesario, la conversión de texto en negritas en cabeceras propiamente dichas, etc., o bien, modificaciones de formato relacionadas con el manual de estilo.",
 	"vandalism-label": "Vandalismo",
+	"vandalism-description": "deliberadamente intenta dañar el artículo.",
 	"countervandalism-label": "Contravandalismo",
 	"countervandalism-description": "revertir o eliminar vandalismo.",
 	"process-label": "Proceso",
+	"process-description": "inicia o continúa un flujo de trabajo wiki, tal como agregar (o quitar) etiquetas a un artículo con notificaciones de limpieza, fusión o eliminación.",
 	"other-label": "Otra",
 	"other-description": "ninguna de las anteriores. Deja una nota."
 }

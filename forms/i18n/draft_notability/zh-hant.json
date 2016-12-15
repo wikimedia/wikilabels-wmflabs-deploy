@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kly"
+			"Kly",
+			"Arthur2e5"
 		]
 	},
 	"guideline-choice-label": "該條目主題符合在下列哪項關注度指引的要求？",
@@ -17,7 +18,7 @@
 	"notable-switch": "該主題的關注度是否滿足指引要求？",
 	"notable-no-label": "否",
 	"notable-yes-label": "是",
-	"damaging-label": "在破壞？",
+	"damaging-label": "有害？",
 	"damaging-false-label": "否",
 	"damaging-true-label": "是"
 }
