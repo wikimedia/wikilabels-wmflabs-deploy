@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Arthur2e5"
+			"Arthur2e5",
+			"Shizhao"
 		]
 	},
 	"information-label": "信息",
-	"information-tooltip": "如果事实或者有意义的信息被改了，请勾上这些方框。要注意，更改“正文”不一定会更改包含的“信息”。",
+	"information-tooltip": "如果事实或者有意义的信息被改了，请勾上这些方框。请注意，更改“正文”不一定会更改包含的“信息”。",
 	"added-label": "已添加",
 	"modified-label": "已修改",
 	"removed-label": "已移除",
