@@ -1,0 +1,9 @@
+{
+	"@metadata": [],
+	"detox": "The main question",
+	"detox-very-toxic-label": "Label for \"Very Toxic\" option",
+	"detox-toxic-label": "Label for \"Toxic\" option",
+	"detox-natural-label": "Label for \"Natural\" option",
+	"detox-healthy-label": "Label for \"Healthy\" option",
+	"detox-very-healthy-label": "Label for \"Very Healthy\" option"
+}
