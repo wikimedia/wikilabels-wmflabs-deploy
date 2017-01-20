@@ -1,0 +1,28 @@
+name: item_quality
+
+fields:
+  - class: "FieldLayout"
+    label: "<item-quality>"
+    align: right
+    help: "<item-quality-help>"
+    classes: ['inline-field']
+    fieldWidget:
+      name: "item-quality"
+      class: "RadioSelectWidget"
+      display: 'inline-block'
+      items:
+        - class: "RadioOptionWidget"
+          data: "A"
+          label: "<item-quality-A-label>"
+        - class: "RadioOptionWidget"
+          data: "B"
+          label: "<item-quality-B-label>"
+        - class: "RadioOptionWidget"
+          data: "C"
+          label: "<item-quality-C-label>"
+        - class: "RadioOptionWidget"
+          data: "D"
+          label: "<item-quality-D-label>"
+        - class: "RadioOptionWidget"
+          data: "E"
+          label: "<item-quality-E-label>"

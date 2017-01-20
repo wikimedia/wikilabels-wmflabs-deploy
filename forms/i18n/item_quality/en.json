@@ -1,0 +1,10 @@
+{
+	"@metadata": [],
+	"item-quality": "Item quality",
+	"item-quality": "A: Best quality, E: Worst quality",
+	"item-quality-A-label": "A",
+	"item-quality-B-label": "B",
+	"item-quality-C-label": "C",
+	"item-quality-D-label": "D",
+	"item-quality-E-label": "E"
+}
