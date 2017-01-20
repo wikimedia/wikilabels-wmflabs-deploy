@@ -1,4 +1,4 @@
-name: detox
+name: toxicity
 
 fields:
   - class: "FieldLayout"
@@ -23,13 +23,3 @@ fields:
         - class: "RadioOptionWidget"
           data: "very-healthy"
           label: "<detox-very-healthy-label>"
-
-i18n:
-  en:
-    detox: "Rate the toxicity in this comment:"
-    detox-very-toxic-label: "Very Toxic"
-    detox-toxic-label: "Toxic"
-    detox-natural-label: "Neither"
-    detox-healthy-label: "Healthy contribution"
-    detox-very-healthy-label: "Very healthy contribution"
-
