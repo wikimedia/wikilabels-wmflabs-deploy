@@ -1,9 +1,9 @@
 {
-	"@metadata": [],
-	"detox": "Rate the toxicity in this comment:",
-	"detox-very-toxic-label": "Very Toxic",
-	"detox-toxic-label": "Toxic",
-	"detox-natural-label": "Neither",
-	"detox-healthy-label": "Healthy contribution",
-	"detox-very-healthy-label": "Very healthy contribution"
+    "@metadata": [],
+    "detox": "Rate the toxicity in this comment:",
+    "detox-very-toxic-label": "Very Toxic (a very hateful, aggressive or disrespectful comment)",
+    "detox-toxic-label": "Toxic (a rude, disrespectful, or unreasonable comment)",
+    "detox-natural-label": "Neither",
+    "detox-healthy-label": "Healthy  (a reasonable, civil, or polite contribution)",
+    "detox-very-healthy-label": "Very healthy  (a very polite, thoughtful, or helpful contribution)"
 }
