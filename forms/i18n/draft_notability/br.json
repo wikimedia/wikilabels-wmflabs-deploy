@@ -12,6 +12,10 @@
 	"org-choice-label": "Aozadurioù ha kevredadoù",
 	"web-choice-label": "Endalc'had ar Web",
 	"other-choice-label": "All",
+	"form-title": "Brud",
+	"notable-no-label": "ket",
+	"notable-yes-label": "ya",
+	"damaging-label": "Gaouus ?",
 	"damaging-false-label": "ket",
 	"damaging-true-label": "ya"
 }
