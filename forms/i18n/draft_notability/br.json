@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Fulup"
 		]
 	},
 	"book-choice-label": "Levrioù",
@@ -13,6 +14,7 @@
 	"web-choice-label": "Endalc'had ar Web",
 	"other-choice-label": "All",
 	"form-title": "Brud",
+	"notable-switch": "Ha splann eo an danvez gant an deskrivadenn-mañ ?",
 	"notable-no-label": "ket",
 	"notable-yes-label": "ya",
 	"damaging-label": "Gaouus ?",
