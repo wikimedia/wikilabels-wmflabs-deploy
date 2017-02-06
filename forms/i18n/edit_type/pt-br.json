@@ -1,11 +1,28 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luk3"
+			"Luk3",
+			"Dianakc",
+			"Warley Felipe C."
 		]
 	},
+	"information-label": "Informação",
 	"added-label": "Adicionado",
 	"modified-label": "Modificado",
 	"removed-label": "Removido",
-	"semanticlabels-empty": "Nenhuma intenção(ões) escolhida(s). Por favor adicione uma intenção ou 'outra'."
+	"notes-label": "Notas",
+	"semanticlabels-empty": "Nenhuma intenção(ões) escolhida(s). Por favor adicione uma intenção ou 'outra'.",
+	"bodycopy-label": "Cópia do corpo do texto",
+	"copyediting-label": "Copiar Edição",
+	"pov-label": "Ponto de Vista",
+	"refactoring-label": "Reorganização",
+	"elaboration-label": "Elaboração",
+	"verifiability-label": "Verificabilidade",
+	"verifiability-description": "adicionar fontes, citação",
+	"disambiguation-label": "Desambiguação",
+	"vandalism-label": "Vandalismo",
+	"countervandalism-label": "Antivandalismo",
+	"countervandalism-description": "reverter ou remover vandalismo.",
+	"process-label": "Proceso",
+	"other-label": "Outros"
 }
