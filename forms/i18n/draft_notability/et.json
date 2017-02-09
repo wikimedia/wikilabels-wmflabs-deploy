@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cumbril"
+		]
+	},
+	"guideline-choice-label": "Milliste tähelepanuväärsuse juhtnööride alla selle artikli teema saaks liigitada (kui saab)?",
+	"book-choice-label": "Raamatud",
+	"event-choice-label": "Sündmused",
+	"film-choice-label": "Filmid",
+	"music-choice-label": "Muusika",
+	"person-choice-label": "Inimesed",
+	"org-choice-label": "Organisatsioonid ja ettevõtted",
+	"web-choice-label": "Veebilehed",
+	"other-choice-label": "Muu",
+	"form-title": "Tähelepanuväärsus",
+	"notable-switch": "Kas teema on selle juhtnööri kohaselt tähelepanuväärne?",
+	"notable-no-label": "ei",
+	"notable-yes-label": "jah",
+	"damaging-label": "Kahjulik?",
+	"damaging-false-label": "ei",
+	"damaging-true-label": "jah"
+}

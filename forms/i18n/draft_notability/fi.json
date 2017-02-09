@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mikahama"
+			"Mikahama",
+			"Pyscowicz"
 		]
 	},
 	"book-choice-label": "Kirjat",
 	"music-choice-label": "Musiikki",
 	"person-choice-label": "Ihmiset",
+	"notable-no-label": "ei",
 	"notable-yes-label": "kyllä",
 	"damaging-false-label": "ei",
 	"damaging-true-label": "kyllä"

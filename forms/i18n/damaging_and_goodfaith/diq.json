@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Kumkumuk",
-			"Mirzali"
+			"Mirzali",
+			"Gırd"
 		]
 	},
 	"damaging-help": "Vuryayışi zerar da wesiqi?",
 	"damaging-label": "Zerarın o?",
 	"damaging-no-label": "Nê",
-	"damaging-no-tooltip": "Nê ena vurnayış zerarın niya,  una bımano zi bena.",
+	"damaging-no-tooltip": "Nê, no vırnayış çiyê do zerarın nêvırazeno u o şenê bıramo.",
 	"damaging-yes-label": "Eya",
-	"damaging-yes-tooltip": "E,  ena vurnayış zerarın a, peyaer grotış icab keno",
+	"damaging-yes-tooltip": "Ê, no vırnayış zerar vırazeno u gani peyser bıgêriyo.",
 	"goodfaith-help": "Vurnayışo ke karberi kerdo xayey cı fayde dayış mı aseno?",
 	"goodfaith-label": "Niyeyê cı rond o?",
 	"goodfaith-no-label": "Nê",

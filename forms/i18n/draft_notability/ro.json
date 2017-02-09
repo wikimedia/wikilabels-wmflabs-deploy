@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andrei Stroe"
+		]
+	},
+	"guideline-choice-label": "Sub incidența cărei îndrumări de notabilitate intră subiectul acestui articol?",
+	"book-choice-label": "Cărți",
+	"event-choice-label": "Evenimente",
+	"film-choice-label": "Filme",
+	"music-choice-label": "Muzică",
+	"person-choice-label": "Persoane",
+	"org-choice-label": "Organizații și firme",
+	"web-choice-label": "Conținut web",
+	"other-choice-label": "Altele",
+	"form-title": "Notabilitate",
+	"notable-switch": "Subiectul este notabil conform acestei îndrumări?",
+	"notable-no-label": "nu",
+	"notable-yes-label": "da",
+	"damaging-label": "Dăunătoare?",
+	"damaging-false-label": "nu",
+	"damaging-true-label": "da"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andrei Stroe"
+		]
+	},
+	"damaging-help": "Ați reveni asupra acestei modificări?",
+	"damaging-label": "Dăunătoare?",
+	"damaging-no-label": "Nu",
+	"damaging-no-tooltip": "Nu, această modificare nu este dăunătoare și poate fi păstrată.",
+	"damaging-yes-label": "Da",
+	"damaging-yes-tooltip": "Da, această modificare este dăunătoare și ar trebui anulată.",
+	"goodfaith-help": "Se pare că autorul acestei modificări încearcă să-și aducă o contribuție pozitivă?",
+	"goodfaith-label": "Bună credință?",
+	"goodfaith-no-label": "Nu",
+	"goodfaith-no-tooltip": "Nu, această modificare pare făcută cu rea-credință.",
+	"goodfaith-yes-label": "Da",
+	"goodfaith-yes-tooltip": "Da, această modificare pare făcută cu bună credință.",
+	"unsure-label": "Nesigur?"
+}
