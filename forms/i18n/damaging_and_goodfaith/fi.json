@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mikahama"
+			"Mikahama",
+			"Pyscowicz"
 		]
 	},
 	"damaging-no-label": "Ei",
 	"damaging-yes-label": "Kyllä",
 	"goodfaith-no-label": "Ei",
-	"goodfaith-yes-label": "Kyllä"
+	"goodfaith-yes-label": "Kyllä",
+	"unsure-label": "Epävarma?"
 }

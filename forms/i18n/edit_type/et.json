@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cumbril"
+			"Cumbril",
+			"Pikne"
 		]
 	},
 	"information-label": "Teave",
@@ -29,7 +30,7 @@
 	"elaboration-label": "Laiendamine",
 	"elaboration-description": "sisu laiendamine või olulise uue sisu lisamine, uute faktide või tähendusrikaste väidete sisse toomine (mis läheb faktide värskendusest kaugemale).",
 	"verifiability-label": "Tõendatavus",
-	"verifiability-description": "allikate või tsitaatide lisamine",
+	"verifiability-description": "allikate ja viidete lisamine",
 	"disambiguation-label": "Täpsustamine",
 	"disambiguation-description": "täpsustusleheküljele suunduva lingi asendamine artiklilehekülje lingiga.",
 	"wikification-label": "Vikindamine",
