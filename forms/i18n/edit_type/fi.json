@@ -1,17 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mikahama"
+			"Mikahama",
+			"Pyscowicz"
 		]
 	},
+	"information-label": "Tiedot",
 	"added-label": "Lisätty",
-	"clarification-label": "Selvennys",
-	"insertion-label": "Lisäys",
 	"modified-label": "Muokattu",
-	"other-label": "Muut",
-	"pov-label": "Näkökulma",
 	"removed-label": "Poistettu",
+	"notes-label": "Muistiinpanot",
+	"clarification-label": "Selvennys",
 	"simplification-label": "Yksinkertaistus",
+	"pov-label": "Näkökulma",
+	"refactoring-label": "Uudelleenjärjestely",
+	"verifiability-label": "Tarkistettavuus",
+	"verifiability-description": "lisää lähteitä, lainaus",
+	"disambiguation-label": "Täsmennyssivu",
 	"vandalism-label": "Ilkivalta",
-	"verifiability-description": "lisää lähteitä, lainaus"
+	"process-label": "Prosessi",
+	"other-label": "Muut"
 }
