@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hbseren",
-			"Sadrettin"
+			"Sadrettin",
+			"Archaeodontosaurus"
 		]
 	},
 	"information-label": "Bilgi",
@@ -12,6 +13,8 @@
 	"notes-label": "Notlar",
 	"semanticlabels-empty": "Hedef(ler) seçilmemiş. Lütfen bir hedef ekleyin veya 'diğer'i seçin.",
 	"copyediting-label": "Kopya değişiklik",
+	"clarification-label": "Açıklama",
+	"simplification-label": "Sadeleştirme",
 	"pov-label": "Görüş",
 	"refactoring-label": "Yeniden düzenleme",
 	"refactoring-description": "İçeriğin anlamı değiştirilmeksizin madde yeniden yapılandırılmalı; taşınmalı ve konu yeniden yazılmalı",

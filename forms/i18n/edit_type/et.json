@@ -22,7 +22,7 @@
 	"simplification-label": "Lihtsustamine",
 	"simplification-description": "käsitluse lihtsamaks muutmine; võib osa teavet kaotada.",
 	"pov-label": "Vaatepunkt",
-	"pov-description": "entsüklopeedilisse või neutraalsemasse tooni ümber sõnastamine; erapoolikuse eemaldamine; sobiva rõhuasetuse andmine.",
+	"pov-description": "entsüklopeedilisse või neutraalsemasse tooni ümber sõnastamine; erapoolikuse eemaldamine; sobiva tasakaalu loomine.",
 	"refactoring-label": "Ringikorraldamine",
 	"refactoring-description": "artikli restruktureerimine; sisu liigutamine ja ümber kirjutamine, ilma selle tähendust muutmata.",
 	"factupdate-label": "Faktide uuendus",
