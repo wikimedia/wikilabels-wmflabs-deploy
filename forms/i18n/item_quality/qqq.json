@@ -1,9 +1,10 @@
 {
 	"@metadata": [],
-	"item-quality": "The main question",
-	"item-quality-very-toxic-label": "Label for \"A\" option",
-	"item-quality-toxic-label": "Label for \"B\" option",
-	"item-quality-natural-label": "Label for \"C\" option",
-	"item-quality-healthy-label": "Label for \"D\" option",
-	"item-quality-very-healthy-label": "Label for \"E\" option"
+	"item-quality-label": "",
+	"a-summary-label": "Summary of \"A\" quality in Wikidata",
+	"b-summary-label": "Summary of \"B\" quality in Wikidata",
+	"c-summary-label": "Summary of \"C\" quality in Wikidata",
+	"d-summary-label": "Summary of \"D\" quality in Wikidata",
+	"e-summary-label": "Summary of \"E\" quality in Wikidata",
+	"more-info-content": "Directs the user to read more info"
 }

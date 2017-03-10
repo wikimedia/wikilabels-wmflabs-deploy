@@ -2,27 +2,62 @@ name: item_quality
 
 fields:
   - class: "FieldLayout"
-    label: "<item-quality>"
+    label: "A"
     align: right
-    help: "<item-quality-help>"
-    classes: ['inline-field']
     fieldWidget:
-      name: "item-quality"
-      class: "RadioSelectWidget"
-      display: 'inline-block'
+      class: LabelWidget
+      label: <a-summary-label>
+  - class: "FieldLayout"
+    label: "B"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <b-summary-label>
+  - class: "FieldLayout"
+    label: "C"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <c-summary-label>
+  - class: "FieldLayout"
+    label: "D"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <d-summary-label>
+  - class: "FieldLayout"
+    label: "E"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <e-summary-label>
+  - class: "FieldLayout"
+    label: " "
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: 
+        class: HtmlSnippet
+        content: <more-info-content>
+  - class: "FieldLayout"
+    label: "<item-quality-label>"
+    align: right
+    fieldWidget:
+      name: "item_quality"
+      class: "ButtonSelectWidget"
       items:
-        - class: "RadioOptionWidget"
+        - class: "ButtonOptionWidget"
           data: "A"
-          label: "<item-quality-A-label>"
-        - class: "RadioOptionWidget"
+          label: "A"
+        - class: "ButtonOptionWidget"
           data: "B"
-          label: "<item-quality-B-label>"
-        - class: "RadioOptionWidget"
+          label: "B"
+        - class: "ButtonOptionWidget"
           data: "C"
-          label: "<item-quality-C-label>"
-        - class: "RadioOptionWidget"
+          label: "C"
+        - class: "ButtonOptionWidget"
           data: "D"
-          label: "<item-quality-D-label>"
-        - class: "RadioOptionWidget"
+          label: "D"
+        - class: "ButtonOptionWidget"
           data: "E"
-          label: "<item-quality-E-label>"
+          label: "E"
