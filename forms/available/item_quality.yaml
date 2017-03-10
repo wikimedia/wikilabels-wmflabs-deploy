@@ -1,0 +1,63 @@
+name: item_quality
+
+fields:
+  - class: "FieldLayout"
+    label: "A"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <a-summary-label>
+  - class: "FieldLayout"
+    label: "B"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <b-summary-label>
+  - class: "FieldLayout"
+    label: "C"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <c-summary-label>
+  - class: "FieldLayout"
+    label: "D"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <d-summary-label>
+  - class: "FieldLayout"
+    label: "E"
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: <e-summary-label>
+  - class: "FieldLayout"
+    label: " "
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label: 
+        class: HtmlSnippet
+        content: <more-info-content>
+  - class: "FieldLayout"
+    label: "<item-quality-label>"
+    align: right
+    fieldWidget:
+      name: "item_quality"
+      class: "ButtonSelectWidget"
+      items:
+        - class: "ButtonOptionWidget"
+          data: "A"
+          label: "A"
+        - class: "ButtonOptionWidget"
+          data: "B"
+          label: "B"
+        - class: "ButtonOptionWidget"
+          data: "C"
+          label: "C"
+        - class: "ButtonOptionWidget"
+          data: "D"
+          label: "D"
+        - class: "ButtonOptionWidget"
+          data: "E"
+          label: "E"
