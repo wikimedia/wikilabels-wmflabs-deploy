@@ -1,6 +1,6 @@
 {
 	"@metadata": [],
-	"item-quality-label: "Item quality:",
+	"item-quality-label": "Item quality:",
 	"e-summary-label": "All items that do not match grade 'D' criteria.",
 	"d-summary-label": "Items with some basic statements, but lacking in references, translations, aliases, and sitelinks.",
 	"c-summary-label": "Items containing most critical statements, with some references, translations, aliases, and sitelinks.",
