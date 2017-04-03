@@ -6,6 +6,7 @@
 		]
 	},
 	"damaging-help": "이 편집을 되돌리겠습니까?",
+	"damaging-label": "악의적 기여인가요?",
 	"damaging-no-label": "아니오",
 	"damaging-yes-label": "예",
 	"damaging-yes-tooltip": "예, 이 편집은 유해하기 때문에 되돌려져야 합니다.",
@@ -14,5 +15,6 @@
 	"goodfaith-no-label": "아니오",
 	"goodfaith-no-tooltip": "아니오, 이 편집은 악의를 갖고 기여한 것으로 보입니다.",
 	"goodfaith-yes-label": "예",
-	"goodfaith-yes-tooltip": "예, 이 편집은 좋은 뜻으로 기여한 것으로 보입니다."
+	"goodfaith-yes-tooltip": "예, 이 편집은 좋은 뜻으로 기여한 것으로 보입니다.",
+	"unsure-label": "확실하지 않나요?"
 }

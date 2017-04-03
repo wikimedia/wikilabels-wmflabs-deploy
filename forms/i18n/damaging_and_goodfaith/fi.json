@@ -2,13 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"Mikahama",
-			"Pyscowicz"
+			"Pyscowicz",
+			"4shadoww",
+			"Olimar"
 		]
 	},
+	"damaging-help": "Kumoaisitko tämän muutoksen?",
+	"damaging-label": "Haitallinen?",
 	"damaging-no-label": "Ei",
+	"damaging-no-tooltip": "Ei, tämä muutos ei ole haitallinen, ja se voidaan säilyttää sellaisenaan.",
 	"damaging-yes-label": "Kyllä",
-	"goodfaith-label": "Hyvässä uskossa?",
+	"damaging-yes-tooltip": "Kyllä, tämä muutos on haitallinen, ja se pitäisi kumota.",
+	"goodfaith-help": "Vaikuttaako siltä että muokkaaja oli hyvän tahtoinen?",
+	"goodfaith-label": "Hyväntahtoinen?",
 	"goodfaith-no-label": "Ei",
+	"goodfaith-no-tooltip": "Ei, tämä muutos vaikuttaa olevan vandalismia.",
 	"goodfaith-yes-label": "Kyllä",
+	"goodfaith-yes-tooltip": "Kyllä, tämä muutos vaikuttaa olevan hyväntahtoinen.",
 	"unsure-label": "Epävarma?"
 }

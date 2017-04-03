@@ -2,15 +2,25 @@
 	"@metadata": {
 		"authors": [
 			"Mikahama",
-			"Pyscowicz"
+			"Pyscowicz",
+			"4shadoww",
+			"Olimar"
 		]
 	},
+	"guideline-choice-label": "Minkä käytännön (jos on) mukaan artikkeli on merkittävä?",
 	"book-choice-label": "Kirjat",
 	"event-choice-label": "Tapahtumat",
+	"film-choice-label": "Elokuvat",
 	"music-choice-label": "Musiikki",
 	"person-choice-label": "Ihmiset",
+	"org-choice-label": "Organisaatiot ja yritykset",
+	"web-choice-label": "Verkkosisältö",
+	"other-choice-label": "Muu",
+	"form-title": "Merkittävyys",
+	"notable-switch": "Onko tämä aihe merkittävä näiden käytäntöjen mukaan?",
 	"notable-no-label": "ei",
 	"notable-yes-label": "kyllä",
+	"damaging-label": "Haitallinen?",
 	"damaging-false-label": "ei",
 	"damaging-true-label": "kyllä"
 }
