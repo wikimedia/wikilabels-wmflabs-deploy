@@ -4,7 +4,8 @@
 			"Mikahama",
 			"Pyscowicz",
 			"4shadoww",
-			"Stryn"
+			"Stryn",
+			"Zache"
 		]
 	},
 	"information-label": "Informaatio",
@@ -29,20 +30,20 @@
 	"refactoring-description": "artikkeli uudelleenjärjestelty; siirretty ja uudelleenkirjoitettu sisältöä ilman, että sen merkitys on muuttunut.",
 	"factupdate-label": "Tiedon päivitys",
 	"factupdate-description": "numeroiden, päivämäärien, pisteiden, jaksojen, tilan, jne., päivitys uudella informaatiolla.",
-	"elaboration-label": "Uutta tietoa",
+	"elaboration-label": "Täsmentäminen",
 	"elaboration-description": "laajentaminen tai uuden tiedon lisääminen; uuden asiasisällön, tai väitteen lisääminen (eri asia kuin yksinkertainen tiedon päivitys).",
 	"verifiability-label": "Tarkistettavuus",
 	"verifiability-description": "lähteiden, viitteiden lisäys",
 	"disambiguation-label": "Täsmennyssivu",
 	"disambiguation-description": "täsmennyssivun linkin muuttaminen artikkelin linkiksi.",
-	"wikification-label": "Wikisointi",
+	"wikification-label": "Wikitys",
 	"wikification-description": "tekstin muokkaaminen istuvammaksi wikiin, esim. linkkien lisäys, tai niiden poistaminen tarpeen tullen; lihavoitujen tekstien muuttaminen oikeanlaisiksi otsikoiksi jne; tai artikkelin muotoilu tyylioppaan mukaiseksi.",
 	"vandalism-label": "Vandalismi",
 	"vandalism-description": "tahallinen yritys huonontaa artikkelia",
 	"countervandalism-label": "Vandalismin torjunta",
 	"countervandalism-description": "vandalismin kumoaminen, tai poistaminen.",
 	"process-label": "Prosessi",
-	"process-description": "wiki prosessin aloittaminen, ja jatkaminen kuten esimerkiksi korjaus, yhdistys, tai poisto tagien lisääminen (tai poistaminen).",
+	"process-description": "wikiprosessin aloittaminen ja jatkaminen, kuten esimerkiksi korjaus-, yhdistys-, tai poistomerkintöjen lisääminen ja poistaminen.",
 	"other-label": "Muut",
 	"other-description": "ei mikään yllä olevista, jätä merkintä."
 }

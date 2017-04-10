@@ -4,7 +4,8 @@
 			"Mikahama",
 			"Pyscowicz",
 			"4shadoww",
-			"Olimar"
+			"Olimar",
+			"Zache"
 		]
 	},
 	"damaging-help": "Kumoaisitko tämän muutoksen?",
@@ -13,10 +14,10 @@
 	"damaging-no-tooltip": "Ei, tämä muutos ei ole haitallinen, ja se voidaan säilyttää sellaisenaan.",
 	"damaging-yes-label": "Kyllä",
 	"damaging-yes-tooltip": "Kyllä, tämä muutos on haitallinen, ja se pitäisi kumota.",
-	"goodfaith-help": "Vaikuttaako siltä että muokkaaja oli hyvän tahtoinen?",
+	"goodfaith-help": "Vaikuttaako siltä, että muokkaaja oli hyväntahtoinen?",
 	"goodfaith-label": "Hyväntahtoinen?",
 	"goodfaith-no-label": "Ei",
-	"goodfaith-no-tooltip": "Ei, tämä muutos vaikuttaa olevan vandalismia.",
+	"goodfaith-no-tooltip": "Ei, tämä muutos vaikuttaa olevan pahantahtoinen.",
 	"goodfaith-yes-label": "Kyllä",
 	"goodfaith-yes-tooltip": "Kyllä, tämä muutos vaikuttaa olevan hyväntahtoinen.",
 	"unsure-label": "Epävarma?"
