@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"damaging-help": "Vai tu atceltu šo labojumu?",
+	"damaging-label": "Bojājošs?",
+	"damaging-no-label": "Nē",
+	"damaging-no-tooltip": "Nē, šis labojums nav bojājošs un var palikt kā ir.",
+	"damaging-yes-label": "Jā",
+	"damaging-yes-tooltip": "Jā, šis labojums ir bojājošs un būtu jāatceļ.",
+	"goodfaith-help": "Vai izskatās, ka šī labojuma autors mēģināja dot produktīvu ieguldījumu?",
+	"goodfaith-label": "Labi nodomi?",
+	"goodfaith-no-label": "Nē",
+	"goodfaith-no-tooltip": "Nē, šis labojums šķiet veikts ar sliktiem nodomiem.",
+	"goodfaith-yes-label": "Jā",
+	"goodfaith-yes-tooltip": "Jā, šis labojums šķiet veikts ar labiem nodomiem.",
+	"unsure-label": "Nav pārliecības?"
+}

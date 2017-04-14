@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arianit"
+		]
+	},
+	"damaging-help": "A e kishit kthy këtë redaktim?",
+	"damaging-label": "Dëmtues?",
+	"damaging-no-label": "Jo",
+	"damaging-no-tooltip": "Jo, ky redaktim nuk është dëmtues dhe mund të mbahet siç është.",
+	"damaging-yes-label": "Po",
+	"damaging-yes-tooltip": "Po, ky redaktim është dëmtues dhe duhet të kthehet.",
+	"goodfaith-help": "A duket sikur autori i këtij redaktimi po mundohej të kontribuonte pozitivisht?",
+	"goodfaith-label": "Qëllimmirë?",
+	"goodfaith-no-label": "Jo",
+	"goodfaith-no-tooltip": "Jo, ky redaktim duket që është bërë me qëllim të keq.",
+	"goodfaith-yes-label": "Po",
+	"goodfaith-yes-tooltip": "Po, ky redaktim duket që është bërë me qëllim të keq.",
+	"unsure-label": "I pasigurtë?"
+}
