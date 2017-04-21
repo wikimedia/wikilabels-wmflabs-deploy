@@ -40,9 +40,9 @@
 	"vandalism-label": "破壞",
 	"vandalism-description": "有意企圖破壞條目。",
 	"countervandalism-label": "反破壞",
-	"countervandalism-description": "回退或移除破壞。",
+	"countervandalism-description": "還原或移除破壞。",
 	"process-label": "過程",
 	"process-description": "開始或繼續一個維基工作流程，如標記（或取消標記）一個條目的清理、合併或刪除通知。",
-	"other-label": "其它",
+	"other-label": "其他",
 	"other-description": "以上皆非，請留下註解。"
 }

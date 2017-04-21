@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"book-choice-label": "Grāmatas",
+	"event-choice-label": "Notikumi",
+	"film-choice-label": "Filmas",
+	"music-choice-label": "Mūzika",
+	"person-choice-label": "Cilvēki",
+	"org-choice-label": "Organizācijas un uzņēmumi",
+	"web-choice-label": "Tīmekļa saturs",
+	"other-choice-label": "Citi",
+	"form-title": "Nozīmīgums",
+	"notable-no-label": "nē",
+	"notable-yes-label": "jā",
+	"damaging-label": "Bojājošs?",
+	"damaging-false-label": "nē",
+	"damaging-true-label": "jā"
+}

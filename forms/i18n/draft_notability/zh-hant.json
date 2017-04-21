@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Kly",
-			"Arthur2e5"
+			"Arthur2e5",
+			"LNDDYL"
 		]
 	},
 	"guideline-choice-label": "該條目主題符合在下列哪項關注度指引的要求？",
@@ -13,7 +14,7 @@
 	"person-choice-label": "人物",
 	"org-choice-label": "組織與公司",
 	"web-choice-label": "網站內容",
-	"other-choice-label": "其它",
+	"other-choice-label": "其他",
 	"form-title": "關注度",
 	"notable-switch": "該主題的關注度是否滿足指引要求？",
 	"notable-no-label": "否",
