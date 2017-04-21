@@ -1,9 +1,6 @@
 wikilabels:
   form_directory: forms/enabled
   form_i18n_directory: forms/i18n
-  maintenance_notice:
-    date: 2017-04-21 @ 1400 UTC
-    url: https://meta.wikimedia.org/wiki/Wiki_labels/2017-04-21
 
 wsgi:
   host: labels.wmflabs.org
