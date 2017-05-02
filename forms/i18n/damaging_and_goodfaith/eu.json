@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"damaging-label": "Kaltegarria da?",
+	"damaging-no-label": "Ez",
+	"damaging-no-tooltip": "Ez. Aldaketa hau ez da kaltegarria eta dagoen bezala utz daiteke.",
+	"damaging-yes-label": "Bai",
+	"damaging-yes-tooltip": "Bai, aldaketa hau kaltegarria da eta lehengoratu beharko litzateke.",
+	"goodfaith-label": "Asmo onez?",
+	"goodfaith-no-label": "Ez",
+	"goodfaith-no-tooltip": "Ez. Badirudi asmo txarreko aldaketa izan dela.",
+	"goodfaith-yes-label": "Bai",
+	"goodfaith-yes-tooltip": "Bai. Badirudi asmo oneko aldaketa izan dela.",
+	"unsure-label": "Ez zaude ziur?"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"book-choice-label": "Liburuak",
+	"film-choice-label": "Filmak",
+	"music-choice-label": "Musika",
+	"person-choice-label": "Jendea",
+	"org-choice-label": "Erakundeak eta enpresak",
+	"notable-no-label": "ez",
+	"notable-yes-label": "bai",
+	"damaging-label": "Kaltegarria da?",
+	"damaging-false-label": "ez",
+	"damaging-true-label": "bai"
+}
