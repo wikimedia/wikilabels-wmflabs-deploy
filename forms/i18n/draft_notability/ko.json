@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ykhwong",
-			"Revi"
+			"Revi",
+			"Tursetic"
 		]
 	},
 	"guideline-choice-label": "(만약 존재한다면) 어떤 문서 등재 기준의 세부 지침에 포함됩니까?",
@@ -18,7 +19,7 @@
 	"notable-switch": "이 주제는 지침에 의해 문서 등재 기준을 충족합니까?",
 	"notable-no-label": "아니오",
 	"notable-yes-label": "예",
-	"damaging-label": "악의적인 기여인가요?",
+	"damaging-label": "해를 끼치는 기여인가요?",
 	"damaging-false-label": "아니오",
 	"damaging-true-label": "예"
 }

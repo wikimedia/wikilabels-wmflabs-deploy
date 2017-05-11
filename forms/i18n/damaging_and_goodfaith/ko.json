@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Ykhwong",
-			"Revi"
+			"Revi",
+			"Tursetic"
 		]
 	},
 	"damaging-help": "이 편집을 되돌리겠습니까?",
-	"damaging-label": "악의적인 기여인가요?",
+	"damaging-label": "해를 끼치는 기여인가요?",
 	"damaging-no-label": "아니오",
 	"damaging-no-tooltip": "아니오, 이 편집은 악의적이지 않으며 그대로 유지해도 됩니다.",
 	"damaging-yes-label": "예",
