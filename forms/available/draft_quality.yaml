@@ -1,0 +1,35 @@
+name: draft_quality
+
+fields:
+  - class: "FieldLayout"
+    label: "<firstpass-label>"
+    align: right
+    help: "<firstpass-help>"
+    classes: ['inline-field']
+    fieldWidget:
+      name: "firstpass"
+      class: "ButtonSelectWidget"
+      items:
+        - class: "ButtonOptionWidget"
+          data: "OK"
+          label: "<firstpass-ok-label>"
+          flags: [ "constructive" ]
+        - class: "ButtonOptionWidget"
+          data: "spam"
+          label: "<firstpass-spam-label>"
+          flags: [ "destructive" ]
+        - class: "ButtonOptionWidget"
+          data: "vandalism"
+          label: "<firstpass-vandalism-label>"
+          flags: [ "destructive" ]
+        - class: "ButtonOptionWidget"
+          data: "attack"
+          label: "<firstpass-attack-label>"
+          flags: [ "destructive" ]
+  - class: FieldLayout
+    label: "<interesting-label>"
+    align: right
+    help: "<interesting-help>"
+    fieldWidget:
+      name: "interesting"
+      class: CheckboxInputWidget
