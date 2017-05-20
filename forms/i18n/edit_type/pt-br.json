@@ -3,7 +3,8 @@
 		"authors": [
 			"Luk3",
 			"Dianakc",
-			"Warley Felipe C."
+			"Warley Felipe C.",
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"information-label": "Informação",
@@ -11,18 +12,26 @@
 	"modified-label": "Modificado",
 	"removed-label": "Removido",
 	"notes-label": "Notas",
+	"semanticlabels-label": "Escolha a provável intenção desta edição",
 	"semanticlabels-empty": "Nenhuma intenção(ões) escolhida(s). Por favor adicione uma intenção ou 'outra'.",
 	"bodycopy-label": "Cópia do corpo do texto",
 	"copyediting-label": "Copiar Edição",
+	"simplification-label": "Simplificação",
 	"pov-label": "Ponto de Vista",
+	"pov-description": "reescrever com um tom enciclopédico e neutro; remover a parcialidade; aplicar o princípio de imparcialidade.",
 	"refactoring-label": "Reorganização",
+	"refactoring-description": "reestruturar o artigo; mover e reescrever o conteúdo, sem alterar o seu significado.",
+	"factupdate-label": "Atualização de fatos",
+	"factupdate-description": "atualização de números, datas, resultados, episódios, o estado, etc., com base em novas informações.",
 	"elaboration-label": "Elaboração",
 	"verifiability-label": "Verificabilidade",
 	"verifiability-description": "adicionar fontes, citação",
 	"disambiguation-label": "Desambiguação",
+	"wikification-label": "Wikificação",
 	"vandalism-label": "Vandalismo",
 	"countervandalism-label": "Antivandalismo",
 	"countervandalism-description": "reverter ou remover vandalismo.",
 	"process-label": "Proceso",
-	"other-label": "Outros"
+	"other-label": "Outros",
+	"other-description": "nenhuma das opções acima, por favor deixe uma nota."
 }
