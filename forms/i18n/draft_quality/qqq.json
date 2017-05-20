@@ -1,0 +1,11 @@
+{
+	"@metadata": [],
+  "firstpass-label": "",
+  "firstpass-help": "Describes the goal of question.",
+  "firstpass-ok-label": "Signifies that everything is alright.",
+  "firstpass-spam-label": "Blatant advertising",
+  "firstpass-vandalism-label": "Intentionally causing harm",
+  "firstpass-attack-label": "An insult directed towards a person",
+  "interesting-label": "",
+  "interesting-help": ""
+}

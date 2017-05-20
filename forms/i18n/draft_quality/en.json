@@ -1,0 +1,11 @@
+{
+	"@metadata": [],
+  "firstpass-label": "First pass quality",
+  "firstpass-help": "Not a final determination of worth.  Just checking if this is severely problematic or not.",
+  "firstpass-ok-label": "OK",
+  "firstpass-spam-label": "spam",
+  "firstpass-vandalism-label": "vandalism",
+  "firstpass-attack-label": "attack",
+  "interesting-label": "Interesting example?",
+  "interesting-help": "Check this box if you'd like to discuss this example later."
+}
