@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"information-label": "Informacije",
+	"added-label": "Dodano",
+	"modified-label": "Izmijenjeno",
+	"removed-label": "Uklonjeno",
+	"notes-label": "Bilješke",
+	"semanticlabels-label": "Izaberite vjerovatnu namjeru ove izmjene",
+	"semanticlabels-empty": "Niste izabrali namjeru. Dodajte je ili izaberite \"drugo\".",
+	"bodycopy-label": "Kopija sadržaja",
+	"copyediting-label": "Korektura",
+	"copyediting-description": "preformulacija; popravljanje gramatike, pravopisa, tona ili interpunkcije.",
+	"simplification-label": "Pojednostavljenje",
+	"refactoring-label": "Reorganizacija",
+	"elaboration-label": "Razrađivanje",
+	"verifiability-label": "Provjerljivost",
+	"disambiguation-label": "Čvorovi",
+	"vandalism-label": "Vandalizam",
+	"process-label": "Proces",
+	"other-label": "Drugo",
+	"other-description": "ništa od navedenog; napišite bilješku."
+}
