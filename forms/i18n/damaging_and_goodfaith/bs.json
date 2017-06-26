@@ -4,6 +4,7 @@
 			"Srdjan m"
 		]
 	},
+	"damaging-help": "Biste li vratili ovu izmjenu?",
 	"damaging-label": "Štetno?",
 	"damaging-no-label": "Ne",
 	"damaging-no-tooltip": "Ne, izmjena nije štetna i može ostati takva kakva je.",
