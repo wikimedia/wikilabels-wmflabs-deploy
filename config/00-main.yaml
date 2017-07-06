@@ -1,6 +1,10 @@
 wikilabels:
   form_directory: forms/enabled
   form_i18n_directory: forms/i18n
+  maintenance_notice:
+    date: July 11 @ 1400 UTC
+    url: https://phabricator.wikimedia.org/T168584
+
 
 wsgi:
   host: labels.wmflabs.org
