@@ -3,7 +3,7 @@ wikilabels:
   form_i18n_directory: forms/i18n
   maintenance_notice:
     date: July 11 @ 1400 UTC
-    url: https://phabricator.wikimedia.org/T168584
+    url: https://meta.wikimedia.org/wiki/Wiki_labels/2017-07-11
 
 
 wsgi:
