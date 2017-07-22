@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"damaging-no-label": "None",
+	"damaging-yes-label": "Sìne",
+	"goodfaith-no-label": "None",
+	"goodfaith-yes-label": "Sìne",
+	"unsure-label": "Indecise?"
+}
