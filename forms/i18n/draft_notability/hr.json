@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ivi104",
+			"Wumbolo"
+		]
+	},
+	"book-choice-label": "Knjige",
+	"event-choice-label": "Događaji",
+	"film-choice-label": "Filmovi",
+	"music-choice-label": "Glazba",
+	"person-choice-label": "Ljudi",
+	"org-choice-label": "Organizacije i tvrtke",
+	"web-choice-label": "Internetski sadržaj",
+	"other-choice-label": "Ostalo",
+	"notable-no-label": "ne",
+	"notable-yes-label": "da",
+	"damaging-label": "Štetno?",
+	"damaging-false-label": "ne",
+	"damaging-true-label": "da"
+}

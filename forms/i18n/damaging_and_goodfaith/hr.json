@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ivi104",
+			"Wumbolo"
+		]
+	},
+	"damaging-help": "Biste li uklonili ovo uređivanje?",
+	"damaging-label": "Štetno?",
+	"damaging-no-label": "Ne",
+	"damaging-no-tooltip": "Ne, ovo uređivanje nije štetno i ne treba ga uklanjati.",
+	"damaging-yes-label": "Da",
+	"damaging-yes-tooltip": "Da, ovo uređivanje je štetno i treba biti uklonjeno.",
+	"goodfaith-help": "Izgleda li kao da je autor ovog uređivanja pokušao doprinijeti projektu?",
+	"goodfaith-label": "Dobronamjerno?",
+	"goodfaith-no-label": "Ne",
+	"goodfaith-no-tooltip": "Ne, uređivanje se doima zlonamjernim.",
+	"goodfaith-yes-label": "Da",
+	"goodfaith-yes-tooltip": "Da, uređivanje izgleda dobronamjerno.",
+	"unsure-label": "Ne znam"
+}

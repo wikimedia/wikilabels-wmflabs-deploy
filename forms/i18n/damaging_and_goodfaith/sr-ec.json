@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Милан Јелисавчић"
+		]
+	},
+	"damaging-label": "Штетно?",
+	"damaging-no-label": "Не",
+	"damaging-yes-label": "Да",
+	"goodfaith-no-label": "Не",
+	"goodfaith-yes-label": "Да"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Милан Јелисавчић"
+		]
+	},
+	"guideline-choice-label": "Под којом од следећих смерницама значаја (ако их има) потпада тема овог чланка?",
+	"book-choice-label": "Књиге",
+	"event-choice-label": "Догађаји",
+	"film-choice-label": "Филмови",
+	"music-choice-label": "Музика",
+	"person-choice-label": "Људи",
+	"org-choice-label": "Организације и предузећа",
+	"web-choice-label": "Интернет садржај",
+	"other-choice-label": "Остало",
+	"form-title": "Значајност",
+	"notable-switch": "Да ли тема значајна према овој смерници?",
+	"notable-no-label": "не",
+	"notable-yes-label": "да",
+	"damaging-label": "Штетно?",
+	"damaging-false-label": "не",
+	"damaging-true-label": "да"
+}
