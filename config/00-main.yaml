@@ -14,5 +14,5 @@ database:
   dbname: wikilabels
 
 oauth:
-  mw_uri: https://www.meta.wikimedia.org/w/index.php
+  mw_uri: https://meta.wikimedia.org/w/index.php
   creds: oauth-wikimedia.yaml
