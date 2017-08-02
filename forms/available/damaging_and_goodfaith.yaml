@@ -3,10 +3,8 @@ title: "<form-title>"
 
 fields:
   - class: FieldLayout
-    #label: "<damaging-label>"
     align: right
     classes: ['inline-field']
-    #help: "<damaging-help>"
     fieldWidget:
       name: damaging
       class: ButtonSelectWidget
@@ -20,9 +18,7 @@ fields:
           label: "<damaging-no-label>"
           title: "<damaging-no-tooltip>"
   - class: FieldLayout
-    #label: "<goodfaith-label>"
     classes: ['inline-field']
-    #help: "<goodfaith-help>"
     fieldWidget:
       name: "goodfaith"
       class: ButtonSelectWidget
