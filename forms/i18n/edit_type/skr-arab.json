@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saraiki"
+		]
+	},
+	"information-label": "معلومات",
+	"added-label": "جمع تھی ڳئے",
+	"modified-label": "تبدیل تھی ڳیا",
+	"removed-label": "ہٹا ݙتے",
+	"notes-label": "نوٹس",
+	"clarification-label": "وضاحت",
+	"simplification-label": "سادہ کرݨ",
+	"pov-label": "نقطہ نظر",
+	"refactoring-label": "ولدا منظم کرݨ",
+	"factupdate-label": "حقیقت کوں نویں نکور اپ ڈیٹ کرݨ",
+	"elaboration-label": "تفصیل",
+	"verifiability-label": "تصدیقیت",
+	"verifiability-description": "ماخذ تے حوالے شامل کرو",
+	"process-label": "پراسس",
+	"other-label": "ٻیا"
+}

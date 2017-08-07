@@ -1,20 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe"
+			"Macofe",
+			"Lsanabria"
 		]
 	},
 	"damaging-help": "¿Revertirías esta edición?",
-	"damaging-label": "¿Dañina?",
-	"damaging-no-label": "No",
-	"damaging-no-tooltip": "No, esta edición no es dañina y se puede mantener como está.",
-	"damaging-yes-label": "Sí",
-	"damaging-yes-tooltip": "Sí, esta edición es dañina y debe revertirse.",
+	"damaging-no-label": "Productiva",
+	"damaging-no-tooltip": "Esta edición puede mantenerse como está",
+	"damaging-yes-label": "Dañina",
+	"damaging-yes-tooltip": "Esta edición debería ser revertida",
 	"goodfaith-help": "¿Parece que el autor de esta edición estaba tratando de contribuir productivamente?",
-	"goodfaith-label": "¿Buena fe?",
-	"goodfaith-no-label": "No",
-	"goodfaith-no-tooltip": "No, esta edición parece haber sido hecha con mala fe.",
-	"goodfaith-yes-label": "Sí",
-	"goodfaith-yes-tooltip": "Sí, esta edición parece haber sido hecha con buena fe.",
+	"goodfaith-no-label": "Mala fe",
+	"goodfaith-no-tooltip": "El autor intentaba causar daño intencionalmente",
+	"goodfaith-yes-label": "Buena fe",
+	"goodfaith-yes-tooltip": "El autor intentaba contribuir productivamente",
 	"unsure-label": "¿Inseguro?"
 }

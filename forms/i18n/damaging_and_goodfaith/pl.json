@@ -1,17 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chrumps"
+			"Chrumps",
+			"Vesihiisi"
 		]
 	},
 	"damaging-help": "Czy wycofałbyś tę edycję?",
-	"damaging-label": "Szkodliwa?",
 	"damaging-no-label": "Nie",
-	"damaging-no-tooltip": "Nie, ta edycja nie jest szkodliwa i może zostać bez zmian.",
+	"damaging-no-tooltip": "Edycja może zostać bez zmian",
 	"damaging-yes-label": "Tak",
 	"damaging-yes-tooltip": "Tak, ta edycja jest szkodliwa i należy ją wycofać.",
 	"goodfaith-help": "Czy ten autor mógł próbować wykonać dobrą edycję?",
-	"goodfaith-label": "W dobrej wierze?",
 	"goodfaith-no-label": "Nie",
 	"goodfaith-no-tooltip": "Nie, ta edycja wygląda na wykonaną w złej wierze.",
 	"goodfaith-yes-label": "Tak",

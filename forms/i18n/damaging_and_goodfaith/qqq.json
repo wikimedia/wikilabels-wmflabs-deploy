@@ -8,16 +8,14 @@
 		]
 	},
 	"damaging-help": "An explanation if you were reviewing this edit, would you undo it? Is it in harmful to the Wikipedia?",
-	"damaging-label": "A question: “Is this edit damaging?”\n{{Identical|Damaging}}",
-	"damaging-no-label": "{{Identical|No}}",
+	"damaging-no-label": "",
 	"damaging-no-tooltip": "No, This edit is productive and we should keep it!",
-	"damaging-yes-label": "{{Identical|Yes}}",
+	"damaging-yes-label": "{{Identical|Damaging}}",
 	"damaging-yes-tooltip": "Yes, this edit is harmful to the Wikipedia (a vandalism or an honest mistake) and we should undo it.",
 	"goodfaith-help": "If the edit is made using good faith whether it's harmful or not. Do you think editor was trying to make Wikipedia better or not",
-	"goodfaith-label": "A question: “Was this edit done in good faith?”",
-	"goodfaith-no-label": "{{Identical|No}}",
+	"goodfaith-no-label": "",
 	"goodfaith-no-tooltip": "When the edit is made intentionally to harm Wikipedia such as vandalism.",
-	"goodfaith-yes-label": "{{Identical|Yes}}",
+	"goodfaith-yes-label": "",
 	"goodfaith-yes-tooltip": "If an edit is made with good faith, for example an honest mistake or a productive edit",
-	"unsure-label": "When the user is not sure of the label"
+	"unsure-label": "When the user is not sure of the label\n{{Identical|Unsure}}"
 }

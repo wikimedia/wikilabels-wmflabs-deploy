@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saraiki"
+		]
+	},
+	"book-choice-label": "کتاباں",
+	"event-choice-label": "واقعہ",
+	"film-choice-label": "فلماں",
+	"music-choice-label": "موسیقی",
+	"person-choice-label": "لوک",
+	"other-choice-label": "ٻیا",
+	"notable-no-label": "کو",
+	"notable-yes-label": "جیا",
+	"damaging-label": "نقصان؟",
+	"damaging-false-label": "کو",
+	"damaging-true-label": "جیا"
+}

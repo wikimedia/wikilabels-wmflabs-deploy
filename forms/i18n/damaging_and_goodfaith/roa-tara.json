@@ -4,9 +4,9 @@
 			"Joetaras"
 		]
 	},
-	"damaging-no-label": "None",
-	"damaging-yes-label": "Sìne",
-	"goodfaith-no-label": "None",
-	"goodfaith-yes-label": "Sìne",
+	"damaging-no-label": "None scuasciate",
+	"damaging-yes-label": "Se ste scuascie",
+	"goodfaith-no-label": "Fede cattive",
+	"goodfaith-yes-label": "Fede bbone",
 	"unsure-label": "Indecise?"
 }
