@@ -5,14 +5,14 @@
 		]
 	},
 	"damaging-help": "Géif Dir dës Ännerung zerécksetzen?",
-	"damaging-no-label": "Neen",
+	"damaging-no-label": "Net schiedlech",
 	"damaging-no-tooltip": "Dës Ännerung ka gehale ginn esou wéi se ass",
-	"damaging-yes-label": "Jo",
-	"damaging-yes-tooltip": "Jo, dës Ännerung ass schiedlech a soll zeréckgesat ginn.",
+	"damaging-yes-label": "Schiedlech",
+	"damaging-yes-tooltip": "Dës Ännerung soll zeréckgesat ginn",
 	"goodfaith-help": "Gesäit et aus wéi wann den Auteur vun dëser Ännerung probéiert fir produktiv matzeschaffen?",
-	"goodfaith-no-label": "Neen",
+	"goodfaith-no-label": "Schlecht Absicht",
 	"goodfaith-no-tooltip": "Neen, dës Ännerung schéngt a schlechter Absicht gemaach ginn ze sinn.",
-	"goodfaith-yes-label": "Jo",
+	"goodfaith-yes-label": "Gutt Absicht",
 	"goodfaith-yes-tooltip": "Jo, dës Ännerung gouf wahrscheinlech a gudder Absicht gemaach.",
 	"unsure-label": "Onsécher?"
 }
