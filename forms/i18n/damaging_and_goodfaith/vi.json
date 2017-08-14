@@ -1,16 +1,18 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
 	"damaging-help": "Bạn có định lùi lại sửa đổi này không?",
-	"damaging-label": "Phá hoại?",
-	"damaging-no-label": "Không",
-	"damaging-no-tooltip": "Không, sửa đổi này không gây hại và có thể giữ nguyên.",
-	"damaging-yes-label": "Có",
-	"damaging-yes-tooltip": "Có, sửa đổi này gây hại và cần được lùi lại.",
+	"damaging-no-label": "Không gây hại",
+	"damaging-no-tooltip": "Sửa đổi này có thể giữ nguyên",
+	"damaging-yes-label": "Gây hại",
+	"damaging-yes-tooltip": "Sửa đổi này cần được lùi lại.",
 	"goodfaith-help": "Người thực hiện sửa đổi này có thiện ý muốn đóng góp thông tin hữu ích hay không?",
-	"goodfaith-label": "Sửa đổi thiện ý?",
-	"goodfaith-no-label": "Không",
-	"goodfaith-no-tooltip": "Không, sửa đổi này có vẻ là một sửa đổi ác ý.",
-	"goodfaith-yes-label": "Có",
-	"goodfaith-yes-tooltip": "Có, sửa đổi này có vẻ được thực hiện có thiện ý.",
+	"goodfaith-no-label": "Ác ý",
+	"goodfaith-no-tooltip": "Tác giả này cố làm sửa đổi ác ý.",
+	"goodfaith-yes-label": "Thiện ý",
+	"goodfaith-yes-tooltip": "Tác giả này cố đóng góp một cách đàng hoàng.",
 	"unsure-label": "Bạn không chắc?"
 }

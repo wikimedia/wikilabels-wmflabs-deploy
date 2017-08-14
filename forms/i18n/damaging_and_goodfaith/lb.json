@@ -11,8 +11,8 @@
 	"damaging-yes-tooltip": "Dës Ännerung soll zeréckgesat ginn",
 	"goodfaith-help": "Gesäit et aus wéi wann den Auteur vun dëser Ännerung probéiert fir produktiv matzeschaffen?",
 	"goodfaith-no-label": "Schlecht Absicht",
-	"goodfaith-no-tooltip": "Neen, dës Ännerung schéngt a schlechter Absicht gemaach ginn ze sinn.",
+	"goodfaith-no-tooltip": "Den Auteur huet absichtlech probéiert Schued ze maachen",
 	"goodfaith-yes-label": "Gutt Absicht",
-	"goodfaith-yes-tooltip": "Jo, dës Ännerung gouf wahrscheinlech a gudder Absicht gemaach.",
+	"goodfaith-yes-tooltip": "Den Auteur huet probéiert konstruktiv matzeschaffen",
 	"unsure-label": "Onsécher?"
 }

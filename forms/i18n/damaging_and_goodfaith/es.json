@@ -9,7 +9,7 @@
 	"damaging-no-label": "Productiva",
 	"damaging-no-tooltip": "Esta edición puede mantenerse como está",
 	"damaging-yes-label": "Dañina",
-	"damaging-yes-tooltip": "Esta edición debería ser revertida",
+	"damaging-yes-tooltip": "Esta edición debería revertirse",
 	"goodfaith-help": "¿Parece que el autor de esta edición estaba tratando de contribuir productivamente?",
 	"goodfaith-no-label": "Mala fe",
 	"goodfaith-no-tooltip": "El autor intentaba causar daño intencionalmente",
