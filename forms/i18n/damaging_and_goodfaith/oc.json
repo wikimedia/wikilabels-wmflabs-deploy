@@ -5,9 +5,8 @@
 		]
 	},
 	"damaging-help": "Auriatz anullat aquesta modificacion ?",
-	"damaging-label": "Damatjabla ?",
-	"damaging-no-label": "Non",
-	"damaging-yes-label": "Òc",
-	"goodfaith-no-label": "Non",
-	"goodfaith-yes-label": "Òc"
+	"damaging-no-label": "Pas destructor",
+	"damaging-yes-label": "Destructor",
+	"goodfaith-no-label": "Marrida intencion",
+	"goodfaith-yes-label": "Bona intencion"
 }
