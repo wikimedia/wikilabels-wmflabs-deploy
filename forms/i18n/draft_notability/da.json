@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton"
+		]
+	},
+	"book-choice-label": "Bøger",
+	"event-choice-label": "Begivenheder",
+	"film-choice-label": "Film",
+	"music-choice-label": "Musik",
+	"org-choice-label": "Organisationer og firmaer",
+	"web-choice-label": "Netindhold",
+	"other-choice-label": "Andet",
+	"notable-no-label": "nej",
+	"notable-yes-label": "ja",
+	"damaging-false-label": "nej",
+	"damaging-true-label": "ja"
+}
