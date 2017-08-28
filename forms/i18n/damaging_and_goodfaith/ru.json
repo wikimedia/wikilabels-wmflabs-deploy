@@ -1,18 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras"
+			"Okras",
+			"Facenapalm"
 		]
 	},
 	"damaging-help": "Вы бы отменили эту правку?",
-	"damaging-no-label": "Нет",
+	"damaging-no-label": "Безвредная",
 	"damaging-no-tooltip": "Эта правка может быть оставлена как есть",
-	"damaging-yes-label": "Да",
+	"damaging-yes-label": "Вредная",
 	"damaging-yes-tooltip": "Эта правка должна быть отменена",
 	"goodfaith-help": "Похоже ли, что автор правки намеревался сделать конструктивный вклад?",
-	"goodfaith-no-label": "Нет",
-	"goodfaith-no-tooltip": "Нет, похоже, что эта правка была злонамеренной.",
-	"goodfaith-yes-label": "Да",
-	"goodfaith-yes-tooltip": "Да, эта правка могла быть совершена с добрыми намерениями.",
+	"goodfaith-no-label": "Злонамеренная",
+	"goodfaith-no-tooltip": "Автор пытался нанести ущерб намеренно",
+	"goodfaith-yes-label": "Добронамеренная",
+	"goodfaith-yes-tooltip": "Автор пытался внести конструктивный вклад",
 	"unsure-label": "Не уверены?"
 }
