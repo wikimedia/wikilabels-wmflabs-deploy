@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton"
+		]
+	},
+	"damaging-help": "Ønsker du at fortryde denne redigering?",
+	"damaging-no-label": "Ikke skadelig",
+	"damaging-no-tooltip": "Denne redigering kan beholdes som den er",
+	"damaging-yes-label": "Skadelig",
+	"damaging-yes-tooltip": "Denne redigering bør gøres om",
+	"goodfaith-help": "Fremgår det som om, at forfatteren til denne redigering prøvede at bidrage produktivt?",
+	"goodfaith-no-label": "Onde hensigter",
+	"goodfaith-no-tooltip": "Forfatteren prøvede at påføre skade med vilje",
+	"goodfaith-yes-label": "Gode hensigter",
+	"goodfaith-yes-tooltip": "Forfatteren forsøgte at bidrage produktivt",
+	"unsure-label": "Usikker?"
+}

@@ -4,15 +4,20 @@
 			"Joedalton"
 		]
 	},
+	"guideline-choice-label": "Under hvilken af de følgende relevanskriterier (hvis nogen) falder denne artikels emne under?",
 	"book-choice-label": "Bøger",
 	"event-choice-label": "Begivenheder",
 	"film-choice-label": "Film",
 	"music-choice-label": "Musik",
+	"person-choice-label": "Folk",
 	"org-choice-label": "Organisationer og firmaer",
 	"web-choice-label": "Netindhold",
 	"other-choice-label": "Andet",
+	"form-title": "Relevans",
+	"notable-switch": "Er emne relevant under disse retningslinjer?",
 	"notable-no-label": "nej",
 	"notable-yes-label": "ja",
+	"damaging-label": "Skadelig?",
 	"damaging-false-label": "nej",
 	"damaging-true-label": "ja"
 }
