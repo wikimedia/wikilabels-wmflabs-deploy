@@ -1,20 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Fulup"
 		]
 	},
 	"damaging-help": "Ha nullet ho pije ar c'hemm-se ?",
-	"damaging-label": "Gaouus ?",
-	"damaging-no-label": "Ket",
-	"damaging-no-tooltip": "Ket, n'eo ket gaouus ar c'hemm-se ha gallout a reer mirout anezhañ evel m'emañ.",
-	"damaging-yes-label": "Ya",
-	"damaging-yes-tooltip": "Ya, gaouus eo ar c'hemm-se ha rankout a reer nullañ anezhañ.",
+	"damaging-no-label": "Dizrast",
+	"damaging-no-tooltip": "Gallout a reer mirout ar c'hemm-mañ evel m'emañ",
+	"damaging-yes-label": "Drastus",
+	"damaging-yes-tooltip": "Dleout a rafe ar c'hemm-mañ bezañ distaolet",
 	"goodfaith-help": "Ha seblantout a ra e klaske aozer ar c'hemm-se degas e lod en un doare produus ?",
-	"goodfaith-label": "Feiz vat ?",
-	"goodfaith-no-label": "Ket",
-	"goodfaith-no-tooltip": "Nann, seblantout a ra eo bet ar c'hemm-se a feiz fall.",
-	"goodfaith-yes-label": "Ya",
-	"goodfaith-yes-tooltip": "Ya, seblantout a ra eo bet graet ar c'hemm-se a feiz vat.",
+	"goodfaith-no-label": "A feiz fall",
+	"goodfaith-no-tooltip": "O klask degas gaou a-ratozh-kaer eo bet an aozer.",
+	"goodfaith-yes-label": "A feiz vat",
+	"goodfaith-yes-tooltip": "Seblantout a ra e oa an aozer o klask labourat a-berzh-vat.",
 	"unsure-label": "Diasur?"
 }

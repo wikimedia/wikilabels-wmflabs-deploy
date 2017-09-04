@@ -1,14 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"Mikel Ibaiba"
 		]
 	},
 	"book-choice-label": "Liburuak",
+	"event-choice-label": "Gertaerak",
 	"film-choice-label": "Filmak",
 	"music-choice-label": "Musika",
 	"person-choice-label": "Jendea",
 	"org-choice-label": "Erakundeak eta enpresak",
+	"web-choice-label": "Web edukia",
+	"other-choice-label": "Beste",
 	"notable-no-label": "ez",
 	"notable-yes-label": "bai",
 	"damaging-label": "Kaltegarria da?",

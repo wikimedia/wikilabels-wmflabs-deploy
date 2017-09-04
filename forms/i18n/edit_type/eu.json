@@ -1,8 +1,26 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sator"
+			"Sator",
+			"Mikel Ibaiba",
+			"Subi"
 		]
 	},
-	"vandalism-label": "Bandalismoa"
+	"information-label": "Informazioa",
+	"added-label": "Gehitua",
+	"modified-label": "Aldatua",
+	"removed-label": "Ezabatua",
+	"notes-label": "Oharrak",
+	"bodycopy-label": "Gorputz kopia",
+	"copyediting-label": "Aldaketa kopiatu",
+	"clarification-label": "Argitzea",
+	"simplification-label": "Sinplifikazioa",
+	"pov-label": "Ikuspuntua",
+	"refactoring-label": "Birrantolakuntza",
+	"verifiability-label": "Egiaztagarritasuna",
+	"verifiability-description": "gehitu iturriak, aipuak",
+	"wikification-label": "Wikifikazioa",
+	"vandalism-label": "Bandalismoa",
+	"process-label": "Prozesua",
+	"other-label": "Beste"
 }

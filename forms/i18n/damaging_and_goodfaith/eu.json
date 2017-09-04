@@ -1,18 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"Mikel Ibaiba"
 		]
 	},
-	"damaging-label": "Kaltegarria da?",
-	"damaging-no-label": "Ez",
-	"damaging-no-tooltip": "Ez. Aldaketa hau ez da kaltegarria eta dagoen bezala utz daiteke.",
-	"damaging-yes-label": "Bai",
-	"damaging-yes-tooltip": "Bai, aldaketa hau kaltegarria da eta lehengoratu beharko litzateke.",
-	"goodfaith-label": "Asmo onez?",
-	"goodfaith-no-label": "Ez",
-	"goodfaith-no-tooltip": "Ez. Badirudi asmo txarreko aldaketa izan dela.",
-	"goodfaith-yes-label": "Bai",
-	"goodfaith-yes-tooltip": "Bai. Badirudi asmo oneko aldaketa izan dela.",
+	"damaging-no-label": "Kaltegaitza",
+	"damaging-no-tooltip": "Aldaketa hau dagoen bezala utz daiteke.",
+	"damaging-yes-label": "Kaltegarria",
+	"damaging-yes-tooltip": "Aldaketa hau lehengoratu beharko litzateke.",
+	"goodfaith-no-label": "Fede txarra",
+	"goodfaith-no-tooltip": "Asmo txarreko aldaketa kalte egiteko erabili du erabiltzaileak",
+	"goodfaith-yes-label": "Fede ona",
+	"goodfaith-yes-tooltip": "Asmo oneko aldaketa egin du erabiltzaileak",
 	"unsure-label": "Ez zaude ziur?"
 }
