@@ -6,16 +6,14 @@
 		]
 	},
 	"damaging-help": "Você reverteria esta edição?",
-	"damaging-label": "Prejudicial?",
-	"damaging-no-label": "Não",
-	"damaging-no-tooltip": "Não, esta edição não é prejudicial e pode ser mantida como está.",
-	"damaging-yes-label": "Sim",
-	"damaging-yes-tooltip": "Sim, esta edição é prejudicial e deve ser revertida.",
+	"damaging-no-label": "Não prejudicial",
+	"damaging-no-tooltip": "Esta edição pode ser mantida como está",
+	"damaging-yes-label": "Prejudicial",
+	"damaging-yes-tooltip": "Esta edição deveria ser revertida",
 	"goodfaith-help": "Parece que o autor desta edição estava tentando contribuir produtivamente?",
-	"goodfaith-label": "Boa fé?",
-	"goodfaith-no-label": "Não",
-	"goodfaith-no-tooltip": "Não, esta edição parece ter sido feita de má fé.",
-	"goodfaith-yes-label": "Sim",
-	"goodfaith-yes-tooltip": "Sim, esta edição parece ter sido feita de boa fé.",
-	"unsure-label": "Sem certeza?"
+	"goodfaith-no-label": "Má-fé",
+	"goodfaith-no-tooltip": "O autor estava tentando danificar intencionalmente",
+	"goodfaith-yes-label": "Boa-fé",
+	"goodfaith-yes-tooltip": "O autor estava tentando contribuir produtivamente",
+	"unsure-label": "Inseguro?"
 }
