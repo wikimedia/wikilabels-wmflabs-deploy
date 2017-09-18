@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alp Er Tunqa"
+		]
+	},
+	"damaging-no-label": "ضرر وۇران دئییل",
+	"damaging-yes-label": "ضرر ووران؟",
+	"goodfaith-no-label": "پیس نیت",
+	"goodfaith-yes-label": "یاخشی نیت"
+}

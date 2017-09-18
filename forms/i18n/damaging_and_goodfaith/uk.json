@@ -1,20 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"KHMELNYTSKYIA"
+			"KHMELNYTSKYIA",
+			"Piramidion"
 		]
 	},
 	"damaging-help": "Бажаєте відкинути це редагування?",
-	"damaging-label": "Шкідливе?",
-	"damaging-no-label": "Ні",
-	"damaging-no-tooltip": "Ні, це редагування не є шкідливим і може бути залишено таким як є.",
-	"damaging-yes-label": "Так",
-	"damaging-yes-tooltip": "Так, це редагування є шкідливим і його варто відкинути.",
+	"damaging-no-label": "Не шкідливе",
+	"damaging-no-tooltip": "Це редагування може бути залишене таким як є",
+	"damaging-yes-label": "Шкідливе",
+	"damaging-yes-tooltip": "Це редагування варто відкинути",
 	"goodfaith-help": "Чи виглядає так, ніби автор цього редагування намагався зробити продуктивний внесок?",
-	"goodfaith-label": "Добрі наміри?",
-	"goodfaith-no-label": "Ні",
-	"goodfaith-no-tooltip": "Ні, це редагування схоже на зроблене з поганими намірами.",
-	"goodfaith-yes-label": "Так",
-	"goodfaith-yes-tooltip": "Так, це редагування схоже на зроблене з добрими намірами.",
+	"goodfaith-no-label": "Зловмисне",
+	"goodfaith-no-tooltip": "Автор цілеспрямовано намагався завдати шкоди",
+	"goodfaith-yes-label": "З добрими намірами",
+	"goodfaith-yes-tooltip": "Автор намагався зробити позитивний внесок",
 	"unsure-label": "Не впевнені?"
 }
