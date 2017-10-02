@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Woraponboonkerd"
+		]
+	},
+	"damaging-no-label": "ไม่เกิดความเสียหาย",
+	"damaging-no-tooltip": "การแก้ไขนี้สามารถเก็บไว้อย่างเดิมได้",
+	"damaging-yes-label": "เกิดความเสียหาย",
+	"damaging-yes-tooltip": "การแก้ไขนี้ควรถูกย้อนกลับ",
+	"goodfaith-help": "พบว่าผู้เขียนการแก้ไขนี้มีความพยายามที่จะแก้ไขอย่างสร้างสรรค์หรือไม่?",
+	"goodfaith-no-label": "เจตนาไม่ดี",
+	"goodfaith-no-tooltip": "ผู้เขียนพยายามสร้างความเสียหายโดยเจตนา",
+	"goodfaith-yes-label": "เจตนาดี",
+	"goodfaith-yes-tooltip": "ผู้เขียนพยายามแก้ไขอย่างสร้างสรรค์",
+	"unsure-label": "ไม่แน่ใจ?"
+}

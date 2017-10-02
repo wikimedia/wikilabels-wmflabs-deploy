@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Woraponboonkerd"
+		]
+	},
+	"book-choice-label": "หนังสือ",
+	"event-choice-label": "เหตุการณ์",
+	"film-choice-label": "ภาพยนตร์",
+	"music-choice-label": "เพลง",
+	"person-choice-label": "ผู้คน",
+	"org-choice-label": "องค์กรและบริษัท",
+	"web-choice-label": "เนื้อหาในเว็บ",
+	"other-choice-label": "อื่น ๆ",
+	"notable-no-label": "ไม่",
+	"notable-yes-label": "ใช่",
+	"damaging-label": "สร้างความเสียหาย?",
+	"damaging-false-label": "ไม่",
+	"damaging-true-label": "ใช่"
+}

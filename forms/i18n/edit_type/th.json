@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Woraponboonkerd"
+		]
+	},
+	"information-label": "ข้อมูล",
+	"added-label": "เพิ่มแล้ว",
+	"modified-label": "แก้ไขแล้ว",
+	"removed-label": "ลบออกแล้ว",
+	"notes-label": "หมายเหตุ",
+	"semanticlabels-label": "เลือกเจตนาที่น่าจะเป็นจากการแก้ไขนี้",
+	"clarification-label": "การทำให้กระจ่าง",
+	"simplification-label": "การทำให้ง่ายขึ้น",
+	"simplification-description": "ลดความซับซ้อนหรือความกว้างของการพูดคุย; อาจจะลบข้อมูลบางส่วนออก",
+	"pov-label": "มุมมอง",
+	"vandalism-label": "การจงใจทำลาย",
+	"vandalism-description": "มีความพยายามจงใจที่จะทำลายบทความ",
+	"countervandalism-label": "การต่อต้านการจงใจทำลาย",
+	"countervandalism-description": "ย้อนกลับหรือลบสิ่งที่เกิดจากการทำลาย",
+	"process-label": "ขั้นตอน",
+	"other-label": "อื่น ๆ"
+}
