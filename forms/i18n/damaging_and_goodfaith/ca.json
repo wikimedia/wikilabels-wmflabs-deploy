@@ -1,20 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gerardduenas"
+			"Gerardduenas",
+			"Townie"
 		]
 	},
 	"damaging-help": "Revertiríeu aquesta edició?",
-	"damaging-label": "Vandalisme?",
-	"damaging-no-label": "No",
-	"damaging-no-tooltip": "No, l'edició no és vandàlica i es pot mantenir tal com està",
-	"damaging-yes-label": "Sí",
-	"damaging-yes-tooltip": "Sí, l'edició és vandàlica i s'hauria de revertir",
+	"damaging-no-label": "No vandàlica",
+	"damaging-no-tooltip": "L'edició pot mantenir-se tal com es troba",
+	"damaging-yes-label": "Vandàlica",
+	"damaging-yes-tooltip": "Aquesta edició s'hauria de revertir",
 	"goodfaith-help": "Us sembla que l'autor de l'edició tractava de contribuir productivament?",
-	"goodfaith-label": "Bona intenció?",
-	"goodfaith-no-label": "No",
-	"goodfaith-no-tooltip": "No, aquesta edició sembla malintencionada",
-	"goodfaith-yes-label": "Sí",
-	"goodfaith-yes-tooltip": "Sí, aquesta edició sembla haver estat feta de bona fe.",
+	"goodfaith-no-label": "De mala fe",
+	"goodfaith-no-tooltip": "L'autor va fer una edició malintencionada",
+	"goodfaith-yes-label": "De bona fe",
+	"goodfaith-yes-tooltip": "L'autor volia contribuir productivament",
 	"unsure-label": "No esteu segurs?"
 }

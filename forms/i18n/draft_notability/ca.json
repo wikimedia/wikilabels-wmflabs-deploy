@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Townie"
+		]
+	},
+	"guideline-choice-label": "Quin dels següents criteris de notabilitat (si n'hi ha cap) ha de seguir l'article?",
+	"book-choice-label": "Llibres",
+	"event-choice-label": "Esdeveniments",
+	"film-choice-label": "Pel·lícules",
+	"music-choice-label": "Música",
+	"person-choice-label": "Persones",
+	"org-choice-label": "Organitzacions i empreses",
+	"web-choice-label": "Contingut de web",
+	"other-choice-label": "Altres",
+	"form-title": "Notabilitat",
+	"notable-switch": "El tema és notable sota aquest criteri?",
+	"notable-no-label": "no",
+	"notable-yes-label": "sí",
+	"damaging-label": "Vandàlica?",
+	"damaging-false-label": "no",
+	"damaging-true-label": "sí"
+}
