@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"book-choice-label": "Libbre",
+	"event-choice-label": "Fatte",
+	"film-choice-label": "Film",
+	"music-choice-label": "Museche",
+	"person-choice-label": "Crestiane",
+	"org-choice-label": "Organizzazziune e aziende",
+	"web-choice-label": "Condenute web",
+	"other-choice-label": "Otre",
+	"form-title": "Rilevanze",
+	"notable-no-label": "none",
+	"notable-yes-label": "sìne",
+	"damaging-label": "Face danne?",
+	"damaging-false-label": "none",
+	"damaging-true-label": "sìne"
+}
