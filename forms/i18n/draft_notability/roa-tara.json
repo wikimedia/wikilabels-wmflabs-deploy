@@ -4,6 +4,7 @@
 			"Joetaras"
 		]
 	},
+	"guideline-choice-label": "Jndr'à quale de le linée guide ca avènene sus 'a rilevanze (ce accappe) vèje l'argomende de sta vôsce?",
 	"book-choice-label": "Libbre",
 	"event-choice-label": "Fatte",
 	"film-choice-label": "Film",
@@ -13,6 +14,7 @@
 	"web-choice-label": "Condenute web",
 	"other-choice-label": "Otre",
 	"form-title": "Rilevanze",
+	"notable-switch": "Jè 'n'argomende 'mbortande sus 'a base de sta linée guide?",
 	"notable-no-label": "none",
 	"notable-yes-label": "sìne",
 	"damaging-label": "Face danne?",
