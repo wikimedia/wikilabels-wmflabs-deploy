@@ -1,12 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Милан Јелисавчић"
+			"Милан Јелисавчић",
+			"Obsuser"
 		]
 	},
-	"damaging-label": "Штетно?",
-	"damaging-no-label": "Не",
-	"damaging-yes-label": "Да",
-	"goodfaith-no-label": "Не",
-	"goodfaith-yes-label": "Да"
+	"damaging-help": "Да ли бисте вратили ову измену?",
+	"damaging-no-label": "Није штетна",
+	"damaging-no-tooltip": "Ова измена се може сачувати баш каква је",
+	"damaging-yes-label": "Штетно",
+	"damaging-yes-tooltip": "Ова измена ви требало да се врати",
+	"goodfaith-help": "Да ли се чини како је аутор ове измене покушавао да допринесе продуктивно?",
+	"goodfaith-no-label": "Лоша намера",
+	"goodfaith-no-tooltip": "Аутор је покушавао да изазове штету намерно",
+	"goodfaith-yes-label": "Добра намера",
+	"goodfaith-yes-tooltip": "Аутор је покушавао да допринесе продуктивно",
+	"unsure-label": "Нисте сигурни?"
 }
