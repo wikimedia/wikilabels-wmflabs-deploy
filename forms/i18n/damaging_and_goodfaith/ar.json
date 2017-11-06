@@ -6,20 +6,19 @@
 			"Ayatun",
 			"Ghassanmas",
 			"Sonic N800",
-			"ديفيد"
+			"ديفيد",
+			"Antime"
 		]
 	},
 	"damaging-help": "هل تريد التراجع عن هذا التعديل؟",
-	"damaging-label": "هل التعديل سلبي أو سيئ؟",
-	"damaging-no-label": "لا",
-	"damaging-no-tooltip": "لا، هذا التعديل ليس ضارًا ويمكن إبقاؤه.",
-	"damaging-yes-label": "نعم",
-	"damaging-yes-tooltip": "نعم، هذا التعديل ضار ويجب التراجع عنه.",
+	"damaging-no-label": "غير تالف",
+	"damaging-no-tooltip": "هذا التعديل يمكن إبقاؤه كما هو.",
+	"damaging-yes-label": "مسيء",
+	"damaging-yes-tooltip": "هذا التعديل وجب التراجع عنه.",
 	"goodfaith-help": "هل من الواضح أن المحرر الذي قام بإجراء هذا تعديل, حاول أن يساهم بطريقة ايجابية أو حسنة؟",
-	"goodfaith-label": "هل النية حسنة؟",
-	"goodfaith-no-label": "لا",
-	"goodfaith-no-tooltip": "لا، يبدو أن هذا التعديل أُجري بسوء نية.",
-	"goodfaith-yes-label": "نعم",
-	"goodfaith-yes-tooltip": "نعم، يبدو أن هذا التعديل أُجري بحسن نية.",
+	"goodfaith-no-label": "سوء الظن",
+	"goodfaith-no-tooltip": "يبدو أن المحرر أجرى هذا التعديل بنية التخريب المتعمد.",
+	"goodfaith-yes-label": "حسن نية",
+	"goodfaith-yes-tooltip": "يبدو أن المحرر يحاول المساهمة بانتاجية.",
 	"unsure-label": "هل أنت غير متأكد؟"
 }
