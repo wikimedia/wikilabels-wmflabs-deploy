@@ -1,20 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wolf Rex"
+			"Wolf Rex",
+			"MeskoBalazs"
 		]
 	},
 	"damaging-help": "Te visszavonnád ezt a szerkesztést?",
-	"damaging-label": "Káros?",
-	"damaging-no-label": "Nem",
-	"damaging-no-tooltip": "Nem, ez a szerkesztés nem káros, és megtartható.",
-	"damaging-yes-label": "Igen",
-	"damaging-yes-tooltip": "Igen, ez a szerkesztés káros, és vissza kell vonni.",
+	"damaging-no-label": "Nem káros",
+	"damaging-no-tooltip": "Ez a szerkesztés megtartható",
+	"damaging-yes-label": "Káros",
+	"damaging-yes-tooltip": "Ezt a szerkesztést vissza kell vonni",
 	"goodfaith-help": "Úgy tűnik, hogy a szerkesztő közreműködései hasznosak?",
-	"goodfaith-label": "Jóhiszemű?",
-	"goodfaith-no-label": "Nem",
-	"goodfaith-no-tooltip": "Nem, ez a szerkesztés vandalizmusnak tűnik.",
-	"goodfaith-yes-label": "Igen",
-	"goodfaith-yes-tooltip": "Igen, ez a szerkesztés jóhiszemű.",
+	"goodfaith-no-label": "Rosszhiszemű",
+	"goodfaith-no-tooltip": "A szerző szándékosan ártani akar",
+	"goodfaith-yes-label": "Jóhiszemű",
+	"goodfaith-yes-tooltip": "A szerző produktívan akart hozzájárulni",
 	"unsure-label": "Nem vagy biztos?"
 }
