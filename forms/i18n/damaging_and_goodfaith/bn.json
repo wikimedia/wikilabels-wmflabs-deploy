@@ -1,18 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aftabuzzaman"
+			"Aftabuzzaman",
+			"Rasal Lia"
 		]
 	},
 	"damaging-help": "আপনি এই সম্পাদনাটি প্রত্যাবর্তন করতে চান?",
-	"damaging-no-label": "না",
-	"damaging-no-tooltip": "না, এই সম্পাদনাটি ক্ষতিকর নয়, এবং যে রকম আছে সেই রকমই রাখা যেতে পারে।",
-	"damaging-yes-label": "হ্যাঁ",
+	"damaging-no-label": "নষ্টা করেনা",
+	"damaging-no-tooltip": "এই সংশোধন বজায় রাখা যায়",
+	"damaging-yes-label": "নষ্ট করে",
 	"damaging-yes-tooltip": "এই সম্পাদনাটি প্রত্যাবর্তন করা উচিত।",
 	"goodfaith-help": "এটি দেখে মনে হয়েছে যে এই সম্পাদনায় লেখক উত্পাদনশীল অবদান রাখার চেষ্টা করছিল?",
-	"goodfaith-no-label": "না",
-	"goodfaith-no-tooltip": "না, এই সম্পাদনাটি খারাপ-বিশ্বাসে করা হয়েছে বলে মনে হচ্ছে।",
-	"goodfaith-yes-label": "হ্যাঁ",
-	"goodfaith-yes-tooltip": "হ্যাঁ, এই সম্পাদনাটি সদ-বিশ্বাসে করা হয়েছে বলে মনে হচ্ছে।",
+	"goodfaith-no-label": "দর্বল অাস্থা",
+	"goodfaith-no-tooltip": "লেখক উদ্দেশ্যপ্রনোদিত ভাবে নষ্ট করার চেষ্টা করছে",
+	"goodfaith-yes-label": "ভাল অাস্থা",
+	"goodfaith-yes-tooltip": "লেখক ফলপ্রসূ অবদান রাখার চেষ্টা করছে",
 	"unsure-label": "নিশ্চিত নন?"
 }

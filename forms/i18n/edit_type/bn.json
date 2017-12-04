@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Aftabuzzaman",
-			"আজিজ"
+			"আজিজ",
+			"Rasal Lia"
 		]
 	},
 	"information-label": "তথ্য",
@@ -10,7 +11,7 @@
 	"modified-label": "পরিবর্তিত",
 	"removed-label": "অপসারিত",
 	"notes-label": "টীকা",
-	"semanticlabels-label": "সম্পাদনার জন্য সম্ভাব্য উদ্দেশ্য নির্বাচন করুন",
+	"semanticlabels-label": "এই সংশোধনের সম্ভাব্য উদ্দেশ্য পছন্দ করুন",
 	"semanticlabels-empty": "কোনও উদ্দেশ্য চয়ন করা হয়নি। দয়া করে একটি উদ্দেশ্য অথবা \"অন্য\" কিছু যোগ করুন।",
 	"bodycopy-label": "লেখার অংশ",
 	"bodycopy-description": "মূল নিবন্ধ বা লেখার অংশ (শিরোনাম, উপশিরোনাম, এবং গ্রাফিক্স থেকে স্বতন্ত্র হিসেবে)",
