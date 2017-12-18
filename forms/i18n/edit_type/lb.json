@@ -17,6 +17,7 @@
 	"copyediting-label": "Iwwerliesen",
 	"copyediting-description": "ëmformuléieren; Grammatik, Orthographie, Toun oder Zeechesetzung verbesseren.",
 	"clarification-label": "Klarifikatioun",
+	"clarification-description": "e Fakt oder eng Bedeitung spezifizéieren oder erklären duerch e Beispill oder eng Diskussioun ouni nei Informatiounen derbäizesetzen.",
 	"simplification-label": "Vereinfachung",
 	"simplification-description": "Komplexitéit oder Breet vun  der Diskussioun reduzéieren; eventuell Informatiounen ewechhuelen.",
 	"pov-label": "Standpunkt",
@@ -38,6 +39,7 @@
 	"countervandalism-label": "Vandalismusbekämpfung",
 	"countervandalism-description": "zerécksetzen oder Vandalismus ewechhuelen.",
 	"process-label": "Prozess",
+	"process-description": "e Wikiprozess ufänken oder viruféieren wéi z. Bsp. d'Markéieren (oder net méi Markéieren) vun engem Artikel duerch Notize zum Botzen, Zesummeféieren oder Läschen.",
 	"other-label": "Anerer",
 	"other-description": "näischt vun deem hei driwwer, loosst eis w.e.g. e Message."
 }

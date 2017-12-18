@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Wolf Rex",
-			"MeskoBalazs"
+			"MeskoBalazs",
+			"Samat"
 		]
 	},
 	"damaging-help": "Te visszavonnád ezt a szerkesztést?",
@@ -10,7 +11,7 @@
 	"damaging-no-tooltip": "Ez a szerkesztés megtartható",
 	"damaging-yes-label": "Káros",
 	"damaging-yes-tooltip": "Ezt a szerkesztést vissza kell vonni",
-	"goodfaith-help": "Úgy tűnik, hogy a szerkesztő közreműködései hasznosak?",
+	"goodfaith-help": "Úgy tűnik, hogy a szerkesztő közreműködése jóhiszemű?",
 	"goodfaith-no-label": "Rosszhiszemű",
 	"goodfaith-no-tooltip": "A szerző szándékosan ártani akar",
 	"goodfaith-yes-label": "Jóhiszemű",

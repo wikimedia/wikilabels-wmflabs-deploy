@@ -1,18 +1,26 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"MokaAkashiyaPT"
 		]
 	},
 	"information-label": "Informação",
+	"information-tooltip": "Marque estas caixas se houver alteração de factos ou informações significativas. Note que é possível alterar o \"corpo do texto\" sem alterar a \"informação\" contida nele.",
 	"added-label": "Adicionada",
 	"modified-label": "Modificada",
 	"removed-label": "Removida",
 	"notes-label": "Notas",
 	"semanticlabels-label": "Escolha a provável intenção desta edição",
 	"semanticlabels-empty": "Intenções não escolhidas. Por favor, adicione uma intenção ou \"outras\".",
+	"bodycopy-label": "Cópia do corpo do texto",
+	"bodycopy-description": "O artigo principal ou a parte do texto (diferentemente de cabeçalhos, subcabeçalhos e gráficos)",
+	"copyediting-label": "Passagem de texto",
+	"copyediting-description": "reformulação; melhoria gramatical, ortográfica, de tom ou pontuação.",
 	"clarification-label": "Esclarecimento",
+	"clarification-description": "especificar ou explicar um facto existente ou significado por meio de um exemplo ou discussão sem adicionar informação nova.",
 	"simplification-label": "Simplificação",
+	"simplification-description": "redução da complexidade ou profundidade da discussão; pode remover informação.",
 	"pov-label": "Ponto de vista",
 	"pov-description": "reescrever com um tom enciclopédico e neutro; remover a parcialidade; aplicar o princípio de imparcialidade.",
 	"refactoring-label": "Reorganização",
@@ -20,16 +28,19 @@
 	"factupdate-label": "Atualização de factos",
 	"factupdate-description": "atualização de números, datas, resultados, episódios, o estado, etc., com base em novas informações.",
 	"elaboration-label": "Elaboração",
+	"elaboration-description": "ampliação ou inclusão substancial de conteúdo novo; introdução de um facto ou uma nova afirmação significativa (além de uma simples atualização de dados)",
 	"verifiability-label": "Verificabilidade",
 	"verifiability-description": "adicionar fontes, citação",
 	"disambiguation-label": "Desambiguação",
 	"disambiguation-description": "alterar uma ligação de desambiguação para a página específica.",
 	"wikification-label": "Wikificação",
+	"wikification-description": "adequação do texto ao ambiente wiki, por exemplo através da inclusão de ligações, ou da sua remoção onde for necessária; conversão de texto em negrito para títulos propriamente ditos, etc; ou alterações de formatação relacionadas ao livro de estilo.",
 	"vandalism-label": "Vandalismo",
 	"vandalism-description": "tentativa deliberada de danificação do artigo",
 	"countervandalism-label": "Antivandalismo",
 	"countervandalism-description": "reverter ou remover o vandalismo.",
 	"process-label": "Processo",
+	"process-description": "início ou continuação de um fluxo de tarefas wiki, tais como a inclusão (ou remoção) de avisos num artigo a respeito da limpeza, fusão ou eliminação.",
 	"other-label": "Outra",
 	"other-description": "nenhuma das opções acima, por favor deixe uma nota."
 }
