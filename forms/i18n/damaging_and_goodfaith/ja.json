@@ -1,16 +1,18 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Yusuke1109"
+		]
+	},
 	"damaging-help": "この編集を取り消しますか？",
-	"damaging-label": "破壊的な編集ですか？",
-	"damaging-no-label": "いいえ",
-	"damaging-no-tooltip": "「いいえ」とは、この編集が破壊的ではなく、そのままにしておくことができるという意味です。",
-	"damaging-yes-label": "はい",
-	"damaging-yes-tooltip": "「はい」とは、この編集が破壊的であり、取り消されるべきという意味です。",
+	"damaging-no-label": "損害を与えない",
+	"damaging-no-tooltip": "この編集はそのまま維持することができます",
+	"damaging-yes-label": "損害を与える",
+	"damaging-yes-tooltip": "この編集は元に戻す必要があります",
 	"goodfaith-help": "この編集は、より良くしようと思って投稿されたように見えますか？",
-	"goodfaith-label": "善意の編集ですか？",
-	"goodfaith-no-label": "いいえ",
-	"goodfaith-no-tooltip": "「いいえ」とは、この編集は悪意を持ってなされたものという意味です。",
-	"goodfaith-yes-label": "はい",
-	"goodfaith-yes-tooltip": "「はい」とは、この編集は善意によってなされたものという意味です。",
+	"goodfaith-no-label": "悪意",
+	"goodfaith-no-tooltip": "作者は故意にダメージを与えようとしていた",
+	"goodfaith-yes-label": "善意",
+	"goodfaith-yes-tooltip": "作者は建設的に貢献しようとしていました",
 	"unsure-label": "不正確ですか？"
 }

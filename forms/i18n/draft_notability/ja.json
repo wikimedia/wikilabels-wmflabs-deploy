@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yusuke1109"
+		]
+	},
+	"guideline-choice-label": "この記事の話題は、次の注目度指針（もしあれば）のどれを下回っていますか？",
+	"book-choice-label": "ブック",
+	"event-choice-label": "イベント",
+	"film-choice-label": "フィルム",
+	"music-choice-label": "音楽",
+	"person-choice-label": "ユーザー",
+	"org-choice-label": "組織と企業",
+	"web-choice-label": "Webコンテンツ",
+	"other-choice-label": "その他",
+	"form-title": "特筆性",
+	"notable-switch": "この指針に基づいて話題が注目されていますか?",
+	"notable-no-label": "いいえ",
+	"notable-yes-label": "はい",
+	"damaging-label": "破壊的な編集ですか？",
+	"damaging-false-label": "いいえ",
+	"damaging-true-label": "はい"
+}
