@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sadrettin"
+			"Sadrettin",
+			"Hedda"
 		]
 	},
 	"book-choice-label": "Kitaplar",
@@ -13,6 +14,7 @@
 	"web-choice-label": "Web içeriği",
 	"other-choice-label": "Diğer",
 	"form-title": "Kaydadeğerlik",
+	"notable-switch": "Konu bu kılavuzda dikkat çekici mi?",
 	"notable-no-label": "hayır",
 	"notable-yes-label": "evet",
 	"damaging-label": "Zarar?",

@@ -1,20 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sadrettin"
+			"Sadrettin",
+			"Hedda"
 		]
 	},
 	"damaging-help": "Değişiklik maddeye zarar verdi mi?",
-	"damaging-label": "Zararlı mı?",
-	"damaging-no-label": "Hayır",
-	"damaging-no-tooltip": "Hayır, bu değişiklik zararlı değil ve bu şekilde kalabilir.",
-	"damaging-yes-label": "Evet",
-	"damaging-yes-tooltip": "Evet, bu değişiklik zararlı ve geri alınmalıdır.",
+	"damaging-no-label": "Zararlı değil",
+	"damaging-no-tooltip": "Bu düzenleme olduğu gibi saklanabilir",
+	"damaging-yes-label": "Zararlı",
+	"damaging-yes-tooltip": "Bu düzenleme geri alınmalıdır",
 	"goodfaith-help": "Bu kullanıcının yaptığı değişiklik yarar sağlama amaçlı mı gözüküyor?",
-	"goodfaith-label": "İyi niyetli mi?",
-	"goodfaith-no-label": "Hayır",
-	"goodfaith-no-tooltip": "Hayır, bu değişiklik kötü niyetli gibi gözüküyor.",
-	"goodfaith-yes-label": "Evet",
-	"goodfaith-yes-tooltip": "Evet, bu değişiklik iyi niyetli gibi gözüküyor.",
+	"goodfaith-no-label": "Kötü niyetli",
+	"goodfaith-no-tooltip": "Yazar bilerek zarar vermeye çalışıyordu.",
+	"goodfaith-yes-label": "İyi niyetli",
+	"goodfaith-yes-tooltip": "Yazar verimli bir şekilde katkıda bulunmaya çalışıyordu.",
 	"unsure-label": "Emin misiniz?"
 }
