@@ -1,21 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zygimantus"
+			"Zygimantus",
+			"Manvydasz"
 		]
 	},
-	"added-label": "Pridėta",
-	"bodycopy-label": "Kūno kopija",
-	"deletion-label": "Trynimas",
 	"information-label": "Informacija",
-	"insertion-label": "Įterpimas",
-	"modification-label": "Modifikacija",
-	"notes-label": "Pastabos",
-	"other-label": "Kita",
-	"pov-label": "Požiūris",
-	"process-label": "Procesas",
+	"added-label": "Pridėta",
+	"modified-label": "Pakeista",
 	"removed-label": "Pašalinta",
-	"vandalism-label": "Vandalizmas",
+	"notes-label": "Pastabos",
+	"bodycopy-label": "Kūno kopija",
+	"pov-label": "Požiūris",
 	"verifiability-description": "pridėti šaltinių, citatų",
-	"wikification-label": "Vikifikacija"
+	"wikification-label": "Vikifikacija",
+	"vandalism-label": "Vandalizmas",
+	"countervandalism-label": "Vandalizmo skaičiuoklis",
+	"countervandalism-description": "grąžinti arba pašalinti vandalizmą.",
+	"process-label": "Procesas",
+	"other-label": "Kita"
 }

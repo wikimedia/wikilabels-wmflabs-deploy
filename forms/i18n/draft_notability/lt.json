@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zygimantus"
+			"Zygimantus",
+			"Manvydasz"
 		]
 	},
 	"book-choice-label": "Knygos",
@@ -13,6 +14,7 @@
 	"other-choice-label": "Kita",
 	"notable-no-label": "ne",
 	"notable-yes-label": "taip",
+	"damaging-label": "Žalinga?",
 	"damaging-false-label": "ne",
 	"damaging-true-label": "taip"
 }

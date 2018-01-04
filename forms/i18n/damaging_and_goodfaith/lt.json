@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zygimantus"
+			"Zygimantus",
+			"Manvydasz"
 		]
 	},
-	"damaging-no-label": "Ne",
-	"damaging-yes-label": "Taip",
+	"damaging-help": "Ar galėtumėte grąžinti šį redagavimą?",
+	"damaging-no-label": "Nežalinga",
+	"damaging-no-tooltip": "Šis pakeitimas gali būti toks, koks yra dabar",
+	"damaging-yes-label": "Žalinga",
+	"damaging-yes-tooltip": "Šis pakeitimas turi būti atšauktas",
 	"goodfaith-no-label": "Ne",
 	"goodfaith-yes-label": "Taip"
 }
