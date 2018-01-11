@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"damaging-no-label": "Бясшкодны",
+	"damaging-yes-label": "Шкодная",
+	"goodfaith-no-label": "Зламысная",
+	"goodfaith-yes-label": "Добрасумленная"
+}
