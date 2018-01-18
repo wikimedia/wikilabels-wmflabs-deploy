@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Benoit Rochon"
+		]
+	},
+	"notable-no-label": "ama",
+	"notable-yes-label": "ehe",
+	"damaging-false-label": "ama",
+	"damaging-true-label": "ehe"
+}

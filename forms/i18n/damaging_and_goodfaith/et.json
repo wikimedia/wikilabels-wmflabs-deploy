@@ -5,13 +5,11 @@
 		]
 	},
 	"damaging-help": "Kas tühistaksid selle muudatuse?",
-	"damaging-label": "Kahjulik?",
 	"damaging-no-label": "Ei",
 	"damaging-no-tooltip": "Ei, muudatus pole kahjulik ja tuleks säilitada.",
 	"damaging-yes-label": "Jah",
 	"damaging-yes-tooltip": "Jah, muudatus on kahjulik ja tuleks tühistada.",
 	"goodfaith-help": "Kas tundub, et muudatuse autor püüdis asju paremaks teha?",
-	"goodfaith-label": "Heasoovlik?",
 	"goodfaith-no-label": "Ei",
 	"goodfaith-no-tooltip": "Ei, paistab, et muudatus tehti pahatahtlikult.",
 	"goodfaith-yes-label": "Jah",

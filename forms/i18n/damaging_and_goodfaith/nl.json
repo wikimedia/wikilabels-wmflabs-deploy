@@ -1,18 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Woodcutterty"
+			"Woodcutterty",
+			"Mar(c)"
 		]
 	},
 	"damaging-help": "Zou u deze bewerking terugdraaien?",
 	"damaging-no-label": "Niet schadelijk",
-	"damaging-no-tooltip": "Nee, deze bewerking is niet schadelijk en kan in deze vorm gehandhaafd blijven.",
-	"damaging-yes-label": "Ja",
-	"damaging-yes-tooltip": "Ja, deze bewerking is schadelijk en moet worden teruggedraaid.",
+	"damaging-no-tooltip": "Deze bewerking kan in deze vorm gehandhaafd blijven",
+	"damaging-yes-label": "Schadelijk",
+	"damaging-yes-tooltip": "Deze bewerking moet worden teruggedraaid",
 	"goodfaith-help": "Lijkt het erop dat de persoon die deze bewerking deed een constructieve bijdrage wilde leveren?",
-	"goodfaith-no-label": "Nee",
-	"goodfaith-no-tooltip": "Nee, het lijkt erop dat de persoon die deze bewerking deed niet van goede wil was.",
-	"goodfaith-yes-label": "Ja",
-	"goodfaith-yes-tooltip": "Ja, het lijkt erop dat de persoon die deze bewerking deed van goede wil was.",
+	"goodfaith-no-label": "Kwade wil",
+	"goodfaith-no-tooltip": "De bewerker probeerde opzettelijk schade te veroorzaken",
+	"goodfaith-yes-label": "Goede wil",
+	"goodfaith-yes-tooltip": "De bewerker probeerde productief bij te dragen",
 	"unsure-label": "Niet zeker?"
 }

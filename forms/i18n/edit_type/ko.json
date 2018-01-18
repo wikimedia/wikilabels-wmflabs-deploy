@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jerrykim306",
+			"Revi",
+			"Ykhwong"
+		]
+	},
+	"information-label": "정보",
+	"added-label": "추가됨",
+	"modified-label": "수정됨",
+	"removed-label": "제거됨",
+	"notes-label": "참고",
+	"copyediting-label": "편집 복사",
+	"verifiability-label": "확인 가능",
+	"disambiguation-label": "동음이의",
+	"wikification-label": "위키화",
+	"vandalism-label": "문서 훼손",
+	"countervandalism-label": "문서 훼손 대응",
+	"countervandalism-description": "문서 훼손을 되돌리거나 제거합니다.",
+	"other-label": "기타"
+}

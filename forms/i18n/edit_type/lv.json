@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"information-label": "Informācija",
+	"added-label": "Pievienota",
+	"modified-label": "Izmainīta",
+	"removed-label": "Noņemta",
+	"notes-label": "Piezīmes",
+	"simplification-label": "Vienkāršošana",
+	"pov-label": "Skatu punkts",
+	"factupdate-label": "Faktu atjaunināšana",
+	"disambiguation-label": "Nozīmju atdalīšana",
+	"wikification-label": "Vikifikācija",
+	"vandalism-label": "Vandalisms"
+}

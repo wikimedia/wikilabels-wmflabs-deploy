@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nayvik"
+		]
+	},
+	"book-choice-label": "ಪುಸ್ತಕಗಳು",
+	"notable-no-label": "ಇಲ್ಲ",
+	"notable-yes-label": "ಹೌದು",
+	"damaging-false-label": "ಇಲ್ಲ",
+	"damaging-true-label": "ಹೌದು"
+}

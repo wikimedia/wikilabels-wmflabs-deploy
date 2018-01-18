@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"added-label": "थपियो",
+	"factupdate-label": "तथ्य अद्यावधि",
+	"factupdate-description": "संख्या, मिति, अङ्कहरू, शृङ्खलाहरू, स्थिति, आदि., नयाँ प्राप्त जानकारीको आधारमा अद्यावधि गर्नुहोस्",
+	"elaboration-label": "विस्तृतता",
+	"elaboration-description": "बढाउनुहोस् या ठोस केही सामग्री थप्नुहोस्;नयाँ तथ्य या अर्थपूर्ण दृढ कथन थप्नुहोस् (साधारण तथ्य अद्यावधि भन्दा पर)।",
+	"verifiability-label": "सन्दर्भ परायणता",
+	"verifiability-description": "स्रोतहरू थप्नुहोस्, साइटेसन",
+	"disambiguation-label": "बहुविकल्प",
+	"disambiguation-description": "बहुविकल्प पृष्ठमा लिङ्क परिवर्तन गरेर कुनै पृष्ठमा लिङ्क जोड्नुहोस् ।",
+	"wikification-label": "विकिकरण",
+	"process-label": "प्रक्रिया",
+	"other-label": "अन्य"
+}

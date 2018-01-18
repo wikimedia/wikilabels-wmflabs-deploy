@@ -1,13 +1,11 @@
 {
 	"@metadata": [],
 	"damaging-help": "您是否要回退此次编辑？",
-	"damaging-label": "破坏性编辑?",
 	"damaging-no-label": "否",
 	"damaging-no-tooltip": "不，此编辑并非破坏性编辑，可以保留。",
 	"damaging-yes-label": "是",
 	"damaging-yes-tooltip": "是的，此编辑是破坏性编辑，应当回退。",
 	"goodfaith-help": "这次编辑的作者是否看起来想做出有意义的贡献？",
-	"goodfaith-label": "善意编辑？",
 	"goodfaith-no-label": "否",
 	"goodfaith-no-tooltip": "不，这次编辑看起来是恶意编辑。",
 	"goodfaith-yes-label": "是",

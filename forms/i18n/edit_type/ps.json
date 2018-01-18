@@ -4,19 +4,17 @@
 			"Ahmed-Najib-Biabani-Ibrahimkhel"
 		]
 	},
-	"added-label": "ورگډ شو",
-	"clarification-label": "رڼښت",
-	"deletion-label": "ړنگېدنه",
 	"information-label": "مالومات",
-	"insertion-label": "ننوېستل",
+	"added-label": "ورگډ شو",
 	"notes-label": "يادښتونه",
-	"other-description": "له پورتنيو څخه يو هم نه، لطفاً يو يادښت پرېږدئ.",
-	"other-label": "نور",
-	"pov-label": "ليدلوری",
-	"process-label": "بهير",
+	"clarification-label": "رڼښت",
 	"simplification-label": "ساده کېدنه",
-	"vandalism-label": "ورانکاري",
-	"verifiability-description": "سرچينې ورگډول، اخځ",
+	"pov-label": "ليدلوری",
 	"verifiability-label": "تاييدېدنه",
-	"wikification-label": "ويکي کېدنه"
+	"verifiability-description": "سرچينې ورگډول، اخځ",
+	"wikification-label": "ويکي کېدنه",
+	"vandalism-label": "ورانکاري",
+	"process-label": "بهير",
+	"other-label": "نور",
+	"other-description": "له پورتنيو څخه يو هم نه، لطفاً يو يادښت پرېږدئ."
 }

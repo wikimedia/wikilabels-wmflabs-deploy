@@ -4,17 +4,14 @@
 			"Futhark1988"
 		]
 	},
-	"clarification-label": "Tisztázás",
-	"countervandalism-label": "Ellen-vandalizmus",
-	"deletion-label": "Törlés",
-	"disambiguation-label": "Egyértelműsítés",
-	"elaboration-label": "Kidolgozás",
-	"insertion-label": "Beillesztés",
-	"modification-label": "Módosítás",
 	"notes-label": "Jegyzetek",
-	"other-description": "az említettek közül egyik sem, kérem hagyjon egy megjegyzést.",
-	"pov-label": "Nézőpont",
+	"clarification-label": "Tisztázás",
 	"simplification-label": "Egyszerűsítés",
+	"pov-label": "Nézőpont",
+	"elaboration-label": "Kidolgozás",
+	"verifiability-label": "Ellenőrizhetőség",
+	"disambiguation-label": "Egyértelműsítés",
 	"vandalism-label": "Vandalizmus",
-	"verifiability-label": "Ellenőrizhetőség"
+	"countervandalism-label": "Ellen-vandalizmus",
+	"other-description": "az említettek közül egyik sem, kérem hagyjon egy megjegyzést."
 }

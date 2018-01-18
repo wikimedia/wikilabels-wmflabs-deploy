@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac"
+		]
+	},
+	"music-choice-label": "Музыка",
+	"notable-no-label": "не",
+	"notable-yes-label": "так",
+	"damaging-false-label": "не",
+	"damaging-true-label": "так"
+}

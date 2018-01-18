@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manik Soren"
+		]
+	},
+	"other-choice-label": "ᱮᱴᱟᱜ",
+	"notable-no-label": "ᱵᱟᱝ",
+	"notable-yes-label": "ᱦᱮᱸ",
+	"damaging-false-label": "ᱵᱟᱝ",
+	"damaging-true-label": "ᱦᱮᱸ"
+}
