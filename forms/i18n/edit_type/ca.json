@@ -31,7 +31,7 @@
 	"elaboration-description": "afegir contingut nou; inserció d'una dada o una afirmació significativa (no només una simple actualització del contingut)",
 	"verifiability-label": "Verificabilitat",
 	"verifiability-description": "afegir fonts, citacions.",
-	"disambiguation-label": "Desambigüació",
+	"disambiguation-label": "Desambiguació",
 	"disambiguation-description": "canvi d'un enllaç a una pàgina de desambiguació a un enllaç a la pàgina específica.",
 	"wikification-label": "Viquificació",
 	"wikification-description": "fer el text més apte pel mitjà wiki, p.ex. s'afegeixen o es treuen enllaços; es converteix text en negreta a encapçalaments quan toca, etc; o canvis relacionats amb el llibre d'estil per formatejar.",

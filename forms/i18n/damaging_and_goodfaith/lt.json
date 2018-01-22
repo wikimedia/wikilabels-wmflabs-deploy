@@ -10,6 +10,6 @@
 	"damaging-no-tooltip": "Šis pakeitimas gali būti toks, koks yra dabar",
 	"damaging-yes-label": "Žalinga",
 	"damaging-yes-tooltip": "Šis pakeitimas turi būti atšauktas",
-	"goodfaith-no-label": "Ne",
-	"goodfaith-yes-label": "Taip"
+	"goodfaith-no-label": "Nenaudingas",
+	"goodfaith-yes-label": "Naudingas"
 }
