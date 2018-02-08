@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Urbanecm"
+			"Urbanecm",
+			"Clon",
+			"Ilimanaq29",
+			"Martin Urbanec"
 		]
 	},
-	"modified-label": "Upraveno"
+	"information-label": "Informace",
+	"added-label": "Přidáno",
+	"modified-label": "Upraveno",
+	"removed-label": "Odstraněno",
+	"notes-label": "Poznámky",
+	"clarification-label": "Vysvětlení",
+	"simplification-label": "Zjednodušení",
+	"pov-label": "Názor",
+	"refactoring-label": "Reorganizace",
+	"vandalism-label": "Vandalismus"
 }

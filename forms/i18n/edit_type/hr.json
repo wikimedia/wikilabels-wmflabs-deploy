@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ivi104",
+			"Srdjan m",
+			"Wumbolo",
+			"Zoranzoki21"
+		]
+	},
+	"information-label": "Informacije",
+	"information-tooltip": "Označite ove kućice ako su činjenice ili važne činjenice izmijenjene. Pripazite, stranica je mogla biti značajno uređena, ali bez izmjena \"informacija\".",
+	"added-label": "Dodano",
+	"modified-label": "Promijenjeno",
+	"removed-label": "Uklonjeno",
+	"notes-label": "Bilješke",
+	"semanticlabels-label": "Odaberite namjeru ovog uređivanja",
+	"semanticlabels-empty": "Nije odabrana namjera ovog uređivanja. Odaberite namjeru ili \"drugo\".",
+	"vandalism-label": "Vandalizam",
+	"process-label": "Proces",
+	"other-label": "Ostalo"
+}
