@@ -2,18 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Aftabuzzaman",
-			"Rasal Lia"
+			"Rasal Lia",
+			"Bodhisattwa"
 		]
 	},
 	"damaging-help": "আপনি এই সম্পাদনাটি প্রত্যাবর্তন করতে চান?",
-	"damaging-no-label": "নষ্টা করেনা",
+	"damaging-no-label": "ক্ষতিকর নয়",
 	"damaging-no-tooltip": "এই সংশোধন বজায় রাখা যায়",
-	"damaging-yes-label": "নষ্ট করে",
+	"damaging-yes-label": "ক্ষতিকর",
 	"damaging-yes-tooltip": "এই সম্পাদনাটি প্রত্যাবর্তন করা উচিত।",
 	"goodfaith-help": "এটি দেখে মনে হয়েছে যে এই সম্পাদনায় লেখক উত্পাদনশীল অবদান রাখার চেষ্টা করছিল?",
-	"goodfaith-no-label": "দর্বল অাস্থা",
-	"goodfaith-no-tooltip": "লেখক উদ্দেশ্যপ্রনোদিত ভাবে নষ্ট করার চেষ্টা করছে",
+	"goodfaith-no-label": "দুর্বল অাস্থা",
+	"goodfaith-no-tooltip": "লেখক উদ্দেশ্যপ্রনোদিত ভাবে নষ্ট করার চেষ্টা করছিলেন",
 	"goodfaith-yes-label": "ভাল অাস্থা",
-	"goodfaith-yes-tooltip": "লেখক ফলপ্রসূ অবদান রাখার চেষ্টা করছে",
+	"goodfaith-yes-tooltip": "লেখক ফলপ্রসূ অবদান রাখার চেষ্টা করছিলেন",
 	"unsure-label": "নিশ্চিত নন?"
 }
