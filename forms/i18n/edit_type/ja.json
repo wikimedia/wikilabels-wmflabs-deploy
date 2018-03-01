@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yusuke1109"
+		]
+	},
+	"information-label": "情報",
+	"information-tooltip": "事実や意味のある情報が変更された場合は、これらのチェックボックスをオンにします。 含まれている \"情報\"を変更することなく \"ボディコピー\"を変更できることに注意してください。",
+	"added-label": "追加されました",
+	"modified-label": "変更あり",
+	"removed-label": "除去",
+	"notes-label": "メモ",
+	"semanticlabels-label": "この編集の意図を選択する",
+	"semanticlabels-empty": "意図は選択されていません。 意図や「その他」を追加してください。",
+	"bodycopy-description": "主な記事またはテキスト部分（見出し、副題、および図とは異なる）",
+	"copyediting-description": "言い換えれば、 文法、スペル、トーン、句読点を改善します。",
+	"clarification-description": "新しい情報を追加することなく、既存の事実または意味を例または議論で指定または説明する。",
+	"simplification-label": "簡略化",
+	"simplification-description": "議論の複雑さや幅を縮小する。情報を削除する可能性があります。",
+	"pov-label": "視点",
+	"refactoring-label": "再編",
+	"other-label": "その他"
+}
