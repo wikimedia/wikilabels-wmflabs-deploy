@@ -2,13 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Subi",
-			"Mikel Ibaiba"
+			"Mikel Ibaiba",
+			"EukeneFL"
 		]
 	},
+	"damaging-help": "Edizio hau lehengoratuko zenuke?",
 	"damaging-no-label": "Kaltegaitza",
 	"damaging-no-tooltip": "Aldaketa hau dagoen bezala utz daiteke.",
 	"damaging-yes-label": "Kaltegarria",
 	"damaging-yes-tooltip": "Aldaketa hau lehengoratu beharko litzateke.",
+	"goodfaith-help": "Edizio honen egilea produktiboki laguntzen saiatzen ari dela iruditzen al zaizu?",
 	"goodfaith-no-label": "Fede txarra",
 	"goodfaith-no-tooltip": "Asmo txarreko aldaketa kalte egiteko erabili du erabiltzaileak",
 	"goodfaith-yes-label": "Fede ona",

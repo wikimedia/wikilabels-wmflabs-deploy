@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Subi",
-			"Mikel Ibaiba"
+			"Mikel Ibaiba",
+			"EukeneFL"
 		]
 	},
+	"guideline-choice-label": "Artikulu honen gaia hurrengo zein jarraibide eramailerekin erlazionatzen da (egotekotan)?",
 	"book-choice-label": "Liburuak",
 	"event-choice-label": "Gertaerak",
 	"film-choice-label": "Filmak",
@@ -13,6 +15,8 @@
 	"org-choice-label": "Erakundeak eta enpresak",
 	"web-choice-label": "Web edukia",
 	"other-choice-label": "Beste",
+	"form-title": "Nabaritasuna",
+	"notable-switch": "Jarraibide hauenpean gaia nabaria al da?",
 	"notable-no-label": "ez",
 	"notable-yes-label": "bai",
 	"damaging-label": "Kaltegarria da?",
