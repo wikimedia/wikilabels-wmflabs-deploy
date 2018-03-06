@@ -1,0 +1,36 @@
+name: item_quality
+
+fields:
+  - class: "FieldLayout"
+    label: " "
+    align: right
+    fieldWidget:
+      class: LabelWidget
+      label:
+        class: HtmlSnippet
+        content: <more-info-content>
+  - class: "FieldLayout"
+    label: "<wp10-label>"
+    align: right
+    fieldWidget:
+      name: "wp10"
+      class: "ButtonSelectWidget"
+      items:
+        - class: "ButtonOptionWidget"
+          data: "FA"
+          label: "<fa-label>"
+        - class: "ButtonOptionWidget"
+          data: "GA"
+          label: "<ga-label>"
+        - class: "ButtonOptionWidget"
+          data: "B"
+          label: "<b-label>"
+        - class: "ButtonOptionWidget"
+          data: "C"
+          label: "<c-label>"
+        - class: "ButtonOptionWidget"
+          data: "Start"
+          label: "<start-label>"
+        - class: "ButtonOptionWidget"
+          data: "Stub"
+          label: "<stub-label>"
