@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Les Meloures"
 		]
 	},
 	"information-label": "Informatioun",
@@ -11,7 +12,7 @@
 	"removed-label": "Ewechgeholl",
 	"notes-label": "Notizen",
 	"semanticlabels-label": "Sicht déi wahrscheinlech Absicht vun dëser Ännerung eraus",
-	"semanticlabels-empty": "Keng Absichten erausgesicht. Setzt w.e.g. eng Absicht oder \"anerer\" dobäi",
+	"semanticlabels-empty": "Keng Absichten erausgesicht. Setzt w.e.g. eng Absicht oder \"anerer\" derbäi",
 	"bodycopy-label": "Kopie vum Inhalt",
 	"bodycopy-description": "Den Haaptartikel oder Textdeel (am Géigesaz zu Iwwerschriften, Ënneriwwerschrëften a Graphiken).",
 	"copyediting-label": "Iwwerliesen",
@@ -29,7 +30,7 @@
 	"elaboration-label": "Elaboratioun",
 	"elaboration-description": "erweideren oder substantiven neien Inhalt derbäisetzen, e Fakt drasetzen oder eppes Bedeitendes Neies drasetzen (méi wéi eng einfach Aktualisatioun vun engem Fakt).",
 	"verifiability-label": "Iwwerpréifbarkeet",
-	"verifiability-description": "Quellen an Zitater dobäisetzen",
+	"verifiability-description": "Quellen an Zitater derbäisetzen",
 	"disambiguation-label": "Homonymie",
 	"disambiguation-description": "ännert e Link op eng Homonymiesäit an e Link op déi spezifesch Säit.",
 	"wikification-label": "Wikifizéierung",
