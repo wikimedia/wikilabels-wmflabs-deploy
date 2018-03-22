@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Armeniki"
+		]
+	},
+	"book-choice-label": "Գիրքեր",
+	"event-choice-label": "Պատահմունքներ",
+	"film-choice-label": "Շարժանկարներ",
+	"music-choice-label": "Երաժշտութիւն",
+	"person-choice-label": "Ժողովուրդ",
+	"org-choice-label": "Կազմակերպութիւն եւ ընկերութիւններ",
+	"other-choice-label": "Ուրիշ",
+	"notable-no-label": "ոչ",
+	"notable-yes-label": "այո",
+	"damaging-false-label": "ոչ",
+	"damaging-true-label": "այո"
+}
