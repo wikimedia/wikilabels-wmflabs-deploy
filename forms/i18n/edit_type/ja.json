@@ -19,5 +19,7 @@
 	"simplification-description": "議論の複雑さや幅を縮小する。情報を削除する可能性があります。",
 	"pov-label": "視点",
 	"refactoring-label": "再編",
+	"factupdate-label": "事実の更新",
+	"countervandalism-description": "荒らしを差し戻すか、取り除く。",
 	"other-label": "その他"
 }
