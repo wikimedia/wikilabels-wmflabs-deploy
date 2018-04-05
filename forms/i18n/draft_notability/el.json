@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nikosgranturismogt"
+		]
+	},
+	"book-choice-label": "Βιβλία",
+	"event-choice-label": "Συμβάντα",
+	"film-choice-label": "Ταινίες",
+	"music-choice-label": "Μουσική",
+	"person-choice-label": "Οι άνθρωποι",
+	"org-choice-label": "Οργανισμοί και εταιρείες",
+	"web-choice-label": "Περιεχόμενο διαδικτύου",
+	"other-choice-label": "Άλλο",
+	"notable-no-label": "όχι",
+	"notable-yes-label": "ναι",
+	"damaging-false-label": "όχι",
+	"damaging-true-label": "ναι"
+}

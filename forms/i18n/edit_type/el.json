@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nikosgranturismogt"
+		]
+	},
+	"information-label": "Πληροφορία",
+	"added-label": "Προστέθηκε",
+	"modified-label": "Τροποποιημένο",
+	"removed-label": "Έχει αφαιρεθεί",
+	"notes-label": "Σημειώσεις",
+	"refactoring-label": "Αναδιοργάνωση",
+	"refactoring-description": "επαναδόμηση του άρθρου: μετακινήστε και ξαναγράψτε περιεχόμενο, χωρίς να αλλάξετε την σημασία του.",
+	"disambiguation-label": "Αποσαφήνιση",
+	"wikification-label": "Βικιποίηση",
+	"vandalism-label": "Βανδαλισμός",
+	"process-label": "Διαδικασία",
+	"other-label": "Άλλα",
+	"other-description": "τίποτα από τα παραπάνω, απλά αφήστε μια σημείωση."
+}

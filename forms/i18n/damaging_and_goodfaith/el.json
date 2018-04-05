@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nikosgranturismogt"
+		]
+	},
+	"damaging-help": "Θα αναστρέψετε αυτή τη επεξεργασία;",
+	"goodfaith-no-label": "Κακής πίστης",
+	"goodfaith-yes-label": "Καλής πίστης",
+	"goodfaith-yes-tooltip": "Ο συγγραφέας προσπαθούσε να συνεισφέρει παραγωγικά",
+	"unsure-label": "Μη σίγουρο;"
+}
