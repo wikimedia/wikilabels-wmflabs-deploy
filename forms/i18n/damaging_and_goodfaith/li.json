@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"damaging-help": "Wils se dees bewirking trökdrejje?",
+	"damaging-no-label": "Neet sjajelik",
+	"damaging-no-tooltip": "Dees bewirking kan in deze vorm blieve staon",
+	"damaging-yes-label": "Sjajelik",
+	"damaging-yes-tooltip": "Dees bewirking mót waere trökgedrejd",
+	"goodfaith-help": "Liek 't drop det de persoon dae dees bewirking deej 'n constructief biedraag wól levere?",
+	"goodfaith-no-label": "Oet kwaoje wil",
+	"goodfaith-no-tooltip": "De bewirker perbeerde opzèttelik sjaaj te veroearzake",
+	"goodfaith-yes-label": "Oet goje wil",
+	"goodfaith-yes-tooltip": "De bewirker perbeer produktief bie te drage",
+	"unsure-label": "Ónzeker?"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"guideline-choice-label": "Ónger welke van de volgende encylopediewaerdigheidsrichliene (wen van toepassing) vèlt 't óngerwerp van dees pagina?",
+	"book-choice-label": "Beuk",
+	"event-choice-label": "Gebeurtenisse",
+	"film-choice-label": "Filme",
+	"music-choice-label": "Meziek",
+	"person-choice-label": "Luuj",
+	"org-choice-label": "Organisaties en bedriever",
+	"web-choice-label": "Webinhawd",
+	"other-choice-label": "Angere",
+	"form-title": "Encyclopediewaerdig",
+	"notable-switch": "Is 't óngerwerp encyclopediawaerdig volges de richliene?",
+	"notable-no-label": "nein",
+	"notable-yes-label": "jao",
+	"damaging-label": "Sjajelik?",
+	"damaging-false-label": "nein",
+	"damaging-true-label": "jao"
+}
