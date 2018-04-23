@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikosgranturismogt"
+			"Nikosgranturismogt",
+			"Kostas20142"
 		]
 	},
 	"information-label": "Πληροφορία",
@@ -9,11 +10,18 @@
 	"modified-label": "Τροποποιημένο",
 	"removed-label": "Έχει αφαιρεθεί",
 	"notes-label": "Σημειώσεις",
+	"clarification-label": "Διευκρίνιση",
+	"simplification-label": "Απλοποίηση",
 	"refactoring-label": "Αναδιοργάνωση",
 	"refactoring-description": "επαναδόμηση του άρθρου: μετακινήστε και ξαναγράψτε περιεχόμενο, χωρίς να αλλάξετε την σημασία του.",
+	"factupdate-label": "Ενημέρωση γεγονότος",
+	"verifiability-label": "Επαληθευσιμότητα",
+	"verifiability-description": "προσθήκη πηγών, παραπομπή",
 	"disambiguation-label": "Αποσαφήνιση",
 	"wikification-label": "Βικιποίηση",
 	"vandalism-label": "Βανδαλισμός",
+	"countervandalism-label": "αντιβανδαλισμός",
+	"countervandalism-description": "αναστροφή ή αφαίρεση βανδαλισμού.",
 	"process-label": "Διαδικασία",
 	"other-label": "Άλλα",
 	"other-description": "τίποτα από τα παραπάνω, απλά αφήστε μια σημείωση."

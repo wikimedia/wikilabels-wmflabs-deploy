@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikosgranturismogt"
+			"Nikosgranturismogt",
+			"Kostas20142"
 		]
 	},
 	"damaging-help": "Θα αναστρέψετε αυτή τη επεξεργασία;",
+	"damaging-no-tooltip": "Η επεξεργασία μπορεί να κρατηθεί όπως είναι",
+	"damaging-yes-label": "Επιζήμια",
+	"damaging-yes-tooltip": "Η επεξεργασία πρέπει να αναστραφεί",
 	"goodfaith-no-label": "Κακής πίστης",
 	"goodfaith-yes-label": "Καλής πίστης",
 	"goodfaith-yes-tooltip": "Ο συγγραφέας προσπαθούσε να συνεισφέρει παραγωγικά",
