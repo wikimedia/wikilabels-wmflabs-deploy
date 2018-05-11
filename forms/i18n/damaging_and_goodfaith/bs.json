@@ -5,14 +5,14 @@
 		]
 	},
 	"damaging-help": "Biste li vratili ovu izmjenu?",
-	"damaging-no-label": "Ne",
-	"damaging-no-tooltip": "Ne, izmjena nije štetna i može ostati takva kakva je.",
-	"damaging-yes-label": "Da",
-	"damaging-yes-tooltip": "Da, izmjena je štetna i trebalo bi je vratiti.",
+	"damaging-no-label": "Nije štetna",
+	"damaging-no-tooltip": "Izmjena može ostati onakva kakva je",
+	"damaging-yes-label": "Štetna",
+	"damaging-yes-tooltip": "Izmjenu bi trebalo vratiti",
 	"goodfaith-help": "Izgleda li da je autor ove izmjene pokušao konstruktivno doprinijeti?",
-	"goodfaith-no-label": "Ne",
-	"goodfaith-no-tooltip": "Ne, izmjena djeluje zlonamjerno.",
-	"goodfaith-yes-label": "Da",
-	"goodfaith-yes-tooltip": "Da, izmjena djeluje dobronamjerno.",
+	"goodfaith-no-label": "Nije dobronamjerno",
+	"goodfaith-no-tooltip": "Autor je namjerno pokušao izazvati štetu",
+	"goodfaith-yes-label": "Dobronamjerno",
+	"goodfaith-yes-tooltip": "Autor je pokušao produktivno doprinijeti",
 	"unsure-label": "Niste sigurni?"
 }
