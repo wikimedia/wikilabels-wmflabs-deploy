@@ -10,9 +10,9 @@
 	"damaging-yes-label": "Štetna",
 	"damaging-yes-tooltip": "Izmjenu bi trebalo vratiti",
 	"goodfaith-help": "Izgleda li da je autor ove izmjene pokušao konstruktivno doprinijeti?",
-	"goodfaith-no-label": "Nije dobronamjerno",
+	"goodfaith-no-label": "Nije dobronamjerna",
 	"goodfaith-no-tooltip": "Autor je namjerno pokušao izazvati štetu",
-	"goodfaith-yes-label": "Dobronamjerno",
+	"goodfaith-yes-label": "Dobronamjerna",
 	"goodfaith-yes-tooltip": "Autor je pokušao produktivno doprinijeti",
 	"unsure-label": "Niste sigurni?"
 }
