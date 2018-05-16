@@ -2,6 +2,9 @@ wikilabels:
   form_directory: forms/enabled
   form_i18n_directory: forms/i18n
   central_auth_host: https://meta.wikimedia.org
+  maintenance_notice:
+    date: 2018-05-16 @ 1500 UTC
+    url: https://meta.wikimedia.org/wiki/Wiki_labels/Downtime_20180516
 
 wsgi:
   host: labels.wmflabs.org
