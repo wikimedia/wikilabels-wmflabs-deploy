@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amara-Amaziɣ",
+			"ⵕⴰⵊⵉ"
+		]
+	},
+	"book-choice-label": "ⵉⴷⵍⵉⵙⵏ",
+	"music-choice-label": "ⴰⵥⴰⵡⴰⵏ",
+	"person-choice-label": "ⵎⵉⴷⴷⵏ",
+	"other-choice-label": "ⵢⴰⴹⵏ",
+	"notable-no-label": "ⵓⵀⵓ",
+	"notable-yes-label": "ⵢⴰⵀ",
+	"damaging-false-label": "ⵓⵀⵓ",
+	"damaging-true-label": "ⵢⴰⵀ"
+}
