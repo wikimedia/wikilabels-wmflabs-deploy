@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kareyac"
+			"Kareyac",
+			"Red Winged Duck"
 		]
 	},
+	"film-choice-label": "Фільмы",
 	"music-choice-label": "Музыка",
 	"notable-no-label": "не",
 	"notable-yes-label": "так",
