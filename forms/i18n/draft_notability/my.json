@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dr Lotus Black"
+		]
+	},
+	"book-choice-label": "စာအုပ်များ",
+	"event-choice-label": "ဖြစ်ရပ်များ",
+	"film-choice-label": "ရုပ်ရှင်များ",
+	"music-choice-label": "ဂီတ",
+	"person-choice-label": "လူပုဂ္ဂိုလ်",
+	"org-choice-label": "အဖွဲ့အစည်းနှင့် ကုမ္ပဏီများ",
+	"other-choice-label": "အခြား",
+	"form-title": "သိသာထင်ရှားမှု",
+	"notable-no-label": "မဟုတ်",
+	"notable-yes-label": "ဟုတ်ပါသည်",
+	"damaging-false-label": "မဟုတ်",
+	"damaging-true-label": "ဟုတ်ပါသည်"
+}

@@ -6,7 +6,9 @@
 	},
 	"damaging-help": "Ці адмянілі бы вы гэтую праўку?",
 	"damaging-no-label": "Бясшкодны",
+	"damaging-no-tooltip": "Гэтая праўка можа быць пакінутая як ёсьць",
 	"damaging-yes-label": "Шкодная",
+	"damaging-yes-tooltip": "Гэтая праўка павінна быць адмененая",
 	"goodfaith-no-label": "Зламысная",
 	"goodfaith-yes-label": "Добрасумленная"
 }
