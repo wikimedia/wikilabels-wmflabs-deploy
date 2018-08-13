@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"guideline-choice-label": "En quala (se ol existas) de la sequanta guidolinei pri eminenteso apartenas ica artiklo?",
+	"book-choice-label": "Libri",
+	"event-choice-label": "Eventaji",
+	"film-choice-label": "Filmifi",
+	"music-choice-label": "Muziko",
+	"person-choice-label": "Personi",
+	"org-choice-label": "Organizuri ed entraprezi",
+	"web-choice-label": "Interretala kontenajo",
+	"other-choice-label": "Altra",
+	"form-title": "Notabileso",
+	"notable-no-label": "no",
+	"notable-yes-label": "yes",
+	"damaging-label": "Domajiva?",
+	"damaging-false-label": "no",
+	"damaging-true-label": "yes"
+}
