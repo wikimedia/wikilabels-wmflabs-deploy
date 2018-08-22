@@ -43,7 +43,8 @@ This can be simply run by:
 
     fab deploy
 
-This updates all the web workers of wikilabels to the new code and restarts them.
+This updates all the web workers of wikilabels to the new code and restarts
+them.
 """
 import glob
 import os
@@ -72,9 +73,7 @@ def sr(*cmd):
 
 @roles('web')
 def deploy():
-    """
-    Deploys updated code to the web server
-    """
+    """Deploy updated code to the web server."""
     update_config()
     upgrade_requirements()
     restart_uwsgi()
@@ -82,18 +81,14 @@ def deploy():
 
 @roles('staging')
 def stage(branch='master'):
-    """
-    Deployes updated code to the staging server
-    """
+    """Deploy updated code to the staging server."""
     update_config(branch)
     upgrade_requirements()
     restart_uwsgi()
 
 
 def setup_db():
-    """
-    Loads the db schema (will not overwrite data if exists)
-    """
+    """Load the db schema (will not overwrite data if exists)."""
     sr(venv_dir + '/bin/wikilabels', 'load_schema', '--config',
         os.path.join(config_config_dir))
 
@@ -103,9 +98,7 @@ def initialize_staging_server():
 
 
 def initialize_server(branch='deploy'):
-    """
-    Setup an initial deployment on a fresh host.
-    """
+    """Setup an initial deployment on a fresh host."""
     # Sets up a virtualenv directory
     sr('mkdir', '-p', venv_dir)
     sr('virtualenv', '--python', 'python3', venv_dir)
@@ -119,14 +112,13 @@ def initialize_server(branch='deploy'):
     # Uploads the db and oauth creds to the server
     upload_creds(branch)
 
-    # Initialize DB
+
+def initialize_db():
     setup_db()
 
 
 def update_config(branch='deploy'):
-    """
-    Updates the service configuration
-    """
+    """Update the service configuration."""
     with cd(config_dir):
         sr('git', 'fetch', 'origin')
         sr('git', 'reset', '--hard', 'origin/%s' % branch)
@@ -134,25 +126,19 @@ def update_config(branch='deploy'):
 
 
 def restart_uwsgi():
-    """
-    Restarts the uWSGI server
-    """
+    """Restart the uWSGI server."""
     sudo('service uwsgi-wikilabels-web restart')
 
 
 def upgrade_requirements():
-    """
-    Installs upgraded versions of requirements (if applicable)
-    """
+    """Install upgraded versions of requirements (if applicable)."""
     with cd(venv_dir):
         sr(venv_dir + '/bin/pip', 'install', '--upgrade', '-r',
             os.path.join(config_dir, 'requirements.txt'))
 
 
 def upload_creds(branch='deploy'):
-    """
-    Uploads config files to server
-    """
+    """Upload config files to server."""
     if branch == "deploy":
         creds_folder = "wmflabs"
     elif branch == "master":
