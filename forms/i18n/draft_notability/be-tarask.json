@@ -2,11 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Kareyac",
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Renessaince"
 		]
 	},
+	"guideline-choice-label": "Якому правілу (калі нейкаму) значнасьці адпавядае тэма гэтага артыкула?",
+	"book-choice-label": "Кнігі",
+	"event-choice-label": "Падзеі",
 	"film-choice-label": "Фільмы",
 	"music-choice-label": "Музыка",
+	"person-choice-label": "Людзі",
+	"org-choice-label": "Арганізацыі і кампаніі",
+	"web-choice-label": "Вэб-зьмест",
 	"notable-no-label": "не",
 	"notable-yes-label": "так",
 	"damaging-false-label": "не",
