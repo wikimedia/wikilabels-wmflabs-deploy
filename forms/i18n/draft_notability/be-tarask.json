@@ -15,8 +15,11 @@
 	"org-choice-label": "Арганізацыі і кампаніі",
 	"web-choice-label": "Вэб-зьмест",
 	"other-choice-label": "Іншае",
+	"form-title": "Значнасьць",
+	"notable-switch": "Ці значная тэма паводле гэтага правіла?",
 	"notable-no-label": "не",
 	"notable-yes-label": "так",
+	"damaging-label": "Шкодная?",
 	"damaging-false-label": "не",
 	"damaging-true-label": "так"
 }
