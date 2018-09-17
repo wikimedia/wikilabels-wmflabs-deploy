@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac",
+			"Nerogaf",
+			"Red Winged Duck"
+		]
+	},
+	"information-label": "Інфармацыя",
+	"information-tooltip": "Адзначце гэтыя палі, калі факты ці значныя зьвесткі былі зьмененыя. Заўважце, што часам «цела артыкула» можа быць зьмененае без мадыфікацыі «інфармацыі» ў ім.",
+	"added-label": "Дададзена",
+	"modified-label": "Зьмененыя",
+	"removed-label": "Выдаленыя",
+	"notes-label": "Заўвагі",
+	"semanticlabels-label": "Абраць верагодны намер дадзенай праўкі",
+	"semanticlabels-empty": "Ня абрана ніводнага намеру. Дадайце намер або \"іньшае\".",
+	"bodycopy-label": "Копія Тла",
+	"bodycopy-description": "Асноўны артыкул ці частка тэкста (у супрацьлегласьці загалоўкам, падзагалоўкам і графіке)",
+	"copyediting-label": "Рэдагаваньне копіі",
+	"copyediting-description": "перафразаваньне; паляпшэньне граматыкі, артаграфія, тон, ці пунктуацыя.",
+	"clarification-label": "Удакладненьне",
+	"clarification-description": "удакладніць ці растлумачыць існы факт ці значэньне пры дапамозе прыкладу ці разьмовы бяз дадаваньня новых дадзеных",
+	"simplification-label": "Спрашчэньне",
+	"simplification-description": "паменьшыць складанасьць ці маштабнасьць разьмовы; можа выдаліць дадзеныя.",
+	"pov-label": "Пункт гледжаньня",
+	"pov-description": "перапісаць, выкарыстоўваючы энцыкляпэдычны, неўтральны тон; прыбраць адхіленьні; прымяніць прынцып з-за вагі.",
+	"refactoring-label": "Рэарганізацыя",
+	"factupdate-label": "Абнаўленьне па факту",
+	"elaboration-label": "Распрацоўка",
+	"verifiability-label": "Здольнасьць да праверкі",
+	"verifiability-description": "дадаць крыніцы, цытаваньне",
+	"wikification-label": "Вікіфікацыя",
+	"vandalism-label": "Вандалізм",
+	"countervandalism-label": "Контрвандалізм",
+	"countervandalism-description": "адмяніць ці прыбраць вандалізм.",
+	"process-label": "Працэс",
+	"other-label": "Іньшае"
+}
