@@ -3,7 +3,8 @@
 		"authors": [
 			"Милан Јелисавчић",
 			"Obsuser",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
 	"damaging-help": "Да ли бисте вратили ову измену?",
@@ -13,7 +14,7 @@
 	"damaging-yes-tooltip": "Ова измена би требало да се врати",
 	"goodfaith-help": "Да ли се чини како је аутор ове измене покушавао да допринесе продуктивно?",
 	"goodfaith-no-label": "Лоша намера",
-	"goodfaith-no-tooltip": "Аутор је покушавао да изазове штету намерно",
+	"goodfaith-no-tooltip": "Аутор је намерно покушавао да изазове штету",
 	"goodfaith-yes-label": "Добра намера",
 	"goodfaith-yes-tooltip": "Аутор је покушавао да допринесе продуктивно",
 	"unsure-label": "Нисте сигурни?"

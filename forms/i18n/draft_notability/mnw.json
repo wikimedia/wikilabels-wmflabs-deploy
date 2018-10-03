@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aue Nai"
+		]
+	},
+	"book-choice-label": "လိက်ဂမၠိုၚ်",
+	"event-choice-label": "ပေဲါဂမၠိုၚ်",
+	"music-choice-label": "ဂဳတ",
+	"person-choice-label": "ဇန်",
+	"org-choice-label": "ဂကောံဂမၠိုၚ် ကေုာံ ကုမ္ဗဏဳမဂၠိုၚ်",
+	"web-choice-label": "မာတိကာ ဇာ",
+	"other-choice-label": "တၞဟ်",
+	"notable-no-label": "ဟွံသေၚ်",
+	"notable-yes-label": "ယွံ",
+	"damaging-false-label": "ဟွံသေၚ်",
+	"damaging-true-label": "ယွံ"
+}

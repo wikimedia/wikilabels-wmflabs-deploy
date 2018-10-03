@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aue Nai"
+		]
+	},
+	"information-label": "တင်ဂၞင်ပရိုင်",
+	"added-label": "ထပ်လဝ်",
+	"modified-label": "ပြပြေၚ်လဝ်",
+	"removed-label": "ပတိတ်",
+	"notes-label": "တင်မကဵုစၟတ်ဂမၠိုင်",
+	"clarification-label": "ပွမသောၚ်ကလးအာ",
+	"simplification-label": "ကဵုသောၚ်အး",
+	"pov-label": "ဗီုလညာတ်",
+	"refactoring-label": "ကလေၚ်စန်ပကောံ",
+	"factupdate-label": "ပဂဵုလဟဵု တၚ်နၚ်ဍာံ",
+	"elaboration-label": "ကဵုသောဲဗလောဲအာ",
+	"verifiability-label": "ပဒတန်ကေတ်မာန်",
+	"verifiability-description": "ထပ်တမ်ရိုဟ်, ကဵုနိဿဲ",
+	"disambiguation-label": "ဟွံကဵုဒှ်ၜါလွး",
+	"vandalism-label": "မရော်ပလီုပလာ်",
+	"countervandalism-description": "ကလၚ်ပလေဝ် ဟွံသေၚ် တးပါ မရော်ပလီု",
+	"process-label": "လၟေၚ်",
+	"other-label": "တၞဟ်",
+	"other-description": "လ္တူတေံဂှ်မွဲဟွံသေၚ်, သ္ပဂုဏ်တုဲ ချူစွံဏာတၚ်စၟတ်."
+}

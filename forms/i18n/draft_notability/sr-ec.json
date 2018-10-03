@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Милан Јелисавчић",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
 	"guideline-choice-label": "Под којом од следећих смерницама значаја (ако их има) потпада тема овог чланка?",
@@ -12,7 +13,7 @@
 	"music-choice-label": "Музика",
 	"person-choice-label": "Људи",
 	"org-choice-label": "Организације и предузећа",
-	"web-choice-label": "Интернет садржај",
+	"web-choice-label": "Веб-садржај",
 	"other-choice-label": "Друго",
 	"form-title": "Значајност",
 	"notable-switch": "Да ли тема значајна према овој смерници?",
