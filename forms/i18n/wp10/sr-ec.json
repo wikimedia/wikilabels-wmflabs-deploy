@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"BadDog"
+		]
+	},
+	"fa-label": "СЧ",
+	"ga-label": "ДЧ",
+	"b-label": "Б",
+	"c-label": "Ц",
+	"start-label": "Почетак",
+	"stub-label": "Клица",
+	"wp10-label": "Процена",
+	"more-info-content": "Погледајте <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">ВП:Википројекат процена</a> за детаљна објашњења класа процене."
+}

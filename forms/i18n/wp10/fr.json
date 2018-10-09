@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Wladek92"
+		]
+	},
+	"fa-label": "TB",
+	"ga-label": "B",
+	"b-label": "AB",
+	"c-label": "P",
+	"start-label": "Début",
+	"stub-label": "Ébauche",
+	"wp10-label": "Evaluation",
+	"more-info-content": "Voir <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">évaluation de WP:WikiProject </a> pour les explications détaillées sur les classes d'appréciations."
+}

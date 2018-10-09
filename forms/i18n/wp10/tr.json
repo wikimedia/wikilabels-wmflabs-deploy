@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hedda"
+		]
+	},
+	"fa-label": "SM",
+	"ga-label": "KM",
+	"b-label": "B",
+	"c-label": "C",
+	"start-label": "Başlangıç",
+	"stub-label": "Taslak",
+	"wp10-label": "Değerlendirme",
+	"more-info-content": "Değerlendirme sınıflarının ayrıntılı açıklamaları için. bkz. <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a>."
+}

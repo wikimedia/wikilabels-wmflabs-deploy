@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"fa-label": "FA",
+	"ga-label": "GA",
+	"b-label": "B",
+	"c-label": "C",
+	"start-label": "Iniciar procura",
+	"stub-label": "Provisória",
+	"wp10-label": "Avaliação",
+	"more-info-content": "Veja <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a> para explicações detalhadas das classes de avaliação."
+}

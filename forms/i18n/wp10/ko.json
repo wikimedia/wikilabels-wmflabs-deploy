@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"fa-label": "알찬 글",
+	"ga-label": "좋은 글",
+	"b-label": "B등급",
+	"c-label": "C등급",
+	"start-label": "시작",
+	"stub-label": "토막글",
+	"wp10-label": "평가"
+}
