@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Banjo"
+			"Banjo",
+			"EpochFail"
 		]
 	},
 	"fa-label": "AC",
@@ -11,5 +12,5 @@
 	"start-label": "En progreso",
 	"stub-label": "Bosquexo",
 	"wp10-label": "Valoración",
-	"more-info-content": "Vexa <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a> para explicacións detalladas das clases de valoración."
+	"more-info-content": "Vexa <a href=\"https://gl.wikipedia.org/wiki/Wikipedia:Avaliaci%C3%B3n_de_contido\">Wikipedia:Avaliación de contido</a> para explicacións detalladas das clases de valoración."
 }

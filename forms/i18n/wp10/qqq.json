@@ -1,11 +1,15 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
 	"fa-label": "The top level quality class name",
 	"ga-label": "The penultimate quality class name",
 	"b-label": "Upper mid quality class name",
 	"c-label": "Lower mid quality class name",
 	"start-label": "Low quality class name",
-	"stub-label": "Barely passable quality class name",
+	"stub-label": "Barely passable quality class name\n{{Identical|Stub}}",
 	"wp10-label": "Label for the 'Assessment' form field.",
 	"more-info-content": "A statement about where to get more information.  This includes a link to the appropriate wikipedia page."
 }

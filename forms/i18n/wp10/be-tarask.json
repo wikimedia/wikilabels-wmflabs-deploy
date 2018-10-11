@@ -7,5 +7,7 @@
 	"fa-label": "АА",
 	"ga-label": "ДА",
 	"b-label": "Б",
-	"c-label": "В"
+	"c-label": "В",
+	"start-label": "Пачатак",
+	"stub-label": "Накід"
 }

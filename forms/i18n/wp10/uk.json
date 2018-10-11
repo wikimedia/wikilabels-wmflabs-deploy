@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Movses",
+			"Viiictorrr"
+		]
+	},
+	"fa-label": "ВС",
+	"ga-label": "ДС",
+	"b-label": "I",
+	"c-label": "II",
+	"start-label": "Почати",
+	"stub-label": "Заготовка",
+	"wp10-label": "Оцінювання",
+	"more-info-content": "Докладне пояснення класів ви можете знайти на сторінці <a href=\"https://uk.wikipedia.org/wiki/Вікіпедія:Шкала_якості_статей\">Вікіпедія:Шкала_якості_статей</a>."
+}
