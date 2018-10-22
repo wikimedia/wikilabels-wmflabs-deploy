@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Awangba Mangang"
+		]
+	},
+	"book-choice-label": "ꯂꯥꯏꯔꯤꯛꯁꯤꯡ",
+	"event-choice-label": "ꯇꯧꯒꯗꯕꯁꯤꯡ",
+	"film-choice-label": "ꯐꯥꯏꯜꯁꯤꯡ",
+	"music-choice-label": "ꯇꯥꯟ",
+	"person-choice-label": "ꯃꯤꯌꯥꯝ",
+	"web-choice-label": "ꯋꯦꯕ ꯑꯌꯥꯎꯕ",
+	"other-choice-label": "ꯑꯇꯩ",
+	"notable-no-label": "ꯅꯠꯇꯦ",
+	"notable-yes-label": "ꯍꯣꯏ",
+	"damaging-false-label": "ꯅꯠꯇꯦ",
+	"damaging-true-label": "ꯍꯣꯏ"
+}
