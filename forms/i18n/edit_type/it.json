@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beta16"
+			"Beta16",
+			"Daimona Eaytoy"
 		]
 	},
-	"information-label": "Informazione",
-	"information-tooltip": "Controlla queste caselle è il contenuto informativo di fatto o di significato modificato. Nota che si potrebbe cambiare il \"corpo del testo\" senza cambiare le \"informazioni\" contenute.",
+	"information-label": "Informazioni",
+	"information-tooltip": "Seleziona queste caselle se sono stati modificati dati o informazioni significative. Nota che potrebbe essere stata cambiata la forma del testo senza modificare le informazioni contenute.",
 	"added-label": "Aggiunto",
 	"modified-label": "Modificato",
 	"removed-label": "Rimosso",
 	"notes-label": "Commenti",
 	"semanticlabels-label": "Scegli il probabile intento di questa modifica",
-	"semanticlabels-empty": "Nessuna intenzione prescelto. Si prega di aggiungere l'intenzione o 'Altro'.",
+	"semanticlabels-empty": "Nessuna intenzione selezionata. Si prega di aggiungere l'intenzione o 'Altro'.",
 	"bodycopy-label": "Corpo del testo",
 	"bodycopy-description": "Contenuto testuale di una voce (ad esclusione di intestazioni, sottointestazioni, elementi grafici etc.).",
 	"copyediting-label": "Copy Editing",
