@@ -3,18 +3,19 @@
 		"authors": [
 			"Kumkumuk",
 			"Mirzali",
-			"Gırd"
+			"Gırd",
+			"Orbot707"
 		]
 	},
 	"damaging-help": "Vuryayışi zerar da wesiqi?",
-	"damaging-no-label": "Nê",
-	"damaging-no-tooltip": "Nê, no vırnayış çiyê do zerarın nêvırazeno u o şenê bıramo.",
-	"damaging-yes-label": "Eya",
-	"damaging-yes-tooltip": "Ê, no vırnayış zerar vırazeno u gani peyser bıgêriyo.",
+	"damaging-no-label": "Zırarın niyo",
+	"damaging-no-tooltip": "No vurnayış şeno wına bımano",
+	"damaging-yes-label": "Zerarın",
+	"damaging-yes-tooltip": "Ena vırnayış gani peyser bıgêriyo.",
 	"goodfaith-help": "Vurnayışo ke karberi kerdo xayey cı fayde dayış mı aseno?",
 	"goodfaith-no-label": "Armanco xırabın",
-	"goodfaith-no-tooltip": "Nê,  ena vuryayış niyeta ar asena",
-	"goodfaith-yes-label": "Eya",
-	"goodfaith-yes-tooltip": "E, ena vuriyayış niyeto weş deyne asena.",
+	"goodfaith-no-tooltip": "Nuştekar qesti ker ke zerar bıdo",
+	"goodfaith-yes-label": "Niyeto xeyr",
+	"goodfaith-yes-tooltip": "Nuştekar, wazeno ke iştirako hewl bıkero .",
 	"unsure-label": "Şıma xo emeli?"
 }
