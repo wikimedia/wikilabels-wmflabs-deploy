@@ -1,0 +1,19 @@
+{
+	"@metadata": [],
+	"guideline-choice-label": "Pod kojom od sledećih smernicama značaja (ako ih ima) potpada tema ovog članka?",
+	"book-choice-label": "Knjige",
+	"event-choice-label": "Događaji",
+	"film-choice-label": "Filmovi",
+	"music-choice-label": "Muzika",
+	"person-choice-label": "Ljudi",
+	"org-choice-label": "Organizacije i preduzeća",
+	"web-choice-label": "Veb-sadržaj",
+	"other-choice-label": "Drugo",
+	"form-title": "Značajnost",
+	"notable-switch": "Da li tema značajna prema ovoj smernici?",
+	"notable-no-label": "ne",
+	"notable-yes-label": "da",
+	"damaging-label": "Štetno?",
+	"damaging-false-label": "ne",
+	"damaging-true-label": "da"
+}
