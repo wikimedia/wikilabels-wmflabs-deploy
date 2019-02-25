@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirzali"
+		]
+	},
+	"notable-no-label": "nê",
+	"notable-yes-label": "heya",
+	"damaging-false-label": "nê",
+	"damaging-true-label": "heya"
+}
