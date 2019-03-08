@@ -1,0 +1,14 @@
+{
+	"@metadata": [],
+	"damaging-help": "Da li biste vratili ovu izmenu?",
+	"damaging-no-label": "Nije štetna",
+	"damaging-no-tooltip": "Ova izmena se može sačuvati baš kakva je",
+	"damaging-yes-label": "Štetna",
+	"damaging-yes-tooltip": "Ova izmena bi trebalo da se vrati",
+	"goodfaith-help": "Da li se čini kako je autor ove izmene pokušavao da doprinese produktivno?",
+	"goodfaith-no-label": "Loša namera",
+	"goodfaith-no-tooltip": "Autor je namerno pokušavao da izazove štetu",
+	"goodfaith-yes-label": "Dobra namera",
+	"goodfaith-yes-tooltip": "Autor je pokušavao da doprinese produktivno",
+	"unsure-label": "Niste sigurni?"
+}

@@ -4,9 +4,15 @@
 			"Joetaras"
 		]
 	},
+	"damaging-help": "Vue ccù annulle stu cangiamende?",
 	"damaging-no-label": "None scuasciate",
+	"damaging-no-tooltip": "Stu cangiamende pò essere mandenute accussì accumme ste",
 	"damaging-yes-label": "Se ste scuascie",
+	"damaging-yes-tooltip": "Stu cangiamende addà essere annullate",
+	"goodfaith-help": "Pare cumme ce l'autore de stu cagiamende ste cercave de condrebbuì jndr'à 'nu mode produttive?",
 	"goodfaith-no-label": "Fede cattive",
+	"goodfaith-no-tooltip": "L'autore ste cercave de fà danne apposte probbie",
 	"goodfaith-yes-label": "Fede bbone",
+	"goodfaith-yes-tooltip": "L'autore ste cercave de condrebbuì jndr'à 'nu mode produttive",
 	"unsure-label": "Indecise?"
 }

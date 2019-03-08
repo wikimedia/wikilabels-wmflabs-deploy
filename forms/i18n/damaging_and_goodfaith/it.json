@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beta16"
+			"Beta16",
+			"Daimona Eaytoy"
 		]
 	},
 	"damaging-help": "Vuoi annullare questa modifica?",
@@ -9,7 +10,7 @@
 	"damaging-no-tooltip": "Questa modifica può essere mantenuta così com'è",
 	"damaging-yes-label": "Dannosa",
 	"damaging-yes-tooltip": "Questa modifica deve essere annullata",
-	"goodfaith-help": "Sembra come se l'autore di questa modifica stava cercando di contribuire in modo produttivo?",
+	"goodfaith-help": "Sembra che l'autore di questa modifica stesse cercando di contribuire in modo produttivo?",
 	"goodfaith-no-label": "Mala fede",
 	"goodfaith-no-tooltip": "L'autore stava cercando di causare danni intenzionalmente",
 	"goodfaith-yes-label": "Buona fede",

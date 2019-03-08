@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bjankuloski06"
+			"Bjankuloski06",
+			"Vlad5250"
 		]
 	},
 	"damaging-help": "Дали би го отповикале уредувањево?",
 	"damaging-no-label": "Нештетно",
-	"damaging-no-tooltip": "Уредувањево не е штетно и може да остане какво што е.",
+	"damaging-no-tooltip": "Уредувањево може да остане какво што е",
 	"damaging-yes-label": "Штетно",
-	"damaging-yes-tooltip": "Уредувањево е штетно и треба да се отповика.",
+	"damaging-yes-tooltip": "Уредувањево треба да се отповика",
 	"goodfaith-help": "Дали ви изгледа дека авторот на уредувањево сакал да направи конструктивен придонес?",
 	"goodfaith-no-label": "Недобронамерно",
 	"goodfaith-no-tooltip": "Авторот се обидел намерно да нанесе штета",

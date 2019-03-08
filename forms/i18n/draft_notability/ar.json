@@ -5,7 +5,8 @@
 			"محمد أحمد عبد الفتاح",
 			"Ghassanmas",
 			"Sonic N800",
-			"ديفيد"
+			"ديفيد",
+			"Meno25"
 		]
 	},
 	"guideline-choice-label": "تحت أي من الأصناف التالية تقع هذه المقالة؟ اختر كل ما تراه مناسبا أو اترك فارغا إذا لم تقع تحت أي تصنيف.",
@@ -15,7 +16,7 @@
 	"music-choice-label": "موسيقى",
 	"person-choice-label": "أشخاص",
 	"org-choice-label": "منظمات وشركات",
-	"web-choice-label": "محتوى وب",
+	"web-choice-label": "محتوى ويب",
 	"other-choice-label": "أخرى",
 	"form-title": "الملحوظية",
 	"notable-switch": "هل الموضوع جدير بالذكر تحت هذا التصنيف",

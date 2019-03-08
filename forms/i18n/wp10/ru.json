@@ -1,10 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vlad5250"
+			"Vlad5250",
+			"Movses"
 		]
 	},
 	"fa-label": "ИС",
+	"ga-label": "ИС",
+	"b-label": "ХС",
+	"c-label": "ДС",
+	"start-label": "Заготовка",
 	"stub-label": "Заготовка",
 	"wp10-label": "Оценивание",
 	"more-info-content": "Подробное объяснение классов вы можете найти на странице <a href=\"https://ru.wikipedia.org/wiki/Проект:Издание_Википедии/Оценка_статей\">Проект:Издание_Википедии/Оценка_статей</a>."
