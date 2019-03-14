@@ -1,18 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kenrick95"
+			"Kenrick95",
+			"Ilham151096"
 		]
 	},
 	"damaging-help": "Apakah Anda akan membatalkan suntingan ini?",
 	"damaging-no-label": "Tidak merusak",
-	"damaging-no-tooltip": "Tidak, suntingan ini tidak merusak dan dapat disimpan seperti sekarang.",
+	"damaging-no-tooltip": "Suntingan dapat disimpan seperti sekarang.",
 	"damaging-yes-label": "Merusak",
-	"damaging-yes-tooltip": "Iya, suntingan ini merusak dan pantas dibatalkan.",
+	"damaging-yes-tooltip": "Suntingan ini pantas dibalikkan.",
 	"goodfaith-help": "Apakah penyunting revisi ini kelihatannya sedang mencoba berkontribusi secara produktif?",
 	"goodfaith-no-label": "Tidak berniat baik",
-	"goodfaith-no-tooltip": "Tidak, suntingan ini sepertinya dibuat dengan niat buruk.",
+	"goodfaith-no-tooltip": "Tidak, suntingan ini sepertinya dibuat dengan niat buruk.\nPenulis mencoba menyebabkan kerusakan secara sengaja.",
 	"goodfaith-yes-label": "Berniat baik",
-	"goodfaith-yes-tooltip": "Iya, suntingan ini sepertinya dibuat dengan niat baik.",
+	"goodfaith-yes-tooltip": "Penulis  mencoba berkontribus secara produktif",
 	"unsure-label": "Tidak yakin?"
 }
