@@ -3,8 +3,8 @@ wikilabels:
   form_i18n_directory: forms/i18n
   central_auth_host: https://meta.wikimedia.org
   maintenance_notice:
-    date: 2019-03-12 @ 1500 UTC
-    url: https://meta.wikimedia.org/wiki/Wiki_labels/Downtime_20190312
+    date: 2019-03-19 @ 1400 UTC
+    url: https://meta.wikimedia.org/wiki/Wiki_labels/Downtime_20190319
 
 wsgi:
   host: labels.wmflabs.org
