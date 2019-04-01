@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"R-Joe"
+		]
+	},
+	"fa-label": "FA",
+	"ga-label": "GA",
+	"b-label": "B",
+	"c-label": "C",
+	"start-label": "Indítás",
+	"stub-label": "Csonk",
+	"wp10-label": "Értékelés",
+	"more-info-content": "Lásd <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a> az értékelési osztályok részletes magyarázatához."
+}
