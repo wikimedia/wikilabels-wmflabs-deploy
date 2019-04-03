@@ -1,5 +1,6 @@
 # These creditials are intended to be used when testing the local, development
 # version of Wiki Labels.  
 database:
+  host: localhost
   user: wikilabels
   password: wikilabels-admin

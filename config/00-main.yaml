@@ -11,7 +11,7 @@ wsgi:
   cors_allowed: https://([^\.\/]+\.)?(wiki([pm]edia|data|books|versity|quote|source|news|voyage)|wiktionary|mediawiki)\.org
 
 database:
-  host: localhost
+  host: wikilabels.db.svc.eqiad.wmflabs
   dbname: wikilabels
 
 oauth:
