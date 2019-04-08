@@ -4,9 +4,12 @@
 			"Beta16"
 		]
 	},
+	"fa-label": "VV",
+	"ga-label": "VQ",
 	"b-label": "B",
 	"c-label": "C",
 	"start-label": "Inizio",
 	"stub-label": "Abbozzo",
-	"wp10-label": "Valutazione"
+	"wp10-label": "Valutazione",
+	"more-info-content": "Vedi <a href=\"https://it.wikipedia.org/wiki/Progetto:Qualità/Monitoraggio_voci\">Progetto:Monitoraggio</a> per spiegazioni dettagliate delle classi di valutazione."
 }
