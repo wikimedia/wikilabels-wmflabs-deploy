@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"information-label": "Informo",
+	"added-label": "Aldonita",
+	"modified-label": "Modifita",
+	"removed-label": "Forigita",
+	"notes-label": "Notoj",
+	"clarification-label": "Klarigo",
+	"simplification-label": "Simpligo",
+	"pov-label": "Vidpunkto",
+	"refactoring-label": "Reorganizado",
+	"disambiguation-label": "Malambiguigo",
+	"wikification-label": "Vikiigo",
+	"vandalism-label": "Vandalismo",
+	"countervandalism-label": "Kontraŭvandalismo",
+	"process-label": "Procezo",
+	"other-label": "Alia"
+}
