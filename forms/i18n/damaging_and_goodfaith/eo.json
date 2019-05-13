@@ -8,8 +8,8 @@
 	"damaging-help": "Ĉu vi malfarus tiun redakton?",
 	"damaging-no-label": "Ne",
 	"damaging-yes-label": "Jes",
-	"goodfaith-no-label": "Ne",
-	"goodfaith-yes-label": "Jes",
+	"goodfaith-no-label": "Fiintence",
+	"goodfaith-yes-label": "Bonintence",
 	"goodfaith-yes-tooltip": "La aŭtoro provis kontribui produktive",
 	"unsure-label": "Ne certa?"
 }

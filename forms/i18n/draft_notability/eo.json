@@ -1,14 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"Mirin"
 		]
 	},
+	"guideline-choice-label": "De kiu el la jenaj reguloj pri menciindeco la temo de tiu artikolo estas reguligata?",
 	"book-choice-label": "Libroj",
+	"event-choice-label": "Eventoj",
 	"film-choice-label": "Filmoj",
 	"music-choice-label": "Muziko",
+	"person-choice-label": "Homoj",
+	"org-choice-label": "Organizaĵoj kaj firmaoj",
+	"web-choice-label": "Reta enhavo",
+	"other-choice-label": "Alio",
+	"form-title": "Menciindeco",
+	"notable-switch": "Ĉu la temo estas menciinda laŭ tiu regulo?",
 	"notable-no-label": "ne",
 	"notable-yes-label": "jes",
+	"damaging-label": "Ĉu damaĝanta?",
 	"damaging-false-label": "ne",
 	"damaging-true-label": "jes"
 }
