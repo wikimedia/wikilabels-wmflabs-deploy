@@ -7,8 +7,12 @@
 	},
 	"damaging-help": "Ĉu vi malfarus tiun redakton?",
 	"damaging-no-label": "Ne damaĝante",
+	"damaging-no-tooltip": "Oni lasu ĉi tiun redakton",
 	"damaging-yes-label": "Damaĝante",
+	"damaging-yes-tooltip": "Ĉi tiu redakto malfariĝu",
+	"goodfaith-help": "Ĉu la aŭtoro ŝajne provis bonintence kontribui?",
 	"goodfaith-no-label": "Fiintence",
+	"goodfaith-no-tooltip": "La aŭtoro provis intence damaĝi",
 	"goodfaith-yes-label": "Bonintence",
 	"goodfaith-yes-tooltip": "La aŭtoro provis kontribui produktive",
 	"unsure-label": "Ne certa?"
