@@ -4,7 +4,12 @@
 			"Xuacu"
 		]
 	},
+	"fa-label": "AD",
+	"ga-label": "AB",
+	"b-label": "B",
+	"c-label": "C",
 	"start-label": "Principiu",
 	"stub-label": "Entamu",
-	"wp10-label": "Valoración"
+	"wp10-label": "Valoración",
+	"more-info-content": "Ver <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:Wikiproyeutu_valoración pa esplicaciones más detallaes de les clases de valoración."
 }
