@@ -130,6 +130,7 @@ def restart_uwsgi():
 def upgrade_requirements():
     """Install upgraded versions of requirements (if applicable)."""
     with cd(venv_dir):
+        sr(venv_dir + '/bin/pip', 'install', '--upgrade', 'pip')
         sr(venv_dir + '/bin/pip', 'install', '--upgrade', '-r',
             os.path.join(config_dir, 'requirements.txt'))
 
