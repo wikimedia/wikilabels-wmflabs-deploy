@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Yusuke1109",
-			"Omotecho"
+			"Omotecho",
+			"Afaz"
 		]
 	},
 	"information-label": "情報",
@@ -14,7 +15,7 @@
 	"semanticlabels-label": "この編集の意図を選択する",
 	"semanticlabels-empty": "意図は選択されていません。 意図や「その他」を追加してください。",
 	"bodycopy-label": "本文",
-	"bodycopy-description": "メイン名前空間の記事またはテキスト部分（見出し、副題、および図とは異なる）",
+	"bodycopy-description": "標準名前空間の記事またはテキスト部分（見出し、副題、および図とは異なる）",
 	"copyediting-label": "編集",
 	"copyediting-description": "言い換え：文法、つづり、トーン、句読点を修正。",
 	"clarification-label": "明確化",
