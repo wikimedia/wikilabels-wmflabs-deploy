@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ndecouck",
+			"Siebrand"
+		]
+	},
+	"fa-label": "Etalage",
+	"ga-label": "Goed",
+	"b-label": "Gemiddeld",
+	"c-label": "Basis",
+	"start-label": "Start",
+	"stub-label": "Beginnetje",
+	"wp10-label": "Beoordeling",
+	"more-info-content": "Zie <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a> voor gedetailleerde uitleg over het beoordelingssysteem."
+}
