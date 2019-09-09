@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"guideline-choice-label": "Koji načela značajnosti (ako ih ima) odgovara temi članka?",
+	"book-choice-label": "Knjige",
+	"event-choice-label": "Događaji",
+	"film-choice-label": "Filmovi",
+	"music-choice-label": "Muzika",
+	"person-choice-label": "Ljudi",
+	"org-choice-label": "Organizacije i kompanije",
+	"web-choice-label": "Sadržaj sa svemrežja",
+	"other-choice-label": "Ostalo",
+	"form-title": "Značajnost",
+	"notable-switch": "Je li ova tema značajna po ovom načelu?",
+	"notable-no-label": "ne",
+	"notable-yes-label": "da",
+	"damaging-label": "Štetna?",
+	"damaging-false-label": "ne",
+	"damaging-true-label": "da"
+}

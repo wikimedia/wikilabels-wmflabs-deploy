@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"damaging-help": "Biste li vratili ovu izmjenu?",
+	"damaging-no-label": "Neštetna",
+	"damaging-no-tooltip": "Ova izmjena može ostati onakva kakva je",
+	"damaging-yes-label": "Štetna",
+	"damaging-yes-tooltip": "Ova izmjena treba da se vrati",
+	"goodfaith-help": "Da li vam čini kako je autor ove izmjene pokušavao konstruktivno doprinijeti?",
+	"goodfaith-no-label": "Nedobronamjerna",
+	"goodfaith-no-tooltip": "Autor je namjerno pokušao izazvati štetu",
+	"goodfaith-yes-label": "Dobronamjerna",
+	"goodfaith-yes-tooltip": "Autor je pokušao produktivno doprinijeti",
+	"unsure-label": "Niste sigurni?"
+}
