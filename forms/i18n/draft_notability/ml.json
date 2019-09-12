@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Adithyak1997"
+		]
+	},
+	"book-choice-label": "പുസ്തകങ്ങൾ",
+	"event-choice-label": "പരിപാടികൾ",
+	"film-choice-label": "ചലച്ചിത്രങ്ങൾ",
+	"music-choice-label": "പാട്ട്",
+	"person-choice-label": "ജനങ്ങൾ",
+	"org-choice-label": "സംഘടനകളും കമ്പനികളും",
+	"other-choice-label": "മറ്റുള്ളവ",
+	"notable-no-label": "അല്ല",
+	"notable-yes-label": "അതെ",
+	"damaging-false-label": "അല്ല",
+	"damaging-true-label": "അതെ"
+}
