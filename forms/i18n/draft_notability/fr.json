@@ -1,20 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Verdy p"
 		]
 	},
-	"guideline-choice-label": "À laquelle des indications de notoriété (s’il y en a) le sujet de cet article correspond-il ?",
+	"guideline-choice-label": "À laquelle des lignes directrices de notoriété (s’il y en a) le sujet de cet article correspond-il ?",
 	"book-choice-label": "Livres",
 	"event-choice-label": "Événements",
 	"film-choice-label": "Films",
 	"music-choice-label": "Musique",
 	"person-choice-label": "Personnes",
 	"org-choice-label": "Organisations et sociétés",
-	"web-choice-label": "Contenu du web",
+	"web-choice-label": "Contenu en ligne",
 	"other-choice-label": "Autre",
 	"form-title": "Notoriété",
-	"notable-switch": "Le sujet est-il notable d’après cette indication ?",
+	"notable-switch": "Le sujet est-il notable d’après cette ligne directrice ?",
 	"notable-no-label": "non",
 	"notable-yes-label": "oui",
 	"damaging-label": "Nuisible ?",

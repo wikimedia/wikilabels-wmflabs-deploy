@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Gomoko",
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
 	"fa-label": "TB",
@@ -11,6 +12,6 @@
 	"c-label": "P",
 	"start-label": "Début",
 	"stub-label": "Ébauche",
-	"wp10-label": "Evaluation",
-	"more-info-content": "Voir <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">évaluation de WP:WikiProject </a> pour les explications détaillées sur les classes d'appréciations."
+	"wp10-label": "Évaluation",
+	"more-info-content": "Voir <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProjet évaluation</a> pour les explications détaillées sur les classes d’appréciations."
 }
