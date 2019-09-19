@@ -36,7 +36,7 @@
 	"disambiguation-label": "Désambiguïsation",
 	"disambiguation-description": "modification d’un lien vers une page de désambiguïsation en un lien vers la page spécifique.",
 	"wikification-label": "Mise en forme pour wiki",
-	"wikification-description": "rendre le texte plus approprié au support wiki, par ex. par ajout de liens, ou leur suppression quand c’est nécessaire ; convertir le texte en gras en titres appropriés, etc. ; ou mettre en forme selon un guide de style.",
+	"wikification-description": "rendu du texte plus approprié au support wiki, par ex. par ajout de liens, ou leur suppression quand c’est nécessaire ; conversion de texte en gras en titres appropriés, etc. ; ou mises en forme liées au guide de style.",
 	"vandalism-label": "Vandalisme",
 	"vandalism-description": "tentative délibérée de dénaturer l’article.",
 	"countervandalism-label": "Anti-vandalisme",
