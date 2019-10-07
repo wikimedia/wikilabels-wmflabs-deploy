@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ерней"
+		]
+	},
+	"book-choice-label": "Китаплар",
+	"event-choice-label": "Вакыйгалар",
+	"film-choice-label": "Фильмнар",
+	"music-choice-label": "Музыка",
+	"person-choice-label": "Кешеләр",
+	"org-choice-label": "Оешмалар һәм ширкәтләр",
+	"web-choice-label": "Веб-эчтәлек",
+	"other-choice-label": "Башка",
+	"form-title": "Күренекле нәрсә",
+	"notable-no-label": "юк",
+	"notable-yes-label": "әйе",
+	"damaging-label": "Зыян ителгән төзәтмә?",
+	"damaging-false-label": "юк",
+	"damaging-true-label": "әйе"
+}
