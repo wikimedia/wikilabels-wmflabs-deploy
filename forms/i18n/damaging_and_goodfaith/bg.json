@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vodnokon4e"
+			"Vodnokon4e",
+			"StanProg"
 		]
 	},
-	"damaging-no-label": "Не",
-	"damaging-yes-label": "Да",
-	"goodfaith-no-label": "Не",
-	"goodfaith-yes-label": "Да",
+	"damaging-no-label": "Неразрушителна",
+	"damaging-yes-label": "Разрушителна",
+	"goodfaith-no-label": "Злонамерена",
+	"goodfaith-yes-label": "Добронамерена",
 	"unsure-label": "Не сте сигурни?"
 }
