@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Sadrettin",
-			"Hedda"
+			"Hedda",
+			"Grkn gll"
 		]
 	},
 	"damaging-help": "Değişiklik maddeye zarar verdi mi?",
@@ -15,5 +16,5 @@
 	"goodfaith-no-tooltip": "Yazar bilerek zarar vermeye çalışıyordu.",
 	"goodfaith-yes-label": "İyi niyetli",
 	"goodfaith-yes-tooltip": "Yazar verimli bir şekilde katkıda bulunmaya çalışıyordu.",
-	"unsure-label": "Emin misiniz?"
+	"unsure-label": "Emin değil misiniz?"
 }

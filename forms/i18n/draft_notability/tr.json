@@ -2,23 +2,24 @@
 	"@metadata": {
 		"authors": [
 			"Sadrettin",
-			"Hedda"
+			"Hedda",
+			"Grkn gll"
 		]
 	},
 	"guideline-choice-label": "Aşağıdaki yönlendirici ilkelerden hangileri (hangisi varsa) bu maddenin konusunu içeriyor?",
 	"book-choice-label": "Kitaplar",
-	"event-choice-label": "Olaylar",
+	"event-choice-label": "Etkinlikler",
 	"film-choice-label": "Filmler",
 	"music-choice-label": "Müzik",
 	"person-choice-label": "İnsanlar",
-	"org-choice-label": "Kuruluşlar ve şirketler",
+	"org-choice-label": "Organizasyonlar ve şirketler",
 	"web-choice-label": "Web içeriği",
 	"other-choice-label": "Diğer",
 	"form-title": "Kaydadeğerlik",
 	"notable-switch": "Konu bu kılavuzda dikkat çekici mi?",
 	"notable-no-label": "hayır",
 	"notable-yes-label": "evet",
-	"damaging-label": "Zarar?",
+	"damaging-label": "Zararlı mı?",
 	"damaging-false-label": "hayır",
 	"damaging-true-label": "evet"
 }
