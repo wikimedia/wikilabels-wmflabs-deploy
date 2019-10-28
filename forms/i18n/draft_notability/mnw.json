@@ -1,18 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aue Nai"
+			"Aue Nai",
+			"Htawmonzel"
 		]
 	},
 	"book-choice-label": "လိက်ဂမၠိုၚ်",
 	"event-choice-label": "ပေဲါဂမၠိုၚ်",
+	"film-choice-label": "ရုပ်ဂမျိုင်ဂမၠိုင်",
 	"music-choice-label": "ဂဳတ",
 	"person-choice-label": "ဇန်",
 	"org-choice-label": "ဂကောံဂမၠိုၚ် ကေုာံ ကုမ္ဗဏဳမဂၠိုၚ်",
-	"web-choice-label": "မာတိကာ ဇာ",
+	"web-choice-label": "မာတိကာ ဝေပ်",
 	"other-choice-label": "တၞဟ်",
-	"notable-no-label": "ဟွံသေၚ်",
-	"notable-yes-label": "ယွံ",
+	"form-title": "ဍာ်ဒကေဝ်သမ္တီ",
+	"notable-switch": "ပရူဏအ် စၟတ်သမ္တီ ပ္ဍဲကဵု လၟေင်စၞောန်ဏအ် ဂွံဟာ?",
+	"notable-no-label": "ဟွံဂွံ",
+	"notable-yes-label": "ယွံ၊ ဂွံ။",
+	"damaging-label": "လီုလာ်ဒၟံင်ဟာ?",
 	"damaging-false-label": "ဟွံသေၚ်",
 	"damaging-true-label": "ယွံ"
 }
