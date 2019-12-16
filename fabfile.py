@@ -53,7 +53,7 @@ from fabric.api import cd, env, put, roles, shell_env, sudo
 
 env.roledefs = {
     'web': ['wikilabels-02.wikilabels.eqiad.wmflabs'],
-    'staging': ['wikilabels-staging-01.wikilabels.eqiad.wmflabs'],
+    'staging': ['wikilabels-staging-02.wikilabels.eqiad.wmflabs'],
 }
 env.use_ssh_config = True
 env.shell = '/bin/bash -c'
