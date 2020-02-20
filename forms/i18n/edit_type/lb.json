@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Robby",
-			"Les Meloures"
+			"Les Meloures",
+			"Soued031"
 		]
 	},
 	"information-label": "Informatioun",
@@ -12,7 +13,7 @@
 	"removed-label": "Ewechgeholl",
 	"notes-label": "Notizen",
 	"semanticlabels-label": "Sicht déi wahrscheinlech Absicht vun dëser Ännerung eraus",
-	"semanticlabels-empty": "Keng Absichten erausgesicht. Setzt w.e.g. eng Absicht oder \"anerer\" derbäi",
+	"semanticlabels-empty": "Keng Absichten erausgesicht. Setzt wgl. eng Absicht oder \"anerer\" derbäi",
 	"bodycopy-label": "Kopie vum Inhalt",
 	"bodycopy-description": "Den Haaptartikel oder Textdeel (am Géigesaz zu Iwwerschriften, Ënneriwwerschrëften a Graphiken).",
 	"copyediting-label": "Iwwerliesen",
@@ -42,5 +43,5 @@
 	"process-label": "Prozess",
 	"process-description": "e Wikiprozess ufänken oder viruféieren wéi z. Bsp. d'Markéieren (oder net méi Markéieren) vun engem Artikel duerch Notize zum Botzen, Zesummeféieren oder Läschen.",
 	"other-label": "Anerer",
-	"other-description": "näischt vun deem hei driwwer, loosst eis w.e.g. e Message."
+	"other-description": "näischt vun deem hei driwwer, loosst eis wgl. e Message."
 }
