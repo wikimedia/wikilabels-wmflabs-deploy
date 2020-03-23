@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hedda"
+			"Hedda",
+			"BaRaN6161 TURK"
 		]
 	},
 	"fa-label": "SM",
@@ -11,5 +12,5 @@
 	"start-label": "Başlangıç",
 	"stub-label": "Taslak",
 	"wp10-label": "Değerlendirme",
-	"more-info-content": "Değerlendirme sınıflarının ayrıntılı açıklamaları için. bkz. <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a>."
+	"more-info-content": "Değerlendirme sınıflarının ayrıntılı açıklamaları için <a href=\"https://tr.wikipedia.org/wiki/Vikipedi:Vikiproje_Madde_Değerlendirmesi\">Vikipedi:Vikiproje Madde Değerlendirmesi</a> sayfasına bakın."
 }
