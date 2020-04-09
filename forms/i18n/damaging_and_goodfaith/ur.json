@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"damaging-help": "کیا آپ کی نگاہ میں یہ ترمیم غیر تعمیری ہے؟",
 	"damaging-no-label": "نہیں",
 	"damaging-no-tooltip": "نہیں، یہ ترمیم تخریبی نہیں معلوم ہوتی، لہذا اسے باقی رکھا جائے۔",

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gwenn-Ael",
-			"Fulup"
+			"Fulup",
+			"Gwenn-Ael"
 		]
 	},
 	"information-label": "Titouroù",
@@ -10,14 +10,14 @@
 	"added-label": "Ouzhpennet",
 	"modified-label": "Kemmet",
 	"removed-label": "Tennet kuit",
-	"notes-label": "Notennoù :",
+	"notes-label": "Notennoù",
 	"semanticlabels-label": "Dibab abeg gwirheñvel ar c'hemm-mañ",
 	"semanticlabels-empty": "Abeg ebet dibabet. Merkit un abeg pe \"all\".",
 	"bodycopy-label": "Korf an destenn",
 	"bodycopy-description": "Ar pennad pennañ pe al lodenn eus an destenn (diforc'h diouzh an talbennoù, an istitloù hag ar grafikoù)",
 	"copyediting-label": "Kemmañ eilad",
 	"copyediting-description": "Adc'heriañ ; gwellaat ar yezhadur, ar reizhskrivadur, an ton pe ar poentaouiñ.",
-	"clarification-label": "Rummatadur",
+	"clarification-label": "Resisadenn",
 	"clarification-description": "Merkañ pe resisaat a ra ur fed pe ar ster, dre skouerioù pe eskemmoù hep lakaat titouroù ouzhpenn.",
 	"simplification-label": "Eeunaat",
 	"simplification-description": "eeunaat pe krennañ danvez ar gaozeadenn ; gallout a ra lemel titouroù kuit.",

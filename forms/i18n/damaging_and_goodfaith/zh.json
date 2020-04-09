@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"damaging-help": "您是否要回退此次编辑？",
 	"damaging-no-label": "否",
 	"damaging-no-tooltip": "不，此编辑并非破坏性编辑，可以保留。",

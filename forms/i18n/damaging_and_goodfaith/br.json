@@ -1,16 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gwenn-Ael",
-			"Fulup"
+			"Fulup",
+			"Gwenn-Ael"
 		]
 	},
-	"damaging-help": "Ha nullet ho pije ar c'hemm-se ?",
+	"damaging-help": "Ha nullañ ar c'hemm-se a fell deoc'h ?",
 	"damaging-no-label": "Dizrast",
 	"damaging-no-tooltip": "Gallout a reer mirout ar c'hemm-mañ evel m'emañ",
 	"damaging-yes-label": "Drastus",
 	"damaging-yes-tooltip": "Dleout a rafe ar c'hemm-mañ bezañ distaolet",
-	"goodfaith-help": "Ha seblantout a ra e klaske aozer ar c'hemm-se degas e lod en un doare produus ?",
+	"goodfaith-help": "Hag evit doare en doa klasket aozer ar c'hemm-mañ kemer perzh gant ar c'hoant degas e lod ?",
 	"goodfaith-no-label": "A feiz fall",
 	"goodfaith-no-tooltip": "O klask degas gaou a-ratozh-kaer eo bet an aozer.",
 	"goodfaith-yes-label": "A feiz vat",

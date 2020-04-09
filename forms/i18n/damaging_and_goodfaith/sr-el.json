@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"damaging-help": "Da li biste vratili ovu izmenu?",
 	"damaging-no-label": "Nije štetna",
 	"damaging-no-tooltip": "Ova izmena se može sačuvati baš kakva je",

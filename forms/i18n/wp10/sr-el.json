@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fa-label": "SČ",
 	"ga-label": "DČ",
 	"b-label": "B",

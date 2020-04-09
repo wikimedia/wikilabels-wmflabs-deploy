@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gwenn-Ael",
-			"Fulup"
+			"Fulup",
+			"Gwenn-Ael"
 		]
 	},
 	"guideline-choice-label": "Gant peseurt pennaennoù brud (mar bez) e klot danvez ar pennad-mañ ?",
@@ -12,7 +12,7 @@
 	"music-choice-label": "Sonerezh",
 	"person-choice-label": "Tud",
 	"org-choice-label": "Aozadurioù ha kevredadoù",
-	"web-choice-label": "Endalc'had ar Web",
+	"web-choice-label": "Endalc'had er Web",
 	"other-choice-label": "All",
 	"form-title": "Brud",
 	"notable-switch": "Ha splann eo an danvez gant an deskrivadenn-mañ ?",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"damaging-help": "تہ نظرا ھیہ ترمیم غیر تعمیری شیرا؟",
 	"damaging-no-label": "نو",
 	"damaging-no-tooltip": "نو، ھیہ ترمیم تخریبی نو سارئیران، لہذا ھمو برقرار لاکھونو بائے۔",

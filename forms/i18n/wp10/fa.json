@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fa-label": "برگزیده",
 	"ga-label": "خوب",
 	"b-label": "متوسط",

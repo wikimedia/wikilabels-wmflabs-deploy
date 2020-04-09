@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"guideline-choice-label": "Pod kojom od sledećih smernicama značaja (ako ih ima) potpada tema ovog članka?",
 	"book-choice-label": "Knjige",
 	"event-choice-label": "Događaji",

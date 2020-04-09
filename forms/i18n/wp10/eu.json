@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fa-label": "NA",
 	"ga-label": "ONA",
 	"b-label": "B",

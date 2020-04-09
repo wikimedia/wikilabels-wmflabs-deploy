@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"information-label": "Informacija",
 	"information-tooltip": "Označite ova polja ako su činjenice ili smislene informacije promenjene. Imajte na umu da bi neko mogao da promeni „telo članka” bez promene sadržane „informacije”.",
 	"added-label": "Dodato",
