@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswn"
+		]
+	},
+	"book-choice-label": "புத்தகங்கள்",
+	"event-choice-label": "நிகழ்வுகள்",
+	"film-choice-label": "திரைப்படங்கள்",
+	"music-choice-label": "இசை",
+	"person-choice-label": "மக்கள்",
+	"org-choice-label": "நிறுவனங்கள்",
+	"other-choice-label": "மற்றவை",
+	"notable-no-label": "இல்லை",
+	"notable-yes-label": "ஆம்",
+	"damaging-false-label": "இல்லை",
+	"damaging-true-label": "ஆம்"
+}
