@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac"
+		]
+	},
+	"book-choice-label": "Գրքեր",
+	"event-choice-label": "Իրադարձություններ",
+	"music-choice-label": "Երաժշտություն",
+	"other-choice-label": "Այլ",
+	"notable-no-label": "ոչ",
+	"notable-yes-label": "այո",
+	"damaging-false-label": "ոչ",
+	"damaging-true-label": "այո"
+}
