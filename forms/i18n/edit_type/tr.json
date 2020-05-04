@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Archaeodontosaurus",
+			"BaRaN6161 TURK",
 			"Grkn gll",
 			"Hbseren",
 			"Hedda",
@@ -17,7 +18,7 @@
 	"semanticlabels-label": "Bu düzenlemenin olası niyetini seçin",
 	"semanticlabels-empty": "Hedef(ler) seçilmemiş. Lütfen bir hedef ekleyin veya 'diğer'i seçin.",
 	"bodycopy-label": "Gövde kopya",
-	"bodycopy-description": "Ana makale veya metnin bir kısmı (başlıklar, alt başlıklar ve grafiklerden ayrı olarak)",
+	"bodycopy-description": "Ana madde veya metnin bir kısmı (başlıklar, alt başlıklar ve grafiklerden ayrı olarak)",
 	"copyediting-label": "Kopya değişiklik",
 	"copyediting-description": "başka bir şekilde ifade; dil bilgisi, yazım denetimi, ton veya noktalama işaretlerini iyileştirme.",
 	"clarification-label": "Açıklama",
