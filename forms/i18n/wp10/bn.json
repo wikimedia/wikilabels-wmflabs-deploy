@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ата"
+			"Ата",
+			"আফতাবুজ্জামান"
 		]
 	},
-	"fa-label": "ВС",
-	"ga-label": "ДС",
-	"b-label": "I",
-	"c-label": "II",
-	"start-label": "III",
-	"stub-label": "IV",
-	"wp10-label": "Оцінка",
+	"fa-label": "নিনি",
+	"ga-label": "ভানি",
+	"b-label": "খ",
+	"c-label": "গ",
+	"start-label": "শুরু",
+	"stub-label": "অসম্পূর্ণ",
+	"wp10-label": "মূল্যায়ন",
 	"more-info-content": "Детальне пояснення класів оцінювання див. на сторінці <a href=\"https://uk.wikipedia.org/wiki/Вікіпедія:Шкала_якості_статей\">ВП:Шкала якості статей</a>."
 }
