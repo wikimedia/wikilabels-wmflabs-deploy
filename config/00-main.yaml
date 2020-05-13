@@ -3,6 +3,12 @@ wikilabels:
   form_i18n_directory: forms/i18n
   central_auth_host: https://meta.wikimedia.org
 
+session:
+  type: 'ext:memcached'
+  url: '127.0.0.1:11211'
+  data_dir: './cache'
+
+
 wsgi:
   host: labels.wmflabs.org
   application_root: ""
