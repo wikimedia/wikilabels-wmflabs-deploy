@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Patriot Kur"
+		]
+	},
+	"book-choice-label": "Kitobon",
+	"music-choice-label": "Müsiği",
+	"person-choice-label": "İnson",
+	"other-choice-label": "Co",
+	"notable-no-label": "ne",
+	"notable-yes-label": "ha",
+	"damaging-false-label": "ne",
+	"damaging-true-label": "ha"
+}
