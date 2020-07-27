@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Moon0319"
+		]
+	},
+	"book-choice-label": "書",
+	"event-choice-label": "事件",
+	"film-choice-label": "電影",
+	"music-choice-label": "音樂",
+	"person-choice-label": "人",
+	"other-choice-label": "第啲",
+	"notable-no-label": "唔係",
+	"notable-yes-label": "係",
+	"damaging-false-label": "唔係",
+	"damaging-true-label": "係"
+}
