@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mguix"
+		]
+	},
+	"fa-label": "Aparador",
+	"ga-label": "Bon article",
+	"b-label": "B",
+	"c-label": "C",
+	"start-label": "Inici",
+	"stub-label": "Justet",
+	"wp10-label": "Valoració",
+	"more-info-content": "Veure <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\"> WP: valoració de Wikiproecte per a obtenir explicacions detallades de les classes de valoració."
+}

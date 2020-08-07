@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hello903hello",
 			"Moon0319"
 		]
 	},
@@ -9,7 +10,7 @@
 	"film-choice-label": "電影",
 	"music-choice-label": "音樂",
 	"person-choice-label": "人",
-	"other-choice-label": "第啲",
+	"other-choice-label": "其他",
 	"notable-no-label": "唔係",
 	"notable-yes-label": "係",
 	"damaging-false-label": "唔係",
