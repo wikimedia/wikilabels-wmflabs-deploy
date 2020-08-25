@@ -2,9 +2,9 @@
 	"@metadata": [],
 	"item-quality-label": "Item quality:",
 	"e-summary-label": "All items that do not match grade 'D' criteria.",
-	"d-summary-label": "Items with some basic statements, but lacking in references, translations, aliases, and sitelinks.",
-	"c-summary-label": "Items containing most critical statements, with some references, translations, aliases, and sitelinks.",
-	"b-summary-label": "Items containing all of the most important statements, with good references, translations, aliases, sitelinks, and an image.",
-	"a-summary-label": "Items containing all relevant statements, with solid references, and complete translations, aliases, sitelinks, and a high quality image.",
+	"d-summary-label": "Items with some basic statements, but lacking in references, translations, and aliases.",
+	"c-summary-label": "Items containing most critical statements, with some references, translations and aliases.",
+	"b-summary-label": "Items containing all of the most important statements, with good references, translations, aliases and an image (if applicable).",
+	"a-summary-label": "Items containing all relevant statements, with solid references, and complete translations, aliases and a high quality image (if applicable).",
 	"more-info-content": "For more information, see <a href=\"https://wikidata.org/wiki/Wikidata:Item_quality\">Wikidata:Item_quality</a>."
 }
