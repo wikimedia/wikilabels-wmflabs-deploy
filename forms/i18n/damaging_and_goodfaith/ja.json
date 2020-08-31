@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Shirayuki",
 			"Yusuke1109"
 		]
 	},
 	"damaging-help": "この編集を取り消しますか？",
 	"damaging-no-label": "損害を与えない",
-	"damaging-no-tooltip": "この編集はそのまま維持することができます",
+	"damaging-no-tooltip": "この編集はそのまま維持できます",
 	"damaging-yes-label": "損害を与える",
 	"damaging-yes-tooltip": "この編集は元に戻す必要があります",
 	"goodfaith-help": "この編集は、より良くしようと思って投稿されたように見えますか？",
