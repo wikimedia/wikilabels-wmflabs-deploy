@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AYZ04",
 			"Arthur2e5",
 			"Liuxinyu970226",
 			"Shizhao"
@@ -18,7 +19,7 @@
 	"bodycopy-description": "主条目或正文部分（不同于标题、子标题和图形）",
 	"copyediting-label": "编修",
 	"copyediting-description": "重新措辞；改进语法、拼写、语气或标点符号。",
-	"clarification-label": "阐述",
+	"clarification-label": "澄清",
 	"clarification-description": "通过例子或讨论，详细说明或解释现有事实或意思而不添加新信息。",
 	"simplification-label": "简化",
 	"simplification-description": "缩小讨论的复杂性或幅度；可能移除信息。",
@@ -30,7 +31,7 @@
 	"factupdate-description": "基于最近可用信息更新数字、日期、分数、片段、状态等。",
 	"elaboration-label": "详细阐述",
 	"elaboration-description": "扩充或添加实质性的新内容；插入一段事实或新而有意义的断言（超过简单的事实更新）。",
-	"verifiability-label": "可供查证",
+	"verifiability-label": "可供查证性",
 	"verifiability-description": "添加来源、引用",
 	"disambiguation-label": "消歧义",
 	"disambiguation-description": "将链至消歧义页面的链接更改为链接至特定页面。",
