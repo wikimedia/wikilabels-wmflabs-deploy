@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Şeyx Şamil"
+		]
+	},
+	"book-choice-label": "Kitablar",
+	"film-choice-label": "Filmlər",
+	"music-choice-label": "Musiqi",
+	"org-choice-label": "Təşkilatlar və şirkətlər",
+	"notable-no-label": "xeyr",
+	"notable-yes-label": "bəli"
+}
