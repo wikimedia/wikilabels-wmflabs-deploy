@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Patsagorn Y.",
 			"Woraponboonkerd"
 		]
 	},
+	"guideline-choice-label": "ภายใต้เกณฑ์ความโดดเด่นในหัวข้อต่อไปนี้ บทความนี้มีหัวข้อเกี่ยวกับสิ่งใด",
 	"book-choice-label": "หนังสือ",
 	"event-choice-label": "เหตุการณ์",
 	"film-choice-label": "ภาพยนตร์",
@@ -12,9 +14,11 @@
 	"org-choice-label": "องค์กรและบริษัท",
 	"web-choice-label": "เนื้อหาในเว็บ",
 	"other-choice-label": "อื่น ๆ",
+	"form-title": "ความโดดเด่นของบทความ",
+	"notable-switch": "ใจความของบทความนี้ผ่านแนวปฏิบัติว่าด้วยความโดดเด่นหรือไม่",
 	"notable-no-label": "ไม่",
 	"notable-yes-label": "ใช่",
-	"damaging-label": "สร้างความเสียหาย?",
+	"damaging-label": "สร้างความเสียหายหรือไม่",
 	"damaging-false-label": "ไม่",
 	"damaging-true-label": "ใช่"
 }
