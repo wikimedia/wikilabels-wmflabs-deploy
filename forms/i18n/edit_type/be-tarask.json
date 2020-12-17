@@ -3,7 +3,8 @@
 		"authors": [
 			"Kareyac",
 			"Nerogaf",
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Renessaince"
 		]
 	},
 	"information-label": "Інфармацыя",
@@ -39,7 +40,7 @@
 	"vandalism-label": "Вандалізм",
 	"vandalism-description": "наўмысная спроба пашкодзіць артыкул.",
 	"countervandalism-label": "Контравандалізм",
-	"countervandalism-description": "адмяніць ці прыбраць вандалізм.",
+	"countervandalism-description": "скасаваць ці прыбраць вандалізм.",
 	"process-label": "Працэс",
 	"process-description": "пачатак ці працяг працоўных працэсаў вікі, такіх як дадаваньне (ці зьняцьце) шаблёнаў паляпшэньня, аб’яднаньня ці выдаленьня.",
 	"other-label": "Іншае",
