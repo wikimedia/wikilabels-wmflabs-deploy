@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alefar",
 			"Cblair91"
 		]
 	},
@@ -10,6 +11,6 @@
 	"c-label": "C",
 	"start-label": "Start",
 	"stub-label": "Stub",
-	"wp10-label": "Assessment",
+	"wp10-label": "Asessment",
 	"more-info-content": "See <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a> for detailed explanations of the assessment classes."
 }
