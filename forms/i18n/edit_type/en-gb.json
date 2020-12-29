@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alefar",
 			"Andibing"
 		]
 	},
@@ -10,7 +11,7 @@
 	"modified-label": "Modified",
 	"removed-label": "Removed",
 	"notes-label": "Notes",
-	"semanticlabels-label": "Choose the likely intention of this edit",
+	"semanticlabels-label": "Choose the likely intention of this edit.",
 	"semanticlabels-empty": "No intentions chosen. Please add an intention or \"other\".",
 	"bodycopy-label": "Body Copy",
 	"bodycopy-description": "The main article or text part (as distinct from headings, subheadings, and graphics)",
@@ -41,5 +42,5 @@
 	"process-label": "Process",
 	"process-description": "start or continue a wiki process workflow such as tagging (or un-tagging) an article with cleanup, merge or deletion notices.",
 	"other-label": "Other",
-	"other-description": "none of the above, please leave a note."
+	"other-description": "none of the above: please leave a note."
 }
