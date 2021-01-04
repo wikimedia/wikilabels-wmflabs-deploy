@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Green Zero",
+			"Gzhegozh",
 			"Piramidion"
 		]
 	},
-	"guideline-choice-label": "Під яку із вказаних настанов значимості (якщо такі є) підпадає тема статті?",
+	"guideline-choice-label": "Під яку із вказаних настанов значущості (якщо такі є) підпадає тема статті?",
 	"book-choice-label": "Книги",
 	"event-choice-label": "Події",
 	"film-choice-label": "Фільми",
@@ -14,7 +15,7 @@
 	"org-choice-label": "Організації та компанії",
 	"web-choice-label": "Веб-контент",
 	"other-choice-label": "Інше",
-	"form-title": "Значимість",
+	"form-title": "Значущість",
 	"notable-switch": "Чи є ця тема значимою відповідно до цієї настанови?",
 	"notable-no-label": "ні",
 	"notable-yes-label": "так",
