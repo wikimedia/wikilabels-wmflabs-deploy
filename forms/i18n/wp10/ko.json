@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong"
+			"Ykhwong",
+			"그냥기여자"
 		]
 	},
 	"fa-label": "알찬 글",
@@ -10,5 +11,6 @@
 	"c-label": "C등급",
 	"start-label": "시작",
 	"stub-label": "토막글",
-	"wp10-label": "평가"
+	"wp10-label": "평가",
+	"more-info-content": "평가 클래스에 대한 자세한 설명은 <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject 평가</a>를 참조하십시오."
 }
