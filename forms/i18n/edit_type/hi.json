@@ -5,11 +5,7 @@
 		]
 	},
 	"clarification-label": "स्पष्टीकरण",
-	"deletion-description": "सारी वर्णनात्मक सामग्री को यहाँ देखें: [[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
-	"deletion-label": "मिटाना",
-	"insertion-description": "सारी वर्णनात्मक सामग्री को यहाँ देखें:[[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
-	"modification-description": "सारी वर्णनात्मक सामग्री को यहाँ देखें:[[w:Wikipedia:Labels/Edit_types/Taxonomy#Actions]]",
-	"other-description": "उपर्युक्त में से कोई नहीं, कृपया एक नोट छोड़े।",
 	"pov-label": "देखने का नज़रिया",
-	"verifiability-label": "प्रामाणिकता"
+	"verifiability-label": "प्रामाणिकता",
+	"other-description": "उपर्युक्त में से कोई नहीं, कृपया एक नोट छोड़े।"
 }
