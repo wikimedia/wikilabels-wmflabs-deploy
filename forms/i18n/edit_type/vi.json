@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Anewplayer",
 			"Minh Nguyen"
 		]
 	},
@@ -35,7 +36,7 @@
 	"wikification-label": "Wiki hóa",
 	"wikification-description": "làm văn bản thích hợp phương tiện wiki hơn, ví dụ đặt liên kết cần thiết hoặc gỡ liên kết không cần thiết; đổi văn bản in đậm thành đề mục đúng kiểu, v.v.; hoặc định dạng lại để hợp với cẩm nang văn phong.",
 	"vandalism-label": "Phá hoại",
-	"vandalism-description": "cố làm hư hoảng bài.",
+	"vandalism-description": "cố làm hư hỏng bài.",
 	"countervandalism-label": "Chống Phá hoại",
 	"countervandalism-description": "lùi lại hoặc gạt bỏ phá hoại.",
 	"process-label": "Quá trình",
