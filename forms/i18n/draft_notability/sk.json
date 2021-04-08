@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yardom78"
+		]
+	},
+	"guideline-choice-label": "Pod ktoré z nasledujúcich usmernení (ak vôbec) spadá tento téma tohto článku?",
+	"book-choice-label": "Knihy",
+	"event-choice-label": "Udalosti",
+	"film-choice-label": "Filmy",
+	"music-choice-label": "Hudba",
+	"person-choice-label": "Ľudia",
+	"org-choice-label": "Organizácie a spoločnosti",
+	"web-choice-label": "Webový obsah",
+	"other-choice-label": "Iné",
+	"form-title": "Pozoruhodnosť",
+	"notable-switch": "Je táto téma významná pre tieto usmernenia?",
+	"notable-no-label": "nie",
+	"notable-yes-label": "áno",
+	"damaging-label": "Škodlivá?",
+	"damaging-false-label": "nie",
+	"damaging-true-label": "áno"
+}

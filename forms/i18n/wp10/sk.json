@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yardom78"
+		]
+	},
+	"fa-label": "Najvyššia trieda",
+	"ga-label": "Predposledná trieda",
+	"b-label": "Stredná trieda",
+	"c-label": "Nižšia trieda",
+	"start-label": "Nízka trieda",
+	"stub-label": "Útržok",
+	"wp10-label": "Hodnotenie",
+	"more-info-content": "Pre podrobné vysvetlenie tried hodnotenia pozrite<a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">Wikiprojekt hodnotenie</a>."
+}

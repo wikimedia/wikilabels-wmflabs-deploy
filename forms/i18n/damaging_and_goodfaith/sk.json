@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yardom78"
+		]
+	},
+	"damaging-help": "Vrátili by ste túto úpravu späť?",
+	"damaging-no-label": "Nie je škodlivá",
+	"damaging-no-tooltip": "Túto úpravu možno nechať tak ako je",
+	"damaging-yes-label": "Škodlivá",
+	"damaging-yes-tooltip": "Táto úprava by mala byť vrátená späť",
+	"goodfaith-help": "Vyzerá to, že autor/ka tejto úpravy chcel/a produktívne prispieť?",
+	"goodfaith-no-label": "V zlej viere",
+	"goodfaith-no-tooltip": "Autor sa pokúšal o zámerné poškodenie",
+	"goodfaith-yes-label": "V dobrej viere",
+	"goodfaith-yes-tooltip": "Autor sa pokúšal prispieť produktívne",
+	"unsure-label": "Neistý/á?"
+}
