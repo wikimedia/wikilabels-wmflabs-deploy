@@ -5,7 +5,7 @@
 			"Verdy p"
 		]
 	},
-	"guideline-choice-label": "À laquelle des lignes directrices de notoriété (s’il y en a) le sujet de cet article correspond-il ?",
+	"guideline-choice-label": "Selon quelles lignes directrices de notoriété (s’il y en a) tombe le sujet de cet article ?",
 	"book-choice-label": "Livres",
 	"event-choice-label": "Événements",
 	"film-choice-label": "Films",
@@ -18,7 +18,7 @@
 	"notable-switch": "Le sujet est-il notable d’après cette ligne directrice ?",
 	"notable-no-label": "non",
 	"notable-yes-label": "oui",
-	"damaging-label": "Nuisible ?",
+	"damaging-label": "Dommageable ?",
 	"damaging-false-label": "non",
 	"damaging-true-label": "oui"
 }
