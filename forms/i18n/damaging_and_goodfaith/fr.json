@@ -8,7 +8,7 @@
 	},
 	"damaging-help": "Auriez-vous annulé cette modification ?",
 	"damaging-no-label": "Non destructeur",
-	"damaging-no-tooltip": "Cette modification peut être gardée en l’état",
+	"damaging-no-tooltip": "Cette modification peut être gardée en l'état",
 	"damaging-yes-label": "Dommageable",
 	"damaging-yes-tooltip": "Cette modification devrait être annulée",
 	"goodfaith-help": "Apparait-il que l’auteur de cette modification tentait de contribuer de façon productive ?",
