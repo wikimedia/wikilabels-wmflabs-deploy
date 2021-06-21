@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"damaging-help": "Reverterea tu iste modification?",
+	"damaging-no-label": "Non damnose",
+	"damaging-no-tooltip": "Iste modification pote esser mantenite como es",
+	"damaging-yes-label": "Damnose",
+	"damaging-yes-tooltip": "Iste modification deberea esser revertite",
+	"goodfaith-help": "Pare que le autor de iste modification tentava contribuer de maniera productive?",
+	"goodfaith-no-label": "Mal fide",
+	"goodfaith-no-tooltip": "Le autor tentava causar damnos intentionalmente",
+	"goodfaith-yes-label": "Bon fide",
+	"goodfaith-yes-tooltip": "Le autor tentava contribuer productivemente",
+	"unsure-label": "Insecur?"
+}

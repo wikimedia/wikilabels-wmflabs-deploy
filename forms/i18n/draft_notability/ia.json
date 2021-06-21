@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"guideline-choice-label": "A qual del sequente directivas de notabilitate (si alcun) pertine le subjecto de iste articulo?",
+	"book-choice-label": "Libros",
+	"event-choice-label": "Eventos",
+	"film-choice-label": "Films",
+	"music-choice-label": "Musica",
+	"person-choice-label": "Personas",
+	"org-choice-label": "Organisationes e interprisas",
+	"web-choice-label": "Contento web",
+	"other-choice-label": "Altere",
+	"form-title": "Notabilitate",
+	"notable-switch": "Es le topico notabile secundo iste directiva?",
+	"notable-no-label": "no",
+	"notable-yes-label": "si",
+	"damaging-label": "Damnose?",
+	"damaging-false-label": "no",
+	"damaging-true-label": "si"
+}
