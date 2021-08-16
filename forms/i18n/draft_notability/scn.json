@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf"
+		]
+	},
+	"book-choice-label": "Libbra",
+	"music-choice-label": "Mùsica",
+	"other-choice-label": "Àutru",
+	"notable-no-label": "no",
+	"notable-yes-label": "sì",
+	"damaging-false-label": "no",
+	"damaging-true-label": "sì"
+}
