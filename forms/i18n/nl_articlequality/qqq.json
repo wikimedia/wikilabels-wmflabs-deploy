@@ -1,0 +1,10 @@
+{
+	"@metadata": [],
+	"item-quality-label": "",
+	"a-summary-label": "Summary of \"A\" quality in Wikidata",
+	"b-summary-label": "Summary of \"B\" quality in Wikidata",
+	"c-summary-label": "Summary of \"C\" quality in Wikidata",
+	"d-summary-label": "Summary of \"D\" quality in Wikidata",
+	"e-summary-label": "Summary of \"E\" quality in Wikidata",
+	"more-info-content": "Directs the user to read more info"
+}
