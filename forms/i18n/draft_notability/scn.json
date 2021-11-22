@@ -5,7 +5,10 @@
 		]
 	},
 	"book-choice-label": "Libbra",
+	"film-choice-label": "Film",
 	"music-choice-label": "Mùsica",
+	"person-choice-label": "Pirsuni",
+	"web-choice-label": "Cuntinutu web",
 	"other-choice-label": "Àutru",
 	"notable-no-label": "no",
 	"notable-yes-label": "sì",
