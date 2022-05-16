@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Chrumps",
+			"Strebski",
 			"Woytecr"
 		]
 	},
@@ -12,6 +13,7 @@
 	"notes-label": "Uwagi",
 	"semanticlabels-label": "Wybierz najbardziej prawdopodobny zamiar tej edycji",
 	"semanticlabels-empty": "Nie wybrano intencji. Dodaj intencję lub wybierz \"inne\".",
+	"bodycopy-description": "Główny artykuł lub część tekstowa (w odróżnieniu od nagłówków, podtytułów i grafiki)",
 	"copyediting-label": "Przeredagowanie",
 	"copyediting-description": "przeformułowanie; poprawa gramatyki, pisowni, tonu lub interpunkcji.",
 	"clarification-label": "Wyjaśnienie",
@@ -22,6 +24,7 @@
 	"refactoring-description": "zmiana struktury artykułu; przeniesienie i przepisanie zawartości, bez zmiany jej znaczenia.",
 	"factupdate-label": "Aktualizacja faktów",
 	"factupdate-description": "aktualizacja liczb, dat, punktów, odcinków, stanu itd., na podstawie nowych dostępnych informacji.",
+	"elaboration-label": "Opracowanie",
 	"elaboration-description": "rozszerzenie lub dodanie nowej istotnej zawartości; wstawienie faktu lub nowego znaczącego stwierdzenia (ale nie będącym zwykłą aktualizacją faktów).",
 	"verifiability-label": "Weryfikowalność",
 	"verifiability-description": "dodano źródła, przypisy",

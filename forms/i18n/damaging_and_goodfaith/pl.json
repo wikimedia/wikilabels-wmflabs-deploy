@@ -3,18 +3,19 @@
 		"authors": [
 			"Chrumps",
 			"Stojex",
+			"Strebski",
 			"Vesihiisi"
 		]
 	},
 	"damaging-help": "Czy wycofałbyś tę edycję?",
-	"damaging-no-label": "Nie",
+	"damaging-no-label": "Nieszkodliwa",
 	"damaging-no-tooltip": "Edycja może zostać bez zmian",
-	"damaging-yes-label": "Tak",
+	"damaging-yes-label": "Szkodliwa",
 	"damaging-yes-tooltip": "Ta zmiana powinna zostać przywrócona",
 	"goodfaith-help": "Czy ten autor mógł próbować wykonać dobrą edycję?",
-	"goodfaith-no-label": "Nie",
+	"goodfaith-no-label": "W złej wierze",
 	"goodfaith-no-tooltip": "Ta edycja wygląda na wykonaną w złej wierze.",
-	"goodfaith-yes-label": "Tak",
+	"goodfaith-yes-label": "W dobrej wierze",
 	"goodfaith-yes-tooltip": "Ta edycja wygląda na wykonaną w dobrej wierze.",
 	"unsure-label": "Niepewny?"
 }
