@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Eleassar",
 			"HairyFotr"
 		]
 	},
@@ -10,6 +11,7 @@
 	"music-choice-label": "Glasba",
 	"person-choice-label": "Ljudje",
 	"org-choice-label": "Organizacije in podjetja",
+	"other-choice-label": "Drugo",
 	"notable-no-label": "ne",
 	"notable-yes-label": "da",
 	"damaging-false-label": "ne",
