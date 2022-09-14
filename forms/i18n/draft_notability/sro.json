@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"F Samaritani"
+		]
+	},
+	"film-choice-label": "Films",
+	"music-choice-label": "Mùsica",
+	"notable-no-label": "no",
+	"notable-yes-label": "eja",
+	"damaging-false-label": "no",
+	"damaging-true-label": "eja"
+}

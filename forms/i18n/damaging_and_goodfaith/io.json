@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"damaging-help": "Ka vu deziras desfacar ca redakturo?",
+	"damaging-no-label": "Ne domajiva",
+	"damaging-no-tooltip": "Ca redakto povas mantenesar quale to",
+	"damaging-yes-label": "Domajiva",
+	"damaging-yes-tooltip": "Ca redakto mustos desfacesar",
+	"goodfaith-help": "Kad on semblas ke la redaktero di ca modifikuro deziris facar produktiva redakto?",
+	"goodfaith-no-label": "Mal intenco",
+	"goodfaith-no-tooltip": "L'autoro probis krear domajo",
+	"goodfaith-yes-label": "Bona intenco",
+	"goodfaith-yes-tooltip": "L'autoro deziris facar produktiva redakturo",
+	"unsure-label": "Necerta pri to?"
+}

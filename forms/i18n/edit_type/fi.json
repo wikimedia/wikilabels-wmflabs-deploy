@@ -5,6 +5,7 @@
 			"Mikahama",
 			"Pyscowicz",
 			"Stryn",
+			"Yupik",
 			"Zache"
 		]
 	},
@@ -41,7 +42,7 @@
 	"vandalism-label": "Vandalismi",
 	"vandalism-description": "tahallinen yritys huonontaa artikkelia",
 	"countervandalism-label": "Vandalismin torjunta",
-	"countervandalism-description": "vandalismin kumoaminen, tai poistaminen.",
+	"countervandalism-description": "vandalismin kumoaminen tai poistaminen.",
 	"process-label": "Prosessi",
 	"process-description": "wikiprosessin aloittaminen ja jatkaminen, kuten esimerkiksi korjaus-, yhdistys-, tai poistomerkintöjen lisääminen ja poistaminen.",
 	"other-label": "Muut",
