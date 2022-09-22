@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"damaging-no-label": "Ni škodljivo",
+	"damaging-yes-label": "Škodljivo",
+	"goodfaith-no-label": "Zlonamerno",
+	"goodfaith-yes-label": "Dobronamerno"
+}
