@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"GinawaSaHapon"
+		]
+	},
+	"guideline-choice-label": "Saan sa mga sumusunod na gabay sa katanyagan (kung meron man) pumapasok ang paksa ng artikulong ito?",
+	"book-choice-label": "Mga aklat",
+	"event-choice-label": "Mga kaganapan",
+	"film-choice-label": "Mga pelikula",
+	"music-choice-label": "Musika",
+	"person-choice-label": "Tao",
+	"org-choice-label": "Mga organisasyon at kumpanya",
+	"web-choice-label": "Nilalaman sa web",
+	"other-choice-label": "Iba pa",
+	"form-title": "Katanyagan",
+	"notable-switch": "Tanyag ba ang paksa sa ilalim ng gabay na ito?",
+	"notable-no-label": "hindi",
+	"notable-yes-label": "oo",
+	"damaging-label": "Mapanira?",
+	"damaging-false-label": "hindi",
+	"damaging-true-label": "oo"
+}
