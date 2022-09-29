@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"GinawaSaHapon"
+			"GinawaSaHapon",
+			"Jojit fb"
 		]
 	},
 	"damaging-help": "Ire-revert mo ba ang edit na ito?",
 	"damaging-no-label": "Hindi mapanira",
 	"damaging-no-tooltip": "Pwedeng hayaan na lang ang edit na ito",
 	"damaging-yes-label": "Mapanira",
-	"damaging-yes-tooltip": "Dapat i-revert ang edit na ito",
+	"damaging-yes-tooltip": "Dapat ibalik ang binagong ito",
 	"goodfaith-help": "Mukha bang sinusubukan ng may-akda ng edit na ito na mag-ambag nang maayos?",
 	"goodfaith-no-label": "Masamang layunin",
 	"goodfaith-no-tooltip": "Sinusubukan ng may-akda na manira talaga",
