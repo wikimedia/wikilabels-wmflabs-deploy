@@ -4,8 +4,15 @@
 			"Eleassar"
 		]
 	},
+	"damaging-help": "Želite razveljaviti to urejanje?",
 	"damaging-no-label": "Ni škodljivo",
+	"damaging-no-tooltip": "To urejanje lahko ostane tako, kot je",
 	"damaging-yes-label": "Škodljivo",
+	"damaging-yes-tooltip": "To urejanje je treba razveljaviti",
+	"goodfaith-help": "Ačo se zdi, da je avtor tega urejanja poskušal koristno prispevati?",
 	"goodfaith-no-label": "Zlonamerno",
-	"goodfaith-yes-label": "Dobronamerno"
+	"goodfaith-no-tooltip": "Avtor je poskušal namerno povzročiti škodo",
+	"goodfaith-yes-label": "Dobronamerno",
+	"goodfaith-yes-tooltip": "Avtor je poskušal koristno prispevati",
+	"unsure-label": "Niste prepričani?"
 }

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"fa-label": "FA",
+	"ga-label": "GA",
+	"b-label": "B",
+	"c-label": "C",
+	"start-label": "Začetek",
+	"stub-label": "Škrbina",
+	"wp10-label": "Ocena",
+	"more-info-content": "Za podrobno razlago ocenjevalnih razredov glejte <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProjekt Ocenjevanje</a>."
+}
