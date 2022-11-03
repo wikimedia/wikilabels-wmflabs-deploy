@@ -5,15 +5,20 @@
 			"HairyFotr"
 		]
 	},
+	"guideline-choice-label": "Pod katere od naslednjih smernic pomembnosti (če obstajajo) spada ta članek?",
 	"book-choice-label": "Knjige",
 	"event-choice-label": "Dogodki",
 	"film-choice-label": "Filmi",
 	"music-choice-label": "Glasba",
 	"person-choice-label": "Ljudje",
 	"org-choice-label": "Organizacije in podjetja",
+	"web-choice-label": "Spletna vsebina",
 	"other-choice-label": "Drugo",
+	"form-title": "Pomembnost",
+	"notable-switch": "Ali je tema po tej smernici pomembna?",
 	"notable-no-label": "ne",
 	"notable-yes-label": "da",
+	"damaging-label": "Škodljivo?",
 	"damaging-false-label": "ne",
 	"damaging-true-label": "da"
 }
