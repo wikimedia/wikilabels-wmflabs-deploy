@@ -17,8 +17,8 @@ wsgi:
   cors_allowed: https://([^\.\/]+\.)?(wiki([pm]edia|data|books|versity|quote|source|news|voyage)|wiktionary|mediawiki)\.org
 
 database:
-  host: wikilabels.db.svc.eqiad.wmflabs
-  dbname: wikilabels
+  host: wikilabels-database-02.wikilabels.eqiad1.wikimedia.cloud
+  dbname: u_wikilabels
 
 oauth:
   mw_uri: https://meta.wikimedia.org/w/index.php
