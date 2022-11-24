@@ -4,7 +4,8 @@
 			"Amire80",
 			"Ladsgroup",
 			"Liuxinyu970226",
-			"Robby"
+			"Robby",
+			"Verdy p"
 		]
 	},
 	"damaging-help": "An explanation if you were reviewing this edit, would you undo it? Is it in harmful to the Wikipedia?",
@@ -14,7 +15,7 @@
 	"damaging-yes-tooltip": "Yes, this edit is harmful to the Wikipedia (a vandalism or an honest mistake) and we should undo it.",
 	"goodfaith-help": "If the edit is made using good faith whether it's harmful or not. Do you think editor was trying to make Wikipedia better or not",
 	"goodfaith-no-tooltip": "When the edit is made intentionally to harm Wikipedia such as vandalism.",
-	"goodfaith-yes-label": "",
+	"goodfaith-yes-label": "{{Identical|Good}}",
 	"goodfaith-yes-tooltip": "If an edit is made with good faith, for example an honest mistake or a productive edit",
 	"unsure-label": "When the user is not sure of the label\n{{Identical|Unsure}}"
 }
