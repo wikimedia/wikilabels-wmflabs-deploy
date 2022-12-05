@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"damaging-help": "Бу тюзетиуню кери алыргъа излейми эдинг?",
+	"damaging-no-label": "Зарансыз",
+	"damaging-no-tooltip": "Бу тюзетиу болгъаныча къалыргъа боллукъду",
+	"damaging-yes-label": "Заранлы",
+	"damaging-yes-tooltip": "Бу тюзетиу кери алыныргъа керекди",
+	"goodfaith-help": "Бу автор этген тюзетиу джараулу къошумгъамы ушайды?",
+	"goodfaith-no-label": "Аман иннетли",
+	"goodfaith-no-tooltip": "Автор биле тургъанлай заран салыргъа кюреше эди",
+	"goodfaith-yes-label": "Иги иннетли",
+	"goodfaith-yes-tooltip": "Автор хайырлы къошум этерге кюреше эди",
+	"unsure-label": "Таукел тюлмюсюз?"
+}

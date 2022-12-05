@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"guideline-choice-label": "Айтхылыгъы бла къайсы теджеуле (аллайла бар эсе) бу статьяны темасы бла келишедиле?",
+	"book-choice-label": "Китабла",
+	"event-choice-label": "Болуула",
+	"film-choice-label": "Фильмле",
+	"music-choice-label": "Музыка",
+	"person-choice-label": "Адамла",
+	"org-choice-label": "Къуралышла эмда компанияла",
+	"web-choice-label": "Веб-контент",
+	"other-choice-label": "Башха",
+	"form-title": "Айтхылыкъ",
+	"notable-switch": "Тема бу юретиуде эс бёлюучюмюдю?",
+	"notable-no-label": "огъай",
+	"notable-yes-label": "хоу",
+	"damaging-label": "Заранлымыды?",
+	"damaging-false-label": "огъай",
+	"damaging-true-label": "хоу"
+}
