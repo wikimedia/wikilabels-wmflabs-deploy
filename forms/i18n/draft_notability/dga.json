@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zakaria Tunsung"
+		]
+	},
+	"book-choice-label": "Gama",
+	"music-choice-label": "yiele",
+	"person-choice-label": "Noba",
+	"notable-no-label": "ɔ-ɔɔ",
+	"notable-yes-label": "ɔɔ",
+	"damaging-label": "Saana",
+	"damaging-false-label": "Ɔ-ɔɔ",
+	"damaging-true-label": "Ɔɔ"
+}
