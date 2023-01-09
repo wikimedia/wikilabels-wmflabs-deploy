@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ильгиз"
+		]
+	},
+	"damaging-help": "Сез бү төзәтүне кире кагып идегезме?",
+	"damaging-no-label": "Зыянсыз",
+	"damaging-no-tooltip": "Бу төзәтүне ничек бар, шулай калдырырга мөмкин",
+	"damaging-yes-label": "Зыянлы",
+	"damaging-yes-tooltip": "Бу төзәтү кире кагылырга тиеш",
+	"goodfaith-help": "Төзәтүче авторы чынлап та конструктив кертем ясарга ниятләдеме?",
+	"goodfaith-no-label": "Зыянлы ниятле",
+	"goodfaith-no-tooltip": "Автор үз нияте белән зыян китермәкче булды",
+	"goodfaith-yes-label": "Файдалы ниятле",
+	"goodfaith-yes-tooltip": "Автор конструктив кертем ясамакчы иде"
+}

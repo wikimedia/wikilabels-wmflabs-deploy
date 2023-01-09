@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ерней",
+			"Ильгиз"
+		]
+	},
+	"information-label": "Мәгълүмат",
+	"added-label": "Өстәлгән",
+	"modified-label": "Үзгәртелгән",
+	"removed-label": "Бетерелгән",
+	"notes-label": "Искәрмәләр",
+	"semanticlabels-label": "Бу төзәтүнең ихтимал ниятен сайлагыз",
+	"semanticlabels-empty": "Ниятләр сайланмаган. Зинһар, ният өстәгез, яки \"башкасы\" дип куегыз.",
+	"copyediting-label": "Мөхәррирләү Копияләү",
+	"clarification-label": "Аңлатма",
+	"simplification-label": "Гадиләштерү",
+	"refactoring-label": "Үзгәртеп оештыру",
+	"elaboration-label": "Эшкәртмә",
+	"verifiability-label": "Тикшерерлек",
+	"verifiability-description": "чыганак, цитаталау өстәргә",
+	"wikification-label": "Викилаштыру",
+	"vandalism-label": "Вандализм",
+	"vandalism-description": "белә торып мәкаләне бозарга тырышу.",
+	"other-label": "Башка"
+}
