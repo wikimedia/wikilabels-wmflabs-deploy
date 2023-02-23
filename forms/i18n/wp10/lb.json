@@ -1,10 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
+	"fa-label": "FA",
+	"ga-label": "GA",
 	"b-label": "B",
+	"c-label": "C",
 	"start-label": "Ufank",
-	"stub-label": "Skizz"
+	"stub-label": "Skizz",
+	"wp10-label": "Bewäertung",
+	"more-info-content": "Kuckt <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a> fir detailléiert Erklärunge vun de Bewäertungsklassen."
 }
