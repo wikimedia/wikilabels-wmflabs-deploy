@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Mar(c)",
+			"McDutchie",
 			"Woodcutterty"
 		]
 	},
@@ -11,9 +12,9 @@
 	"damaging-yes-label": "Schadelijk",
 	"damaging-yes-tooltip": "Deze bewerking moet worden teruggedraaid",
 	"goodfaith-help": "Lijkt het erop dat de persoon die deze bewerking deed een constructieve bijdrage wilde leveren?",
-	"goodfaith-no-label": "Kwade wil",
+	"goodfaith-no-label": "Kwade trouw",
 	"goodfaith-no-tooltip": "De bewerker probeerde opzettelijk schade te veroorzaken",
-	"goodfaith-yes-label": "Goede wil",
+	"goodfaith-yes-label": "Goede trouw",
 	"goodfaith-yes-tooltip": "De bewerker probeerde productief bij te dragen",
 	"unsure-label": "Niet zeker?"
 }
