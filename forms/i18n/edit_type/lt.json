@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Manvydasz",
+			"Nokeoo",
 			"Zygimantus"
 		]
 	},
@@ -10,13 +11,25 @@
 	"modified-label": "Pakeista",
 	"removed-label": "Pašalinta",
 	"notes-label": "Pastabos",
+	"semanticlabels-label": "Pasirinkite galimą šio redagavimo tikslą",
+	"semanticlabels-empty": "Tikslas nepasirinktas. Pridėkite tikslą prie „kita“.",
 	"bodycopy-label": "Kūno kopija",
+	"clarification-label": "Paaiškinimas",
+	"clarification-description": "nurodykite arba paaiškinkite esamą faktą ar prasmę pavyzdžiu ar diskusija, nepridedant naujos informacijos.",
+	"simplification-label": "Supaprastinimas",
 	"pov-label": "Požiūris",
+	"refactoring-label": "Reorganizavimas",
+	"factupdate-label": "Faktų atnaujinimas",
+	"factupdate-description": "atnaujinti numerius, datas, balus, epizodus, būseną ir kt., remiantis nauja turima informacija.",
+	"elaboration-label": "Praplėtimas",
+	"elaboration-description": "išplėsti arba pridėti esminio naujo turinio; įterpti faktą arba naują prasmingą teiginį (daugiau, nei tik paprastas faktų atnaujinimas).",
+	"verifiability-label": "Patikrinamumas",
 	"verifiability-description": "pridėti šaltinių, citatų",
 	"wikification-label": "Vikifikacija",
 	"vandalism-label": "Vandalizmas",
 	"countervandalism-label": "Vandalizmo skaičiuoklis",
 	"countervandalism-description": "grąžinti arba pašalinti vandalizmą.",
 	"process-label": "Procesas",
-	"other-label": "Kita"
+	"other-label": "Kita",
+	"other-description": "nė vienas iš aukščiau išvardytų, palikite pastabą."
 }

@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Manvydasz",
+			"Nokeoo",
 			"Zygimantus"
 		]
 	},
@@ -11,5 +12,8 @@
 	"damaging-yes-label": "Žalinga",
 	"damaging-yes-tooltip": "Šis pakeitimas turi būti atšauktas",
 	"goodfaith-no-label": "Nenaudingas",
-	"goodfaith-yes-label": "Naudingas"
+	"goodfaith-no-tooltip": "Autorius tyčia bandė padaryti žalą",
+	"goodfaith-yes-label": "Naudingas",
+	"goodfaith-yes-tooltip": "Autorius stengėsi produktyviai prisidėti",
+	"unsure-label": "Nesate tikri?"
 }
