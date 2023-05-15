@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Shirayuki",
 			"Yusuke1109"
 		]
 	},
@@ -9,7 +10,7 @@
 	"event-choice-label": "イベント",
 	"film-choice-label": "フィルム",
 	"music-choice-label": "音楽",
-	"person-choice-label": "ユーザー",
+	"person-choice-label": "利用者",
 	"org-choice-label": "組織と企業",
 	"web-choice-label": "Webコンテンツ",
 	"other-choice-label": "その他",
@@ -17,7 +18,7 @@
 	"notable-switch": "この指針に基づいて話題が注目されていますか?",
 	"notable-no-label": "いいえ",
 	"notable-yes-label": "はい",
-	"damaging-label": "破壊的な編集ですか？",
+	"damaging-label": "破壊的な編集ですか?",
 	"damaging-false-label": "いいえ",
 	"damaging-true-label": "はい"
 }
