@@ -3,7 +3,8 @@
 		"authors": [
 			"Arthur2e5",
 			"Kly",
-			"LNDDYL"
+			"LNDDYL",
+			"捍粵者"
 		]
 	},
 	"damaging-help": "您要還原此編輯嗎？",
@@ -13,8 +14,8 @@
 	"damaging-yes-tooltip": "此編輯並應給予還原。",
 	"goodfaith-help": "該編輯的作者是否有要嘗試做出俱意義貢獻的情況？",
 	"goodfaith-no-label": "惡意",
-	"goodfaith-no-tooltip": "作者嘗試故意做出破壞",
+	"goodfaith-no-tooltip": "作者嘗試破壞",
 	"goodfaith-yes-label": "善意",
-	"goodfaith-yes-tooltip": "作者嘗試做出良好貢獻",
+	"goodfaith-yes-tooltip": "作者嘗試貢獻我們",
 	"unsure-label": "不確定？"
 }
