@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rooiratel"
+		]
+	},
+	"information-label": "Inligting",
+	"added-label": "Bygevoeg",
+	"modified-label": "Gewysig",
+	"removed-label": "Geskrap",
+	"notes-label": "Notas",
+	"semanticlabels-label": "Kies die waarskynlike bedoeling van hierdie wysiging",
+	"bodycopy-description": "Die hoofartikel of teksgedeelte (in teenstelling met opskrifte, subopskrifte en grafika)",
+	"copyediting-label": "Redaksie",
+	"copyediting-description": "herverwoord; verbeter grammatika, spelling, toon of leestekens.",
+	"clarification-label": "Opheldering",
+	"simplification-label": "Vereenvoudiging",
+	"pov-label": "Standpunt",
+	"pov-description": "herskryf met ensiklopediese, neutrale toon; verwyder vooroordeel; pas die nodige gewig toe.",
+	"refactoring-label": "Herorganisasie",
+	"factupdate-label": "Feitopdatering",
+	"factupdate-description": "dateer getalle, datums, tellings, episodes, status, ens. op, gebaseer op nuut beskikbare inligting.",
+	"disambiguation-label": "Ondubbelsinnigheid",
+	"wikification-label": "Wikifikasie",
+	"vandalism-label": "Vandalisme",
+	"vandalism-description": "doelbewus probeer om die artikel te beskadig.",
+	"countervandalism-label": "Teen-vandalisme",
+	"countervandalism-description": "verwyder of herstel vandalisme.",
+	"other-label": "Ander",
+	"other-description": "nie een van die bogenoemde nie, los asseblief 'n nota."
+}

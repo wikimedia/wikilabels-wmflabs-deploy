@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rooiratel"
+		]
+	},
+	"guideline-choice-label": "Onder watter van die volgende noemenswaardigheidsriglyne (indien enige) val hierdie artikel se onderwerp?",
+	"book-choice-label": "Boeke",
+	"film-choice-label": "Films",
+	"music-choice-label": "Musiek",
+	"person-choice-label": "Mense",
+	"org-choice-label": "Organisasies en maatskappye",
+	"web-choice-label": "Webinhoud",
+	"other-choice-label": "Ander",
+	"form-title": "Noemenswaardigheid",
+	"notable-switch": "Is die onderwerp noemenswaardig onder hierdie riglyn?",
+	"notable-no-label": "nee",
+	"notable-yes-label": "ja",
+	"damaging-label": "Skadelik?",
+	"damaging-false-label": "nee",
+	"damaging-true-label": "ja"
+}

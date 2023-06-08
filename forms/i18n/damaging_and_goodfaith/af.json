@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rooiratel"
+		]
+	},
+	"damaging-help": "Sou jy hierdie wysiging terugrol?",
+	"damaging-no-label": "Nie skadelik nie",
+	"damaging-no-tooltip": "Hierdie wysiging kan gehou word soos dit is",
+	"damaging-yes-label": "Skadelik",
+	"damaging-yes-tooltip": "Hierdie wysiging moet teruggekeer word",
+	"goodfaith-help": "Lyk dit asof die outeur van hierdie wysiging probeer om produktief by te dra?",
+	"goodfaith-no-label": "Kwadertrou",
+	"goodfaith-no-tooltip": "Die skrywer het doelbewus probeer skade aanrig",
+	"goodfaith-yes-label": "Goedertrou",
+	"goodfaith-yes-tooltip": "Die skrywer het probeer om produktief by te dra",
+	"unsure-label": "Onseker?"
+}
