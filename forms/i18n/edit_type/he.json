@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"LaG roiL"
+			"LaG roiL",
+			"Neriah"
 		]
 	},
 	"information-label": "מידע",
 	"information-tooltip": "יש לסמן את התיבות האלו אם שונו עובדות או מידע משמעותי. נא לשים לב לכך שאפשר לשנות את ה\"גוף\" בלי לשנות את ה\"מידע\".",
 	"added-label": "נוסף",
-	"modified-label": "שוּנה",
+	"modified-label": "שונה",
 	"removed-label": "הוסר",
 	"notes-label": "הערות",
 	"semanticlabels-label": "נא לבחור מה כנראה הייתה הכוונה של העריכה",
