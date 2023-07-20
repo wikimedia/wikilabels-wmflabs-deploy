@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hakimi97"
+		]
+	},
+	"damaging-help": "Adakah anda ingin membatalkan suntingan ini?",
+	"damaging-no-label": "Tidak merosakkan",
+	"damaging-no-tooltip": "Suntingan ini boleh disimpan seperti sedia ada",
+	"damaging-yes-label": "Merosakkan",
+	"damaging-yes-tooltip": "Suntingan ini perlu dibalikkan",
+	"goodfaith-help": "Adakah pengarang suntingan ini kelihatan cuba menyumbang secara produktif?",
+	"goodfaith-no-label": "Anggapan buruk",
+	"goodfaith-no-tooltip": "Pengarang cuba menyebabkan kerosakan dengan sengaja",
+	"goodfaith-yes-label": "Anggapan baik",
+	"goodfaith-yes-tooltip": "Penulis cuba menyumbang secara produktif",
+	"unsure-label": "Tidak pasti?"
+}

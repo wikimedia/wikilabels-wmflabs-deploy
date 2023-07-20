@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hakimi97"
+		]
+	},
+	"guideline-choice-label": "Di bawah garis panduan kelayakan yang manakah (jika ada) topik rencana ini?",
+	"book-choice-label": "Buku",
+	"event-choice-label": "Acara",
+	"film-choice-label": "Filem",
+	"music-choice-label": "Muzik",
+	"person-choice-label": "Tokoh",
+	"org-choice-label": "Pertubuhan dan syarikat",
+	"web-choice-label": "Kandungan web",
+	"other-choice-label": "Lain-lain",
+	"form-title": "Kelayakan",
+	"notable-switch": "Adakah topik ini mempunyai kelayakan mengikut garis panduan ini?",
+	"notable-no-label": "tidak",
+	"notable-yes-label": "ya",
+	"damaging-label": "Merosakkan?",
+	"damaging-false-label": "tidak",
+	"damaging-true-label": "ya"
+}
