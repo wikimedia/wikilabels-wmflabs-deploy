@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bosogo"
+		]
+	},
+	"other-choice-label": "Башка",
+	"notable-no-label": "жок",
+	"notable-yes-label": "ооба",
+	"damaging-false-label": "жок",
+	"damaging-true-label": "ооба"
+}
