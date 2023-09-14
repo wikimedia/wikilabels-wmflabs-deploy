@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"TerranBoy"
+		]
+	},
+	"book-choice-label": "کتاوەگان",
+	"music-choice-label": "مووسیقی",
+	"notable-no-label": "نە",
+	"notable-yes-label": "ئەرێ",
+	"damaging-false-label": "نە",
+	"damaging-true-label": "ئەرێ"
+}
