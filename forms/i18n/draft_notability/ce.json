@@ -4,7 +4,17 @@
 			"Умар"
 		]
 	},
+	"book-choice-label": "Жайнаш",
+	"event-choice-label": "Хиламаш",
 	"film-choice-label": "Фильмаш",
+	"music-choice-label": "Музыка",
+	"person-choice-label": "Нах",
+	"org-choice-label": "Организацеш а, компанеш а",
+	"web-choice-label": "Веб-контент",
+	"other-choice-label": "Кхийерг",
+	"notable-no-label": "хӀан-хӀа",
 	"notable-yes-label": "хӀаъ",
+	"damaging-label": "Зене нисдар?",
+	"damaging-false-label": "хӀан-хӀа",
 	"damaging-true-label": "хӀаъ"
 }

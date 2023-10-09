@@ -4,5 +4,15 @@
 			"Умар"
 		]
 	},
-	"information-label": "Хаам"
+	"information-label": "Хаам",
+	"added-label": "ТӀетоьхна",
+	"modified-label": "Хийцина",
+	"removed-label": "ДӀайаьккхина",
+	"notes-label": "Билгалдахарш",
+	"bodycopy-label": "Копин дегӀ",
+	"factupdate-label": "Карлайаккхаран Факт",
+	"disambiguation-label": "МаьӀнаш",
+	"wikification-label": "Викификаци",
+	"vandalism-label": "Вандализм",
+	"other-label": "Кхийерг"
 }

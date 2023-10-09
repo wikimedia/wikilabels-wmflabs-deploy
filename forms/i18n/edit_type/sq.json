@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Besnik b"
+		]
+	},
+	"information-label": "Informacion",
+	"information-tooltip": "U vini shenjë këtyre kutizave, nëse janë ndryshuar fakte apo informacion me kuptim. Vini re që dikush mund të ndryshonte “Body Copy” pa ndryshuar “informacionin” që përmbahet.",
+	"added-label": "Shtuar",
+	"modified-label": "Ndryshuar",
+	"removed-label": "Hequr",
+	"notes-label": "Shënime",
+	"semanticlabels-label": "Zgjidhni qëllimin e mundshëm të këtij përpunimi",
+	"semanticlabels-empty": "S’u zgjodhën qëllime. Ju lutemi shtoni një qëllim, ose vendosni “tjetër”.",
+	"copyediting-description": "riformulim; përmirësim gramatikor, drejtshkrim, ton, ose pikësim.",
+	"clarification-label": "Sqarim",
+	"simplification-label": "Thjeshtim",
+	"pov-label": "Pikëpamje",
+	"refactoring-label": "Riorganizim",
+	"factupdate-label": "Përditësim Faktesh",
+	"elaboration-label": "Përpunim",
+	"disambiguation-label": "Eliminim Dykuptimshmësie",
+	"vandalism-label": "Vandalizëm",
+	"countervandalism-label": "Kundërvandalizëm",
+	"other-label": "Tjetër",
+	"other-description": "asnjë nga sa më sipër, ju lutemi, lini një shënim."
+}

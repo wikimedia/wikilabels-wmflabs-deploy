@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Besnik b"
+		]
+	},
+	"book-choice-label": "Libra",
+	"event-choice-label": "Veprimtari",
+	"film-choice-label": "Filma",
+	"music-choice-label": "Muzikë",
+	"person-choice-label": "Njerëz",
+	"org-choice-label": "Ente dhe shoqëri",
+	"web-choice-label": "Lëndë Web",
+	"other-choice-label": "Tjetër",
+	"notable-no-label": "jo",
+	"notable-yes-label": "po",
+	"damaging-label": "Dëmtues?",
+	"damaging-false-label": "jo",
+	"damaging-true-label": "po"
+}
