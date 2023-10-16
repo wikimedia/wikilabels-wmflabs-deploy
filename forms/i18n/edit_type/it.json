@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Beta16",
+			"Camillo Pellizzari",
 			"Daimona Eaytoy"
 		]
 	},
@@ -28,7 +29,7 @@
 	"factupdate-label": "Aggiornamento fattuale",
 	"factupdate-description": "aggiorna numeri, date, o altri elementi fattuali di una voce sulla base di nuova informazione disponibile.",
 	"elaboration-label": "Elaborazione",
-	"elaboration-description": "estende o aggiunge contenuto sostanzialmente nuovo; inserisce un fatto o una nuova asserzione, al di là di un semplice aggiornamento fattuale.",
+	"elaboration-description": "estende o aggiunge contenuto sostanzialmente nuovo; inserisce un fatto o una nuova dichiarazione, al di là di un semplice aggiornamento fattuale.",
 	"verifiability-label": "Verificabilità",
 	"verifiability-description": "aggiunge fonti o citazioni.",
 	"disambiguation-label": "Disambiguazione",
