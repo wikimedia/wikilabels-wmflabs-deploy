@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Patriot Kor",
-			"Patriot Kur"
+			"Patriot Kur",
+			"Гусейн"
 		]
 	},
 	"book-choice-label": "Kitobon",
+	"event-choice-label": "Tədbiron",
 	"music-choice-label": "Musiği",
 	"person-choice-label": "İnson",
 	"other-choice-label": "Co",
