@@ -3,17 +3,18 @@
 		"authors": [
 			"Alefar",
 			"Andibing",
-			"Cblair91"
+			"Cblair91",
+			"Drkirstyross"
 		]
 	},
 	"damaging-help": "Would you revert this edit?",
 	"damaging-no-label": "Not damaging",
-	"damaging-no-tooltip": "This edit can be kept as it is!",
+	"damaging-no-tooltip": "This edit can be kept as it is",
 	"damaging-yes-label": "Damaging",
 	"damaging-yes-tooltip": "This edit should be reverted",
 	"goodfaith-help": "Does it appear as though the author of this edit was trying to contribute productively?",
 	"goodfaith-no-label": "Bad-faith",
-	"goodfaith-no-tooltip": "The author was trying to cause damage intentionally",
+	"goodfaith-no-tooltip": "The author was intentionally trying to cause damage",
 	"goodfaith-yes-label": "Good-faith",
 	"goodfaith-yes-tooltip": "The author was trying to contribute productively",
 	"unsure-label": "Unsure?"
