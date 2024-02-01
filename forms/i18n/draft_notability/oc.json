@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cedric31"
+			"Cedric31",
+			"Lhanars"
 		]
 	},
+	"guideline-choice-label": "Quin dels seguents criteris de notabilitat (se n'i a) cai lo subjècte d'aquel article?",
 	"book-choice-label": "Libres",
 	"event-choice-label": "Eveniments",
 	"film-choice-label": "Filmes",
@@ -13,6 +15,7 @@
 	"web-choice-label": "Contengut del web",
 	"other-choice-label": "Autre",
 	"form-title": "Notabilitat",
+	"notable-switch": "Lo tèma es notable jos aquel critèri?",
 	"notable-no-label": "non",
 	"notable-yes-label": "òc",
 	"damaging-label": "Damatjable ?",

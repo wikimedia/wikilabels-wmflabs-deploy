@@ -1,12 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cedric31"
+			"Cedric31",
+			"Lhanars"
 		]
 	},
 	"damaging-help": "Auriatz anullat aquesta modificacion ?",
 	"damaging-no-label": "Pas destructor",
+	"damaging-no-tooltip": "Se pòt manténer l'edicion coma tal.",
 	"damaging-yes-label": "Destructor",
+	"damaging-yes-tooltip": "Aquela edicion deuriá èsser revertida.",
+	"goodfaith-help": "Sembla que l'autor de l'edicion ensajava de contribuïr productivament?",
 	"goodfaith-no-label": "Marrida intencion",
-	"goodfaith-yes-label": "Bona intencion"
+	"goodfaith-no-tooltip": "L'autor ensajava de far una edicion malintencionada",
+	"goodfaith-yes-label": "Bona intencion",
+	"goodfaith-yes-tooltip": "L'autor voliá contribuïr productivament",
+	"unsure-label": "Incèrt?"
 }

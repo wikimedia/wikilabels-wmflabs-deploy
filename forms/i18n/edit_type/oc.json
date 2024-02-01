@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cedric31"
+			"Cedric31",
+			"Lhanars"
 		]
 	},
 	"information-label": "Informacion",
+	"information-tooltip": "Marcatz aquelas caissas se se son cambiadas de donadas o d'informacions significativas. Notatz que se pòt modificar la «còpia del còrpus» sens ne modificar las «informacions» contengudas.",
 	"added-label": "Apondut",
 	"modified-label": "Modificat",
 	"removed-label": "Suprimit",
