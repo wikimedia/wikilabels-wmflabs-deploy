@@ -2,19 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Arian Ar",
+			"Ebraminio",
 			"Ladsgroup",
 			"Saeidpourbabak"
 		]
 	},
-	"damaging-help": "آیا ویرایش باعث خراب شدن مقاله شده‌است؟",
+	"damaging-help": "آیا ویرایش باعث خراب شدن مقاله شده است؟",
 	"damaging-no-label": "آسیب‌زننده نیست",
 	"damaging-no-tooltip": "باید این ویرایش همین‌گونه باشد",
 	"damaging-yes-label": "آسیب‌زننده",
-	"damaging-yes-tooltip": "این ویرایش باعث خراب شدن مقاله شده‌است و باید واگردانی شود",
+	"damaging-yes-tooltip": "این ویرایش باعث خراب شدن مقاله شده است و باید واگردانی شود",
 	"goodfaith-help": "آیا ویرایش با حسن نیت انجام شده است؟",
 	"goodfaith-no-label": "سونیت",
 	"goodfaith-no-tooltip": "این ویرایش با حسن نیت نبوده است.",
 	"goodfaith-yes-label": "حسن‌نیت",
-	"goodfaith-yes-tooltip": "این ویرایش به نظرم با حسن نیت انجام شده‌است.",
+	"goodfaith-yes-tooltip": "این ویرایش به نظرم با حسن نیت انجام شده است.",
 	"unsure-label": "مطمئن نیستید؟"
 }
