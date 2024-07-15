@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"पर्वत सुबेदी",
 			"सरोज कुमार ढकाल"
 		]
 	},
@@ -14,6 +15,7 @@
 	"disambiguation-label": "बहुविकल्प",
 	"disambiguation-description": "बहुविकल्प पृष्ठमा लिङ्क परिवर्तन गरेर कुनै पृष्ठमा लिङ्क जोड्नुहोस् ।",
 	"wikification-label": "विकिकरण",
+	"vandalism-label": "बर्बरता",
 	"process-label": "प्रक्रिया",
 	"other-label": "अन्य"
 }
