@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Nemoralis",
 			"Şeyx Şamil"
 		]
 	},
-	"damaging-help": "Redaktəni geri qaytarmaq istəyirsinizmi?",
+	"damaging-help": "Redaktəni geri qaytarmaq istəyirsiniz?",
 	"damaging-no-label": "Zərərsiz",
 	"damaging-yes-label": "Zərərli"
 }
