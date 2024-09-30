@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cabal",
+			"Tow"
+		]
+	},
+	"information-label": "ਜਾਣਕਾਰੀ",
+	"added-label": "ਜੋੜਿਆ ਗਿਆ",
+	"modified-label": "ਬਦਲਿਆ ਗਿਆ",
+	"notes-label": "ਟਿੱਪਣੀਆਂ",
+	"clarification-label": "ਸਪਸ਼ਟੀਕਰਨ",
+	"refactoring-label": "ਪੁਨਰਗਠਨ",
+	"elaboration-label": "ਵਿਸਤਾਰ",
+	"vandalism-label": "ਭੰਨ-ਤੋੜ",
+	"countervandalism-label": "ਭੰਨ-ਤੋੜ ਦੇ ਵਿਰੁੱਧ",
+	"process-label": "ਕਾਰਵਾਈ",
+	"other-label": "ਹੋਰ"
+}
