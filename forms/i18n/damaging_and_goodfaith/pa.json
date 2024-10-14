@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cabal"
+		]
+	},
+	"damaging-no-label": "ਨੁਕਸਾਨਦੇਹ ਨਹੀਂ",
+	"damaging-yes-label": "ਨੁਕਸਾਨਦੇਹ",
+	"goodfaith-no-label": "ਗਲਤ ਵਿਸ਼ਵਾਸ",
+	"goodfaith-yes-label": "ਚੰਗਾ ਵਿਸ਼ਵਾਸ"
+}
