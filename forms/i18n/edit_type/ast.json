@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"YoaR"
 		]
 	},
 	"information-label": "Información",
-	"information-tooltip": "Marca estes caxelles si camudaron los fechos o la información relevante. Ten en cuenta que puede camudar el «cuerpu de la copia» ensin camudar la «información» que contien.",
+	"information-tooltip": "Marca estes caxelles si camudaron los fechos o la información relevante. Ten en cuenta que puede camudar el «cuerpu de la copia» ensin camudar la «información» que contién.",
 	"added-label": "Amestáu",
 	"modified-label": "Camudada",
 	"removed-label": "Desaniciada",
