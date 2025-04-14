@@ -20,12 +20,16 @@
 	"refactoring-label": "Herorganisasie",
 	"factupdate-label": "Feitopdatering",
 	"factupdate-description": "dateer getalle, datums, tellings, episodes, status, ens. op, gebaseer op nuut beskikbare inligting.",
+	"verifiability-label": "Verifieerbaarheid",
+	"verifiability-description": "voeg bronne by, (aanhaling)",
 	"disambiguation-label": "Ondubbelsinnigheid",
+	"disambiguation-description": "verander 'n skakel na 'n ondubbelsinnige bladsy na 'n skakel na die spesifieke bladsy.",
 	"wikification-label": "Wikifikasie",
 	"vandalism-label": "Vandalisme",
 	"vandalism-description": "doelbewus probeer om die artikel te beskadig.",
 	"countervandalism-label": "Teen-vandalisme",
 	"countervandalism-description": "verwyder of herstel vandalisme.",
+	"process-label": "Proses",
 	"other-label": "Ander",
 	"other-description": "nie een van die bogenoemde nie, los asseblief 'n nota."
 }
