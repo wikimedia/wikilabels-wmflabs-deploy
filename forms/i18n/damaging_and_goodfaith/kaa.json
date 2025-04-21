@@ -5,7 +5,14 @@
 		]
 	},
 	"damaging-help": "Bul redaktorlawdı izge qaytarmaqshımısız?",
+	"damaging-no-label": "Zıyanlı emes",
+	"damaging-no-tooltip": "Bul dúzetiw aldınǵıday saqlanıwı múmkin",
 	"damaging-yes-label": "Zıyanlı",
 	"damaging-yes-tooltip": "Bul redaktorlaw izge qaytarılıwı lazım",
+	"goodfaith-help": "Bul redaktorlaw avtorı nátiyjeli úles qosıwǵa urınıp atırǵan sıyaqlı kórine me?",
+	"goodfaith-no-label": "Nadurıs",
+	"goodfaith-no-tooltip": "Avtor bile tura zıyan keltiriwge urındı",
+	"goodfaith-yes-label": "Durıs",
+	"goodfaith-yes-tooltip": "Avtor nátiyjeli úles qosıwǵa urındı",
 	"unsure-label": "Isenimińiz kámil me?"
 }
