@@ -40,7 +40,7 @@
 	"countervandalism-label": "Võitlus vandalismiga",
 	"countervandalism-description": "vandalismi tühistamine või eemaldamine.",
 	"process-label": "Toimetusmärkuste lisamine",
-	"process-description": "vikitöövoo käivitamine või jätkamine, lisades artiklile erinevaid toimetus-, kustutamis- või liitmismalle (või neid artiklilt eemaldades).",
+	"process-description": "vikitöövoo käivitamine või jätkamine, lisades artiklile eri toimetus-, kustutamis- või liitmismalle (või neid artiklilt eemaldades).",
 	"other-label": "Muu",
 	"other-description": "miski muu kui eelpool olevad valikud, palun lisa märkus."
 }
