@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Aftabuzzaman",
+			"Aishik Rehman",
 			"আফতাবুজ্জামান"
 		]
 	},
 	"guideline-choice-label": "এই নিবন্ধের বিষয় নিম্নলিখিত কোন উল্লেখযোগ্যতার নির্দেশাবলীর (যদি থাকে) অধীনে পড়ে?",
 	"book-choice-label": "বই",
-	"event-choice-label": "ঘটনা",
+	"event-choice-label": "ইভেন্ট",
 	"film-choice-label": "চলচ্চিত্র",
 	"music-choice-label": "সঙ্গীত",
 	"person-choice-label": "ব্যক্তি",
