@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"guideline-choice-label": "Ënner wat fir eng vun dëse Richtlinne fir d'Notabilitéit (wann et se gëtt) fält de Sujet vun dësem Artikel?",
@@ -15,9 +16,9 @@
 	"other-choice-label": "Anerer",
 	"form-title": "Relevanz",
 	"notable-switch": "ass de Sujet no dëser Richtlinn relevant?",
-	"notable-no-label": "neen",
+	"notable-no-label": "nee",
 	"notable-yes-label": "jo",
 	"damaging-label": "Schiedlech?",
-	"damaging-false-label": "neen",
+	"damaging-false-label": "nee",
 	"damaging-true-label": "jo"
 }
