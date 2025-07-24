@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"JeffreyKim",
+			"Winston Sung"
+		]
+	},
+	"information-label": "資訊",
+	"added-label": "加咗",
+	"modified-label": "改咗",
+	"removed-label": "拎走咗",
+	"notes-label": "註",
+	"semanticlabels-empty": "冇揀任何意圖。唔該加個意圖或者\"其他\"。",
+	"clarification-description": "用例子或者討論去指明或者解釋現有嘅事實或者意思，而唔需要加入新嘅資料。",
+	"simplification-label": "簡化版",
+	"pov-label": "睇法",
+	"elaboration-description": "擴展或者加入實質嘅新內容；插入一個事實或者新嘅有意義嘅斷言（超出簡單嘅事實更新）。",
+	"verifiability-description": "加入來源，引文",
+	"wikification-description": "令文字更適合維基媒介，例如喺必要嘅情況下加入條拎，或者移除佢哋；將粗體文字轉換成適當嘅標題等等；或者係風格相關嘅格式變更手冊。",
+	"vandalism-label": "破壞",
+	"other-label": "其他"
+}
