@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
 	"damaging-help": "آيا غواړئ همدا سمون پر شا وتمبوئ؟",
-	"damaging-no-label": "نه",
-	"damaging-yes-label": "هو",
-	"goodfaith-no-label": "نه",
-	"goodfaith-yes-label": "هو",
+	"damaging-no-label": "نه زيانمنوي",
+	"damaging-yes-label": "زيان‌رسوونکی",
+	"goodfaith-no-label": "بد-باور",
+	"goodfaith-yes-label": "ښه-باور",
 	"unsure-label": "ناډاډمن ياست؟"
 }
