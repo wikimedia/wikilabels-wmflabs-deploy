@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"JeffreyKim",
+			"Ktchankt",
 			"Winston Sung"
 		]
 	},
@@ -16,7 +17,7 @@
 	"pov-label": "睇法",
 	"elaboration-description": "擴展或者加入實質嘅新內容；插入一個事實或者新嘅有意義嘅斷言（超出簡單嘅事實更新）。",
 	"verifiability-description": "加入來源，引文",
-	"wikification-description": "令文字更適合維基媒介，例如喺必要嘅情況下加入條拎，或者移除佢哋；將粗體文字轉換成適當嘅標題等等；或者係風格相關嘅格式變更手冊。",
+	"wikification-description": "令文字更適合維基媒介，例如喺必要嘅情況下加入條拎，或者剷走佢哋；將粗體文字轉換成適當嘅標題等等；或者係風格相關嘅格式變更手冊。",
 	"vandalism-label": "破壞",
 	"other-label": "其他"
 }
