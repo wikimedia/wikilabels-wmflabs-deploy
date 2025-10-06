@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bapham123",
 			"Minh Nguyen"
 		]
 	},
 	"fa-label": "BVCL",
 	"ga-label": "BVT",
+	"b-label": "B",
+	"c-label": "C",
 	"start-label": "Bắt đầu",
 	"stub-label": "Sơ khai",
 	"wp10-label": "Thẩm định"
