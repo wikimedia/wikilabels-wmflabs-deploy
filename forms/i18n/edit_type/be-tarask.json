@@ -4,7 +4,8 @@
 			"Kareyac",
 			"Nerogaf",
 			"Red Winged Duck",
-			"Renessaince"
+			"Renessaince",
+			"Ucukor"
 		]
 	},
 	"information-label": "Інфармацыя",
@@ -13,7 +14,7 @@
 	"modified-label": "Зьмененыя",
 	"removed-label": "Выдаленыя",
 	"notes-label": "Заўвагі",
-	"semanticlabels-label": "Абраць верагодны намер дадзенай праўкі",
+	"semanticlabels-label": "Абраць імаверны намер дадзенай праўкі",
 	"semanticlabels-empty": "Не абрана ніводнага намеру. Дадайце намер або «іншае».",
 	"bodycopy-label": "Цела артыкула",
 	"bodycopy-description": "Асноўны артыкул ці частка тэксту (у супрацьлегласьці загалоўкам, падзагалоўкам і графіцы)",
