@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Penyuwangi",
 			"Rachmat.Wahidi",
 			"Rachmat04"
 		]
@@ -40,7 +41,7 @@
 	"countervandalism-label": "Lawan Vandalisme",
 	"countervandalism-description": "mengembalikan atau menghapus vandalisme.",
 	"process-label": "Proses",
-	"process-description": "memulai atau melanjutkan alur kerja proses wiki seperti memberi tag (atau menghapusnya) dalam sebuah artikel dengan pemberitahuan perapian, penggabungan atau penghapusan.",
+	"process-description": "memulai atau melanjutkan alur kerja proses wiki seperti memberi tanda (atau menghapusnya) dalam sebuah artikel dengan pemberitahuan perapian, penggabungan atau penghapusan.",
 	"other-label": "Lainnya",
 	"other-description": "tidak ada pilihan yang sesuai, tinggalkan catatan."
 }
