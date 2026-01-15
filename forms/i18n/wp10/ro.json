@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"SZ475",
 			"Strainu"
 		]
 	},
@@ -10,5 +11,6 @@
 	"c-label": "C",
 	"start-label": "Pornește",
 	"stub-label": "Ciot",
-	"wp10-label": "Evaluare"
+	"wp10-label": "Evaluare",
+	"more-info-content": "Vedeți <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a> pentru explicații detaliate ale claselor de evaluare."
 }
