@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Red Winged Duck",
-			"Renessaince"
+			"Renessaince",
+			"Ucukor"
 		]
 	},
 	"damaging-help": "Ці адмянілі бы вы гэтую праўку?",
 	"damaging-no-label": "Бясшкодны",
 	"damaging-no-tooltip": "Гэтая праўка можа быць пакінутая як ёсьць",
 	"damaging-yes-label": "Шкодная",
-	"damaging-yes-tooltip": "Гэтая праўка павінна быць адмененая",
+	"damaging-yes-tooltip": "Гэтае рэдагаваньне трэба адрабіць",
 	"goodfaith-help": "Ці выглядае так, што аўтар гэтай праўкі спрабаваў зрабіць канструктыўны ўнёсак?",
 	"goodfaith-no-label": "Зламысная",
 	"goodfaith-no-tooltip": "Аўтар спрабаваў наўмысна нанесьці шкоду",
