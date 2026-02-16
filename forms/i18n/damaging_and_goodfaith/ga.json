@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"damaging-help": "An mbeadh tú sásta an t-eagarthóireacht seo a aisiompú?",
+	"damaging-no-label": "Gan damáiste",
+	"damaging-no-tooltip": "Is féidir an t-eagarthóireacht seo a choinneáil mar atá",
+	"damaging-yes-label": "Díobhálach",
+	"damaging-yes-tooltip": "Ba chóir an t-eagarthóireacht seo a aisiompú",
+	"goodfaith-help": "An bhfuil cuma air go raibh údar an eagarthóireachta seo ag iarraidh cur leis ar bhealach táirgiúil?",
+	"goodfaith-no-label": "Droch-chreideamh",
+	"goodfaith-no-tooltip": "Bhí an t-údar ag iarraidh damáiste a dhéanamh d'aon ghnó",
+	"goodfaith-yes-label": "Dea-chreideamh",
+	"goodfaith-yes-tooltip": "Bhí an t-údar ag iarraidh cur go táirgiúil leis",
+	"unsure-label": "Níl tú cinnte?"
+}

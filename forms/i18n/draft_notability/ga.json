@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"guideline-choice-label": "Cé acu de na treoirlínte suntasachta seo a leanas (más ann dóibh) a dtagann ábhar an ailt seo faoi?",
+	"book-choice-label": "Leabhair",
+	"event-choice-label": "Imeachtaí",
+	"film-choice-label": "Scannáin",
+	"music-choice-label": "Ceol",
+	"person-choice-label": "Daoine",
+	"org-choice-label": "Eagraíochtaí agus cuideachtaí",
+	"web-choice-label": "Ábhar gréasáin",
+	"other-choice-label": "Eile",
+	"notable-switch": "An bhfuil an topaic suntasach faoin treoirlíne seo?",
+	"notable-no-label": "níl",
+	"notable-yes-label": "tá",
+	"damaging-label": "Damáisteach?",
+	"damaging-false-label": "níl",
+	"damaging-true-label": "tá"
+}
