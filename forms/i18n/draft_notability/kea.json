@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"GrogeXaKaba"
+		]
+	},
+	"book-choice-label": "Librus",
+	"event-choice-label": "Ivéntus",
+	"film-choice-label": "Filmis",
+	"music-choice-label": "Muska",
+	"other-choice-label": "Otu",
+	"notable-no-label": "non",
+	"notable-yes-label": "aian",
+	"damaging-false-label": "non",
+	"damaging-true-label": "aian"
+}
