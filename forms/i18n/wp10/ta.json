@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aswn"
+			"Aswn",
+			"ElangoRamanujam"
 		]
 	},
+	"start-label": "தொடங்கு",
 	"stub-label": "குறுங்கட்டுரை",
 	"wp10-label": "மதிப்பீடு"
 }
