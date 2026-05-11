@@ -3,6 +3,7 @@
 		"authors": [
 			"Jerrykim306",
 			"Revi",
+			"Tensama0415",
 			"Ykhwong",
 			"그냥기여자"
 		]
@@ -30,7 +31,7 @@
 	"factupdate-label": "사실 업데이트",
 	"factupdate-description": "새로운 정보를 기반으로 하여 수치, 날짜, 점수, 회차, 상태 등을 업데이트합니다.",
 	"elaboration-label": "추가",
-	"elaboration-description": "(간단한 사실 업데이트를 넘어서) 실질적인 새로운 콘텐츠를 확장하거나 서실을 덧붙이거나 새 의미있는 주장을 삽입합니다.",
+	"elaboration-description": "(간단한 사실 업데이트를 넘어서) 실질적인 새로운 콘텐츠를 확장하거나 사실을 덧붙이거나 새 의미있는 주장을 삽입합니다.",
 	"verifiability-label": "확인 가능",
 	"verifiability-description": "출처 및 인용 추가",
 	"disambiguation-label": "동음이의",
