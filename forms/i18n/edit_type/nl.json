@@ -6,7 +6,7 @@
 		]
 	},
 	"information-label": "Gegevens",
-	"information-tooltip": "Vink deze vakjes aan als feiten of zinvolle gegevens veranderd zijn. Het is mogelijk dat tekst gewijzigd is zonder dat gegevens wijzigen.",
+	"information-tooltip": "Vink deze vakjes aan als feiten of zinvolle gegevens gewijzigd zijn. Het is mogelijk dat tekst gewijzigd is zonder dat gegevens wijzigen.",
 	"added-label": "Toegevoegd",
 	"modified-label": "Aangepast",
 	"removed-label": "Verwijderd",
@@ -34,7 +34,7 @@
 	"disambiguation-label": "Disambigueren",
 	"disambiguation-description": "het wijzigen van een koppeling naar een doorverwijspagina naar een koppeling naar de specifieke pagina.",
 	"wikification-label": "Wikificatie",
-	"wikification-description": "tekst meer geschikt maken voor het medium wiki, bijvoorbeeld door het toevoegen van koppelingen, of door ze als nodig te verwijderen; het toevoegen van de juist (sub)koppen, enzovoort; veranderingen gerelateerd aan de stijlrichtlijnen.",
+	"wikification-description": "tekst meer geschikt maken voor het medium wiki, bijvoorbeeld door het toevoegen van koppelingen, of door ze als nodig te verwijderen; het toevoegen van de juist (sub)koppen, enzovoort; wijzigingen gerelateerd aan de stijlrichtlijnen.",
 	"vandalism-label": "Vandalisme",
 	"vandalism-description": "bewust proberen om de pagina te beschadigen",
 	"countervandalism-label": "Anti-vandalisme",
