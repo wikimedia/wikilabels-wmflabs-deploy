@@ -1,17 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
 	"information-label": "مالومات",
 	"added-label": "ورگډ شو",
+	"modified-label": "بدلېدلې",
+	"removed-label": "لرې‌شوی",
 	"notes-label": "يادښتونه",
+	"copyediting-label": "لمېسل سمون",
 	"clarification-label": "رڼښت",
 	"simplification-label": "ساده کېدنه",
 	"pov-label": "ليدلوری",
+	"refactoring-label": "بياسازونه",
+	"factupdate-label": "رښتينولي هممهالول",
 	"verifiability-label": "تاييدېدنه",
 	"verifiability-description": "سرچينې ورگډول، اخځ",
+	"disambiguation-label": "څومانيز",
+	"disambiguation-description": "د څونامي مخ تړونی مشخص مخ ته واړوئ.",
 	"wikification-label": "ويکي کېدنه",
 	"vandalism-label": "ورانکاري",
 	"process-label": "بهير",

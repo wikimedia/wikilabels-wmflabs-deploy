@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان",
 			"عثمان منصور انصاري"
 		]
 	},
@@ -10,9 +11,13 @@
 	"film-choice-label": "فېلمونه",
 	"music-choice-label": "موسيقي",
 	"person-choice-label": "خلک",
+	"org-choice-label": "سازمانونه او شرکتونه",
+	"web-choice-label": "وېب منځپانگه",
 	"other-choice-label": "نور",
+	"form-title": "پام‌وړ",
 	"notable-no-label": "نه",
 	"notable-yes-label": "هو",
+	"damaging-label": "زيان‌رسوونکې؟",
 	"damaging-false-label": "نه",
 	"damaging-true-label": "هو"
 }
