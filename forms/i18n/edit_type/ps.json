@@ -22,6 +22,9 @@
 	"disambiguation-description": "د څونامي مخ تړونی مشخص مخ ته واړوئ.",
 	"wikification-label": "ويکي کېدنه",
 	"vandalism-label": "ورانکاري",
+	"vandalism-description": "په قصدي ډول ليکنې ته د زيان رسولو هڅه کول.",
+	"countervandalism-label": "ورانکارۍ ضد",
+	"countervandalism-description": "د ورانکارۍ په څټ گرځول يا لرې‌کول.",
 	"process-label": "بهير",
 	"other-label": "نور",
 	"other-description": "له پورتنيو څخه يو هم نه، لطفاً يو يادښت پرېږدئ."
