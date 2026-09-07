@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"باران",
 			"شاه زمان پټان",
 			"عثمان منصور انصاري"
 		]
 	},
+	"guideline-choice-label": "د دې ليکنې د سکالو د پام وړتوب لاندې کومې لارښودکرښې (که شتون ولري)  راځي؟",
 	"book-choice-label": "کتابونه",
 	"event-choice-label": "پېښې",
 	"film-choice-label": "فېلمونه",
@@ -15,6 +17,7 @@
 	"web-choice-label": "وېب منځپانگه",
 	"other-choice-label": "نور",
 	"form-title": "پام‌وړ",
+	"notable-switch": "ايا سکالو د دې لارښود کرښې لاندې د پام وړ ده؟",
 	"notable-no-label": "نه",
 	"notable-yes-label": "هو",
 	"damaging-label": "زيان‌رسوونکې؟",
