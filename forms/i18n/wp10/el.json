@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Geraki",
 			"NikosLikomitros",
 			"Nikosgranturismogt"
 		]
@@ -11,5 +12,6 @@
 	"c-label": "C",
 	"start-label": "Έναρξη",
 	"stub-label": "Λήμμα προς επέκταση",
-	"wp10-label": "εκτίμηση"
+	"wp10-label": "εκτίμηση",
+	"more-info-content": "Δείτε <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">την αξιολόγηση WP:WikiProject</a> για λεπτομερείς εξηγήσεις των κλάσεων αξιολόγησης."
 }
