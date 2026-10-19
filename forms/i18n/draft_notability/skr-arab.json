@@ -1,15 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
+	"guideline-choice-label": "ہیٹھ درج نمایاںتا دے رہنما اصولاں اچوں (جے کوئی ہے تاں) ایں مضمون دا موضوع کہڑے تے پُرتا اتردا ہے؟",
 	"book-choice-label": "کتاباں",
 	"event-choice-label": "واقعہ",
 	"film-choice-label": "فلماں",
 	"music-choice-label": "موسیقی",
 	"person-choice-label": "لوک",
+	"org-choice-label": "تنظیماں تے کمپنیاں",
+	"web-choice-label": "ویب مواد",
 	"other-choice-label": "ٻیا",
+	"form-title": "نمایاںتا",
+	"notable-switch": "آیا ایں رہنما اصول دے تحت موضوع نمایاں ہے؟",
 	"notable-no-label": "کو",
 	"notable-yes-label": "جیا",
 	"damaging-label": "نقصان؟",

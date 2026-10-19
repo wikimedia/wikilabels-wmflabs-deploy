@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
 	"fa-label": "ایف اے",
@@ -9,5 +10,7 @@
 	"b-label": "بی",
 	"c-label": "سی",
 	"start-label": "شروع",
-	"stub-label": "سٹٻ"
+	"stub-label": "سٹٻ",
+	"wp10-label": "پرکھ",
+	"more-info-content": "درجات دی تفصیلی وضاحت کیتے <a href=\"https://en.wikipedia.org/wiki/WP:WikiProject_assessment\">WP:WikiProject assessment</a> ݙیکھو۔"
 }

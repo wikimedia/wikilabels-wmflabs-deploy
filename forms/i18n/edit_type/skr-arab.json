@@ -1,22 +1,46 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
 	"information-label": "معلومات",
+	"information-tooltip": "ایں ڈبیاں کوں ٹک کرو جے حقائق یا معنی خیز معلومات تبدیل تھی ہوون۔ یاد رکھو کہ مضمون اچلی معلومات تبدیل کیتے بغیر وی \"باڈی کاپی\" تبدیل تھی سڳدی ہے۔",
 	"added-label": "جمع تھی ڳئے",
 	"modified-label": "تبدیل تھی ڳیا",
 	"removed-label": "ہٹا ݙتے",
 	"notes-label": "نوٹس",
+	"semanticlabels-label": "ایں ترمیم دا ممکنہ ارادہ چݨو",
+	"semanticlabels-empty": "کوئی ارادہ نئیں چݨیا ڳیا۔ کوئی ارادہ یا \"دیگر\" شامل کرو۔",
+	"bodycopy-label": "اصل متن",
+	"bodycopy-description": "اہم مضمون یا متن دا حصہ (سرخیاں، ذیلی سرخیاں تے تصویری خاکاں توں وکھرا)",
+	"copyediting-label": "متن دی درستی",
+	"copyediting-description": "دوبارہ لکھو؛ گرامر، ہجے، لہجہ یا رموزِ اوقاف بہتر کرو۔",
 	"clarification-label": "وضاحت",
+	"clarification-description": "نویں معلومات شامل کیتے بغیر کہیں موجودہ حقیقت یا معنی کوں مثال یا بحث نال واضح کرو یا سمجھاو۔",
 	"simplification-label": "سادہ کرݨ",
+	"simplification-description": "بحث دی پیچیدگی یا پھیلار گھٹاو؛ معلومات ہٹا وی سڳدے۔",
 	"pov-label": "نقطہ نظر",
+	"pov-description": "دائرۃ المعارف والے غیرجانبدار لہجے اچ دوبارہ لکھو؛ تعصب ہٹاو؛ مناسب وزن ݙیو۔",
 	"refactoring-label": "ولدا منظم کرݨ",
+	"refactoring-description": "مضمون دی ساخت نویں بݨاو؛ مواد کوں منتقل کرو تے دوبارہ لکھو، ایندا مطلب تبدیل کیتے بغیر۔",
 	"factupdate-label": "حقیقت کوں نویں نکور اپ ڈیٹ کرݨ",
+	"factupdate-description": "نویں دستیاب معلومات دے بنیاد تے اعداد، تاریخاں، سکور، قسطاں، حیثیت وغیرہ کوں تازہ کرو۔",
 	"elaboration-label": "تفصیل",
+	"elaboration-description": "نویں ٹھوس مواد ودھاو یا شامل کرو؛ (سادہ حقیقت اپ ڈیٹ توں ودھ کے) کوئی حقیقت یا نویں معنی خیز دعویٰ داخل کرو۔",
 	"verifiability-label": "تصدیقیت",
 	"verifiability-description": "ماخذ تے حوالے شامل کرو",
+	"disambiguation-label": "ابہام رفع",
+	"disambiguation-description": "کہیں ابہام صفحے دے لنک کوں مخصوص صفحے دے لنک اچ تبدیل کرو۔",
+	"wikification-label": "ویکی سازی",
+	"wikification-description": "متن کوں ویکی ماحول کیتے ودھیک مناسب بݨاو، مثلاً لنک شامل کرو، یا جتھاں ضروری ہووے ہٹاو؛ موٹے متن کوں مناسب سرخیاں اچ بدلو؛ طرزِ تحریر نال متعلق تبدیلیاں؛ فارمیٹنگ",
+	"vandalism-label": "تخریب کاری",
+	"vandalism-description": "جان بُجھ کے مضمون کوں نقصان پہنچاوݨ دی کوشش۔",
+	"countervandalism-label": "تخریب کاری دی روک تھام",
+	"countervandalism-description": "تخریب کاری واپس کرو یا ہٹا ݙیو۔",
 	"process-label": "پراسس",
-	"other-label": "ٻیا"
+	"process-description": "کہیں ویکی عمل دا ورک فلو شروع کرو یا جاری رکھو، جیویں کہیں مضمون تے صفائی، ضم یا حذف دی نوٹس دا ٹیگ لاوݨ (یا ٹیگ ہٹاوݨ)",
+	"other-label": "ٻیا",
+	"other-description": "ایں وچوں کوئی نئیں، مہربانی کر کے نوٹ چھوڑ ݙیو۔"
 }
